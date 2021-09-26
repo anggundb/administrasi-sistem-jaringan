@@ -1,0 +1,9 @@
+login sebagai superuser/root
+# nano /etc/apt/sources.list
+tambahkan : 
+      deb http://kartolo.sby.datautama.net.id/debian/ bullseye main contrib non-free
+      deb http://kartolo.sby.datautama.net.id/debian/ bullseye-updates main contrib non-free
+      deb http://kartolo.sby.datautama.net.id/debian-security/ bullseye/updates main contrib non-free
+simpan (ctrl+x, y, enter)
+cek koneksi internet
+# apt update
