@@ -1,0 +1,60 @@
+# apt install isc-dhcp-server -y
+# nano /etc/default/isc-dhcp-server
+  tambahkan:
+  INTERFACEv4="enp0s3"
+# nano /etc/dhcp/dhcpd.conf
+  cari baris "A slightly different", lalu hapus tanda pagar (#) di depannya dari subnet sampai tutup kurung kurawal
+  subnet 192.168.100.0 netmask 255.255.255.0 {       > subnet isi dengan Network Anda, netmask sesuaikan dengan Subnetmask Network Anda
+    range 192.168.100.100 192.168.100.200;           > range isi IP Address yang akan disewakan ke Client
+    option domain-name-servers 192.168.100.1;        > option domain-name-servers isi dengan IP DNS Anda
+    option domain-name "direktoriku.com";            > option domain-name silahkan masukan nama domain Anda
+    option routers 192.168.100.1;                    > option routers isi dengan IP Gateway
+    option broadcast-address 192.168.100.255;        > option broadcast-address silahkan isi IP broadcast Network Anda
+    default-lease-time 600;                          > default-lease-time 600 bagian ini adalah defaultnya 600 atau 10 menit, bisa kita ubah
+    max-lease-time 7200;                             > max-lease-time defaultnya adalah 7200 detik atau 2 jam, bisa kita ubah
+  }
+# systemctl restart isc-dhcp-server.service
+# systemctl status isc-dhcp-server.service 
+  Loaded : enabled
+  Active : active (running)
+
+=Pengujian=
+- Jalankan PC Client dan terhubung ke dalam satu jaringan dengan debian server (setting IP ke DHCP/Obtain).
+- PC Client harus menerima IP dengan range 192.168.100.100-200.
+
+
+=Permasalahan=
+# systemctl status isc-dhcp-server.service 
+  Loaded : enabled
+  Active : failed (Result: exit-code)
+    isc-dhcp-server.service: Failed with result 'exit-code'.
+
+Solusi:
+cek files 
+ - /etc/dhcp/dhcpd.conf 
+ - /etc/default/isc-dhcp-server
+ - /etc/network/interfaces
+cek konfigurasi dari ketiga file tersebut dan pastikan tidak ada yang salah penulisan, pemberian IP harus satu jaringan
+cek juga "journalctl -ex"
+
+=Permasalahan 2=
+# systemctl restart isc-dhcp-server.service
+# systemctl status isc-dhcp-server.service
+  Loaded  : loaded (generated)
+  Active  : failed (Result: exit-code)
+  Process : 424 
+  debian dhcpd[439] : before submitting a bug. 
+  
+Solusi:
+Check the process ID; like 424 and command:
+$ journalctl _PID=2167 {your PID should be different}
+cek:
+# journalctl _PID=439
+  No subnet declaration for enp0s3 (192.168.0.1)
+  ganti IP Address enp0s3 menjadi satu jaringan dengan setingan ip dhcp server kita.
+  
+
+
+Referensi:
+https://www.krisnawanto777.com/2020/10/install-dhcp-server-debian-10.html
+https://stackoverflow.com/questions/67928140/isc-dhcp-server-status-failed-failed-with-result-exit-code
