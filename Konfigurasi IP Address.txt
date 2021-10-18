@@ -8,3 +8,22 @@ tambahkan :
         dns-nameservers 8.8.8.8 8.8.4.4
 # /etc/init.d/networking restart
 # ip a
+
+
+==Restart IP Address menggunakan systemd==
+# systemctl restart networking
+# systemctl status networking
+  Loaded : enabled
+  Active : active
+# ip a
+  status DOWN
+# ifup enp0s3        > turn on 
+# ip a               > see ip address info
+
+# ifdown enp0s3      > turn off
+# ifup enp0s3        > turn on
+# ip a show enp0s3   > see ip address info
+
+
+Referensi: 
+https://www.cyberciti.biz/faq/linux-restart-network-interface/
