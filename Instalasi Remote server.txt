@@ -1,0 +1,53 @@
+# apt install openssh-server -y
+# systemctl start ssh
+# systemctl enable ssh
+# systemctl status ssh
+
+Pengujian di client (IP client harus satu jaringan dengan server SSH)
+- Linux 
+  # apt install openssh-client -y
+    - login ssh dengan format : ssh user@ip_server
+    - misal : ssh asj@192.168.1.199
+    - lalu masukkan password user 
+    - setelah itu masuk ke super user menggunakan "su" dan masukkan password "root"
+ - Windows
+   - menggunakan cmd/command prompt
+   - login ssh dengan format : ssh user@ip_server 
+   - misal : ssh asj@192.168.1.199
+   - lalu beri konfirmasi "yes" dan masukkan password user 
+   - setelah itu masuk ke super user menggunakan "su" dan masukkan password "root"
+   - untuk memutus koneksi ke SSH server ketikan perintah exit (enter), exit (enter)
+   
+   - menggunakan Putty (install Putty)
+   - masukkan IP server, port: 22 (default), connection type: SSH
+   - klik open
+   - lalu beri konfirmasi "yes" dan masukkan password user 
+   - setelah itu masuk ke super user menggunakan "su" dan masukkan password "root"
+
+Cek port yang aktif:
+# apt install net-tools
+# netstat -tulpn
+  LISTEN = AKTIF
+
+Mengubah port SSH:
+# nano /etc/ssh/sshd_config
+  hilangkan tanda pagarnya 
+  Port 22              > ganti Port 49152
+  PermitRootLogin yes  > supaya bisa langsung login menggunakan root 
+
+# systemctl restart ssh
+# systemctl status ssh
+# netstat -tulpn | grep ssh
+  untuk memfilter ssh saja yang muncul
+
+Login di Client (command prompt dan CLI):
+# ssh asj@192.168.1.199 -p 49152
+# ssh root@192.168.1.199 -p 49152  > langsung login dengan root
+
+  
+
+
+
+
+Referensi:
+https://www.linuxsec.org/2020/02/mengatasi-netstat-command-not-found-di-debian.html
