@@ -1,0 +1,89 @@
+==HANYA FORWARD==
+# apt install bind9 dnsutils -y 
+# cd /etc/bind
+# ls -l
+  ada 2 file yang perlu kita perhatikan:
+  - named.conf.local
+  - db.local
+
+Buat Zone Forward
+# nano named.conf.local
+  tambahkan:
+  zone "coba.ac.id" {
+        type master;
+        file "/etc/bind/zones/db.coba.ac.id";
+  };
+  simpan (ctrl+x, y, enter)
+
+Buat Forward Zone File 
+# mkdir /etc/bind/zones
+# cd /etc/bind/zones
+# cp ../db.local db.coba.ac.id        > ../ (mengambil dari direktori sebelumnya) 
+# nano /etc/bind/zones/db.coba.ac.id
+  edit jadi:
+  $TTL 604800
+  @     IN     SOA    ns1.coba.ac.id. admin.coba.ac.id. (
+                       2021080301   ; Serial
+                           604800   ; Refresh
+                            84600   ; Retry
+                          2419200   ; Expire
+                           604800 ) ; Negative Cache TTL
+  ;
+  ; name servers - NS records
+        IN      NS      ns1.coba.ac.id.
+        IN      NS      ns2.coba.ac.id.
+        
+  ; name servers - A records
+  ns1.coba.ac.id.     IN    A     192.168.1.199
+  ns2.coba.ac.id.     IN    A     192.168.1.199
+  
+  ; 192.168.1.0/24 - A records
+  www.coba.ac.id.     IN    A     192.168.1.199
+  coba.ac.id.         IN    A     192.168.1.199
+  coba.ac.id.         IN    MX 10 coba.ac.id.
+  
+  simpan (ctrl+x, y, enter)
+
+Tes:
+# cd /etc/bind/zones
+# named-checkzone coba.ac.id db.coba.ac.id
+  OK
+
+Restart:
+# service bind9 restart
+# systemctl start bind9
+
+Pengujian:
+Atur Name Server Client (coba di server untuk cek)
+- Linux 
+  # nano /etc/resolv.conf
+    tambahkan:
+    nameserver 192.168.1.199
+  Tes:
+  # dig NS coba.ac.id @localhost
+    hasilnya nameserver yang membawa informasi tentang coba.ac.id jawabannya ada 2 yaitu ns1 dan ns2
+  # dig www.coba.ac.id @localhost
+  # dig coba.ac.id @localhost
+  # dig MX coba.ac.id @localhost
+    jika kirim email ke coba.ac.id, kirimnya kemana?
+    
+  # dig NS coba.ac.id @ns1.coba.ac.id
+    hasilnya nameserver yang membawa informasi tentang coba.ac.id jawabannya ada 2 yaitu ns1 dan ns2
+  # dig www.coba.ac.id @ns1.coba.ac.id
+  # dig coba.ac.id @ns1.coba.ac.id
+  # dig MX coba.ac.id @ns1.coba.ac.id
+    jika kirim email ke coba.ac.id, kirimnya kemana?
+  
+- Windows
+  - Tambahkan IP DNS Server ke Client 
+  - Lalu akses alamat domain lewat browser
+  
+  
+  
+Referensi:
+https://www.youtube.com/watch?v=zOxMUOSX0Ac
+  
+  
+
+        
+        
