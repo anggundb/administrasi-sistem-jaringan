@@ -1,0 +1,173 @@
+# apt install apache2 -y
+
+Cek : 
+Akses IP Address server di browser client.
+Jika berhasil akan muncul tampilan : Apache2 Debian Default Page
+
+=Konfigurasi VirtualHost 1=
+Untuk membuat banyak website dalam satu server/IP.
+# cd /etc/apache2
+# ls -l
+  ada 3 file yang perlu diperhatikan:
+  - apache2.conf       > link
+  - sites-available    > tempat membuat file .conf (000-default.conf > file default) 
+  - sites-enabled      > untuk menempatkan/enable VirtualHost
+
+# nano apache2.conf
+# ls -l ./sites-enabled/
+  (link) lrw  000-default.conf -> ../sites-available/000-default.conf
+# nano ./sites-available/000-default.conf  
+  (settingan default yang mengarahkan apache ke /var/www/html)
+# cd /var/www/
+# mkdir coba.ac.id
+# ls -l 
+  - html
+  - coba.ac.id
+# cd /coba.ac.id
+# nano index.html
+  <html>
+    <head>
+      <title>coba.ac.id</title>
+    </head>
+    <body>
+      <h1>Belajar virtual host</h1>  
+    </body>
+  </html>
+  simpan (ctrl+x, y, enter)
+# cd /etc/apache2
+# nano ./sites-available/coba.ac.id.conf  (membuat file .conf)
+  tambahkan: 
+  <VirtualHost *:80>
+    ServerAdmin admin@coba.ac.id
+    ServerName coba.ac.id
+    ServerAlias www.coba.ac.id
+    DocumentRoot /var/www/coba.ac.id
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+  </VirtualHost>
+  simpan (ctrl+x, y, enter)
+# ls -l ./sites-enabled/  (melihat file .conf yang aktif)
+# a2ensite coba.ac.id.conf  (untuk mengaktifkan virtualhost)
+  enable
+untuk mengaktifkan virtualhost bisa juga menggunakan:
+# ln -s ./sites-available/coba.ac.id.conf ./sites-enabled/coba.ac.id.conf
+
+# ls -l ./sites-enabled/  (cek file yang sudah dienable)
+  lrw  000-default.conf -> ../sites-available/000-default.conf
+  lrw  coba.ac.id.conf -> ../sites-available/coba.ac.id.conf
+# systemctl reload apache2
+
+
+
+=Konfigurasi VirtualHost 2=
+Buat Direktori
+# mkdir -p /var/www/html/webmirror/test.ac.id/  > -p (supaya tidak ada error, jika sudah ada)
+# mkdir -p /var/www/html/webmirror/coba.ac.id/
+# chown -Rf nobody: /var/www/html/webmirror/test.ac.id/
+# chown -Rf nobody: /var/www/html/webmirror/coba.ac.id/
+# chmod -Rf 755 /var/www/html/webmirror/
+# chown -Rf nobody: /var/www/html/webmirror/
+Buat Halaman Web
+# nano /var/www/html/webmirror/test.ac.id/index.html
+  tambahkan:
+  <html>
+    <head>
+      <title>Welcome to test.ac.id!</title>
+    </head>
+    <body>
+      <h1>Success! The test.ac.id virtual host is working!</h1>
+    </body>
+  </html>
+  simpan (ctrl+x, y, enter)
+# cp /var/www/html/webmirror/test.ac.id/index.html /var/www/html/webmirror/coba.ac.id/index.html  
+# nano /var/www/html/webmirror/coba.ac.id/index.html
+  edit: 
+  <html>
+    <head>
+      <title>Welcome to coba.ac.id!</title>
+    </head>
+    <body>
+      <h1>Success! The coba.ac.id virtual host is working!</h1>
+    </body>
+  </html>
+  simpan (ctrl+x, y, enter)
+
+Buat Virtual Host
+# cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/test.ac.id.conf
+# nano /etc/apache2/sites-available/test.ac.id.conf
+  tambahkan:
+  <VirtualHost *:80>
+    ServerAdmin admin@test.ac.id
+    ServerName test.ac.id
+    ServerAlias www.test.ac.id
+    DocumentRoot /var/www/html/webmirror/test.ac.id
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+  </VirtualHost>
+  simpan (ctrl+x, y, enter)
+# cp /etc/apache2/sites-available/test.ac.id.conf /etc/apache2/sites-available/coba.ac.id.conf
+# nano /etc/apache2/sites-available/coba.ac.id.conf
+  tambahkan:
+  <VirtualHost *:80>
+    ServerAdmin admin@coba.ac.id
+    ServerName coba.ac.id
+    ServerAlias www.coba.ac.id
+    DocumentRoot /var/www/html/webmirror/coba.ac.id
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+  </VirtualHost>
+
+Enable Virtual Host
+# a2ensite test.ac.id.conf
+# a2ensite coba.ac.id.conf
+
+Disable Virtual Host
+# a2dissite 000-default.conf
+
+Restart
+# systemctl restart apache2
+# service apache2 restart
+# service apache2 reload
+
+
+Pengujian di Client
+- Linux
+  # nano /etc/hosts
+    tambahkan:
+    127.0.0.1   localhost
+    127.0.1.1   guest-desktop
+    192.168.1.199 test.ac.id
+    192.168.1.199 www.test.ac.id
+    192.168.1.199 coba.ac.id
+    192.168.1.199 www.coba.ac.id
+    simpan (ctrl+x, y, enter)
+
+    Dimana
+    192.168.1.199 adalah IP address server virtual
+  Lalu akses di web browser dengan mengetikkan nama domain tadi (test.ac.id dan coba.ac.id)  
+
+- Windows
+  Edit File Hosts
+  - Tekan tombol Windows
+  - Ketik Notepad di kotak pencarian
+  - Ketika sudah muncul, klik kanan Notepad dan pilih Run as administrator
+  - Kemudian dari Notepad, buka file berikut:
+    c:\Windows\System32\Drivers\etc\hosts
+  - Pilih All Files
+  - Isikan: 
+    127.0.0.1   localhost
+    127.0.1.1   guest-desktop
+    192.168.1.199 test.ac.id
+    192.168.1.199 www.test.ac.id
+    192.168.1.199 coba.ac.id
+    192.168.1.199 www.coba.ac.id
+  - Kemudian Save
+  - ping coba.ac.id   >> pastikan replaynya dari IP 192.168.1.199 (IP server virtual)
+  - Lalu akses di web browser dengan mengetikkan nama domain tadi (test.ac.id dan coba.ac.id) 
+
+
+
+Referensi:
+https://lms.onnocenter.or.id/wiki/index.php/Apache:_Virtual_Host_2
+https://www.youtube.com/watch?v=x5fWSWdM4F8
+https://bolosaholic.com/edit-file-hosts/
