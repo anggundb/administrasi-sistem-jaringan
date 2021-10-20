@@ -78,7 +78,9 @@ Atur Name Server Client (coba di server untuk cek)
   - Tambahkan IP DNS Server ke Client 
   - Lalu akses alamat domain lewat browser
   
-  
+
+Gabungkan dengan Apache:
+Jadi ketika akses dibrowser menggunakan alamat domain, maka web di apache akan muncul.
   
 Referensi:
 https://www.youtube.com/watch?v=zOxMUOSX0Ac
