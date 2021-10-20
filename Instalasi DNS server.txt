@@ -76,7 +76,7 @@ Atur Name Server Client (coba di server untuk cek)
   
 - Windows
   - Tambahkan IP DNS Server ke Client 
-  - Lalu akses alamat domain lewat browser
+  - Lalu akses alamat domain lewat browser http://namadomain
   
 
 Gabungkan dengan Apache:
