@@ -77,7 +77,7 @@ Atur Name Server Client (coba di server untuk cek)
 - Windows
   - Tambahkan IP DNS Server ke Client 
   - Ping nama_domain
-    pastika dapat replay dari IP DNS
+    pastikan dapat replay dari IP DNS
   - Lalu akses alamat domain lewat browser http://namadomain
   
 
