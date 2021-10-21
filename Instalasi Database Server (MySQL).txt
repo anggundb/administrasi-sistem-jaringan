@@ -1,0 +1,27 @@
+To install MySQL 8 on Debian 11, you need to install MySQL APT repositories;
+First off, download MySQL APT repository installer from the downloads page.
+MySQL is not available in the default Debian’s repositories. You need to install MySQL APT repository on Debian 11:
+
+
+# apt install wget
+# cd /tmp 
+# wget https://repo.mysql.com//mysql-apt-config_0.8.18-1_all.deb    > download
+# apt install ./mysql-apt-config_0.8.18-1_all.deb                   > install the repository installer
+
+Configuring mysql-apt-config
+- Debian 11 is currently not supported, but repositories for Debian 10 buster can be used. Hence, select debian buster and Ok to proceed.
+  (pilih Debian Buster lalu OK)
+- Next, select Ok and then Ok to proceed. 
+  (pilih OK dan OK untuk melanjutkan proses)
+- The script may prompt you to once again select the product. (Ok > Ok).
+  (pilih OK > OK)
+- Once the repository is setup, update the system packages;
+# apt update
+
+Install MySQL 8 on Debian 11 by running the command below;
+# apt install mysql-server
+
+
+
+Referensi:
+https://itnixpro.com/install-mysql-8-on-debian-11/
