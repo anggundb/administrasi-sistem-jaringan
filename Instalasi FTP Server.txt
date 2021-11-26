@@ -1,0 +1,9 @@
+
+Secara default vsftpd listen on port tcp6 port 21 => lihat menggunakan netstat -npl
+install netstat menggunakan net-tools
+
+
+
+
+Referensi:
+https://linuxhint.com/install-netstat-debian-11/
