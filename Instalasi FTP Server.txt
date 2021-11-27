@@ -1,9 +1,26 @@
 
+
+Kata kunci search on google : web browser support ftp
+- Firefox version 88 (or newer) Microsoft Edge version 90 (or newer) Google Chrome version 90 (or newer) 
+  (NOTE: Internet Explorer and Windows File Explorer are two other options   to use for accessing FTP sites.)
+
+Enabling_Access_to_FTP_Sites FIREFOX
+- Open Firefox.
+- In the URL field, enter about:config
+- Next, click the ‘Accept the Risk and Continue’ button.
+- On the next page, enter ‘ftp’ in the search field.
+- Double click on the ‘network.ftp.enabled’ setting or click the toggle icon to the far right in order to change this setting to ‘true’.
+- Restart Firefox.
+
+
 Secara default vsftpd listen on port tcp6 port 21 => lihat menggunakan netstat -npl
 install netstat menggunakan net-tools
+
+anonymous_enable=YES  ==> siapapun bisa masuk ke ftp tanpa password
 
 
 
 
 Referensi:
+https://www.mccdaq.com/pdfs/Enabling_Access_to_FTP_Sites.pdf
 https://linuxhint.com/install-netstat-debian-11/
