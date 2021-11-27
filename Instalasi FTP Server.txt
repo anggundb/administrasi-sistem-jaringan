@@ -18,6 +18,8 @@ install netstat menggunakan net-tools
 
 anonymous_enable=YES  ==> siapapun bisa masuk ke ftp tanpa password
 
+Pengujian di browser
+ketik ==> ftp://192.168.1.89/
 
 
 
