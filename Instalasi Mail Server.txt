@@ -1,0 +1,54 @@
+DNS
+# apt install bind9 dnsutils -y 
+# cd /etc/bind
+# nano named.conf.local
+  tambahkan:
+  zone "coba.ac.id" {
+        type master;
+        file "/etc/bind/zones/db.coba.ac.id";
+  };
+  
+  zone "1.168.192.in-addr.arpa" {
+        type master;
+        notify no;
+        file "/etc/bind/zones/db.1";
+  };
+
+
+Buat Forward dan Reverse Zone File 
+# mkdir /etc/bind/zones
+# cd /etc/bind/zones
+# cp ../db.local db.coba.ac.id        > ../ (mengambil dari direktori sebelumnya) 
+# cp ../db.127 db.1        > ../ (mengambil dari direktori sebelumnya) 
+# nano /etc/bind/zones/db.coba.ac.id
+  tambahkan 
+  mail  IN  A  192.168.1.89
+# nano /etc/bind/zones/db.1
+  tambahkan 
+  89  IN  PTR  mail.coba.ac.id.
+  
+Tambahkan file resolv.conf
+# nano /etc/resolv.conf
+  tambahkan 
+  nameserver 192.168.1.89
+  search coba.ac.id
+  
+Restart
+# systemctl restart bind9
+# systemctl status bind9
+
+Pengujian:
+# nslookup 192.168.1.89
+# nslookup coba.ac.id
+# nslookup www.coba.ac.id
+# nslookup mail.coba.ac.id
+  
+
+
+MAIL SERVER
+
+Referensi
+https://www.youtube.com/watch?v=ExP0Hq0VWbg
+https://www.youtube.com/watch?v=U3z-enD12HM --- kirim email manual
+https://mediatemple.net/community/products/dv/204404584/sending-or-viewing-emails-using-telnet
+https://www.youtube.com/watch?v=XN609IbqR84
