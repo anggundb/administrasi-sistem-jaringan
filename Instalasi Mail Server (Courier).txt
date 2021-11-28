@@ -1,0 +1,42 @@
+- SMTP    : Postfix
+- POP3    : couerier-pop
+- IMAP    : courier-imap
+- Webmail : roundcube
+
+# apt install postfix courier-imap courier-pop -y
+  - create directories for : YES
+  - SSL : OK
+  - Courier MTA : OK
+  - General type : internet site
+  - system mail name : coba.ac.id
+# maildirmake /etc/skel/Maildir
+# nano /etc/postfix/main.cf
+  tambahkan
+  home_mailbox = Maildir/
+# dpkg-reconfigure postfix  
+  - General type : internet site
+  - system mail name : coba.ac.id
+  - Root and Postmaster mail recipient : kosongkan
+  - Other destinations to accept mail for (blank for none): silahkan anda lanjut saja
+  - Force synchronus updates on mail queue : silahkan anda memilih opsi No
+  - LocalNetwork : silahkan anda tambahkan konfigurasi 0.0.0.0/0 pada bagian belakang sendiri
+  - Mailbox Size limit (bytes) : biarkan saja tak perlu dilakukan konfigurasi
+  - Local address extension character : anda juga tidak perlumelakukan konfigurasi disii. Ini nantinya akan digunakan untuk ekstensipenyimpanan alamat telp (+62 xxxxxxxxxx)
+  - internet protokol : ipv4
+  
+# service postfix restart
+# service courier-imap restart
+# service courier-pop restart
+
+Sekarang kita perlu menambahkan sebuah subdomain yang nantinyaakan digunakan oleh mail server kita. Misalnya(mail.namadomainanda). tentunya hal ini juga mempermudah penggunaatau client dari server anda. Edit
+file zone forward
+, yang pernah andabuat dengan perintah
+nano /var/cache/bind/db.endrif
+
+cek
+# telnet mail.nama_domain_anda 25
+# telnet.nama_domain_anda 110
+
+
+Referensi
+https://www.academia.edu/36940583/Bab_9_Installasi_dan_Konfigurasi_Mail_Server_dan_Webmail_Pada_Linux_Debian_9
