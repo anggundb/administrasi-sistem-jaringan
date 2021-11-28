@@ -1,0 +1,34 @@
+# apt install apache2 apache2-utils -y
+# systemctl restart apache2
+# systemctl status apache2
+Pengujian apache : ketik IP Address dibrowser lalu tekan enter
+
+# apt install mariadb-server mariadb-client -y
+# systemctl restart mariadb
+# systemctl status mariadb
+Pengujian mariadb : 
+# mysql -u root -p 123
+  isikan password databasenya
+  MariaDb > show databases;
+
+# apt install php-mysql libapache2-mod-php -y
+# echo "<?php phpinfo(); ?>" | tee /var/www/html/info.php
+Pengujian php : ketik IP Address/info.php dibrowser lalu tekan enter
+
+# apt install phpmyadmin -y
+Pengujian phpmyadmin : ketik IP Address/phpmyadmin dibrowser lalu tekan enter
+- isikan user dan password
+
+Buat user yang bisa akses full:
+# mysql -u root -p 123
+MariaDb > CREATE USER 'user'@'localhost' IDENTIFIED BY '123';  ==>(username = user dan password = 123)
+MariaDb > GRANT ALL PRIVILEGES ON *.* TO 'user'@'localhost';
+MariaDb > FLUSH PRIVILEGES;
+MariaDb > exit    ===> untuk keluar
+Lalu masukkan user dan password yang sudah kita buat di phpmyadmin
+
+
+
+  
+Referensi
+https://www.youtube.com/watch?v=yEGGniSdldo
