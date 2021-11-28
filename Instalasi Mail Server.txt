@@ -22,10 +22,16 @@ Buat Forward dan Reverse Zone File
 # cp ../db.127 db.1        > ../ (mengambil dari direktori sebelumnya) 
 # nano /etc/bind/zones/db.coba.ac.id
   tambahkan 
-  mail  IN  A  192.168.1.89
+  ns    IN  A  192.168.1.189
+  www   IN  A  192.168.1.189
+  mail  IN  A  192.168.1.189
 # nano /etc/bind/zones/db.1
   tambahkan 
-  89  IN  PTR  mail.coba.ac.id.
+  189    IN  PTR  mail.coba.ac.id. (g perlu)
+  189    IN  PTR  coba.ac.id. 
+  ns     IN  PTR  192.168.1.189
+  www    IN  PTR  192.168.1.189
+  mail   IN  PTR  192.168.1.189
   
 Tambahkan file resolv.conf
 # nano /etc/resolv.conf
@@ -46,6 +52,83 @@ Pengujian:
 
 
 MAIL SERVER
+# apt install postfix dovecot-imapd dovecot-pop3d -y
+  - pilih internet site
+  - system mail name : coba.ac.id
+# dpkg-reconfigure postfix
+  - pilih internet site
+  - system mail name : coba.ac.id
+  - root and postmaster mail recipient : kosongkan
+  - other destinations to accept email : OK (g perlu diganti)
+  - force synchronous update on mail : YES
+  - local networks : ganti jadi 0.0.0.0/0 
+  - mailbox size limit : 0
+  - local address attention : + OK
+  - internet protocol to use : ipv4
+# nano /etc/postfix/main.cf
+  tambahkan
+  home_mailbox = Maildir/
+# nano /etc/dovecot/dovecot.conf
+  aktifkan listen = *, ::  (hapus tanda pagarnya #)
+# nano /etc/dovecot/conf.d/10-auth.conf
+  hapus tanda pagar di depan disable_plaintext_auth = no
+# nano /etc/dovecot/conf.d/10-mail.conf
+  mail_location = maildir:~/Maildir
+# maildirmake.dovecot /etc/skel/Maildir
+
+Restart
+# systemctl restart postfix
+# systemctl restart dovecot
+# systemctl status postfix
+# systemctl status dovecot
+# reboot
+
+Buat user
+# adduser user1
+  pass : 123
+  full name : user1
+  kosongi sampai terakhir lalu tekan y
+  
+# adduser user2
+  pass : 123
+  full name : user2
+  kosongi sampai terakhir lalu tekan y
+
+
+
+APACHE PHP MYSQL
+# apt install apache2 php mariadb-server -y
+# apt install roundcube -y
+  - configure database for roundcube : YES
+  - mysql application password : 123
+  - password confirmation : 123
+# nano /etc/roundcube/config.inc.php
+  - default_host = 'coba.ac.id';
+  - smtp_server = '192.168.1.189';
+  - smtp_user = ''; (kosongkan tandanya)
+# cd /etc/apache2
+# cd sites-enabled
+# nano 000-default.conf
+  - ServerName mail.coba.ac.id   (hapus tanda pagarnya #)
+  - DocumentRoot /var/lib/roundcube
+
+Restart
+# systemctl restart apache2
+# systemctl restart postfix
+# systemctl restart dovecot
+# systemctl status apache2
+# systemctl status postfix
+# systemctl status dovecot
+# reboot
+
+Pengujian:
+Ketik di browser : mail.coba.ac.id
+login roundcube : user1
+password : 123
+alamat email user2@coba.ac.id
+
+
+
 
 Referensi
 https://www.youtube.com/watch?v=ExP0Hq0VWbg
