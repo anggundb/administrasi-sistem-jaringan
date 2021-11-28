@@ -1,5 +1,3 @@
-
-
 Kata kunci search on google : web browser support ftp
 - Firefox version 88 (or newer) Microsoft Edge version 90 (or newer) Google Chrome version 90 (or newer) 
   (NOTE: Internet Explorer and Windows File Explorer are two other options   to use for accessing FTP sites.)
@@ -13,10 +11,29 @@ Enabling_Access_to_FTP_Sites FIREFOX
 - Restart Firefox.
 
 
+Instalasi FTP Server
+# apt install vsftpd -y
+
+Buka file setting
+# nano /etc/vsftpd.conf
+  hapus tanda pagar (#) di depan  write_enable=YES      ==> untuk melkukan penulisan file (upload, create dan delete di server).
+                                  anonymous_enable=YES  ==> siapapun bisa masuk ke ftp tanpa password
+                             
+                             
+Restart vsftpd
+# systemctl restart vsftpd
+# systemctl status vsftpd
+
 Secara default vsftpd listen on port tcp6 port 21 => lihat menggunakan netstat -npl
 install netstat menggunakan net-tools
 
-anonymous_enable=YES  ==> siapapun bisa masuk ke ftp tanpa password
+
+Pengujian menggunakan FileZilla
+- isi Host dengan IP Address server
+- Isi Username dengan akun kita 
+- Isi password
+- Masukkan port (default 21)
+- Klik Quickconnect
 
 Pengujian di browser firefox 88.0.1 (64-bit) atau internet explorer atau file explorer windows
 ketik ==> ftp://192.168.1.89/
