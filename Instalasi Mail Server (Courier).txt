@@ -127,6 +127,8 @@ Cek email yang dikirimkan oleh “admin” apakah masuk ke user penerima "sakha"
   MariaDb > FLUSH PRIVILEGES;
   MariaDb > exit;
   
+  uji apache dan php
+  
 =ROUNDCUBE=  
 # apt install roundcube -y
   - configure database for roundcube : YES
