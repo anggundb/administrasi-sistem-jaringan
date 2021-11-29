@@ -143,7 +143,7 @@ Cek email yang dikirimkan oleh “admin” apakah masuk ke user penerima "sakha"
   
 # nano /etc/roundcube/config.inc.php
   - default_host = 'coba.ac.id';
-  - smtp_server = '192.168.1.189';
+  - smtp_server = '192.168.1.189';  ('localhost')
   - smtp_user = ''; (kosongkan tandanya)
   
 =Restart=
