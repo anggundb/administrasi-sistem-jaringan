@@ -27,16 +27,140 @@
 # service postfix restart
 # service courier-imap restart
 # service courier-pop restart
+# systemctl status postfix
+# systemctl status courier-imap 
+# systemctl status courier-pop 
 
-Sekarang kita perlu menambahkan sebuah subdomain yang nantinyaakan digunakan oleh mail server kita. Misalnya(mail.namadomainanda). tentunya hal ini juga mempermudah penggunaatau client dari server anda. Edit
-file zone forward
-, yang pernah andabuat dengan perintah
-nano /var/cache/bind/db.endrif
 
-cek
+# apt install bind9 dnsutils -y
+# cd /etc/bind
+# nano named.conf.local
+  tambahkan
+  zone "coba.ac.id" {
+        type master;
+        file "/etc/bind/zones/db.coba.ac.id";
+  };
+  zone "1.168.192.in-addr.arpa" {
+        type master;
+        notify no;
+        file "/etc/bind/zones/db.156";
+  };
+
+
+# mkdir /etc/bind/zones
+# cd /etc/bind/zones
+# cp ../db.local db.coba.ac.id   
+# cp ../db.127 db.156 
+# nano /etc/bind/zones/db.coba.ac.id
+  tambahkan (ubah)
+  @     IN   SOA   coba.ac.id. root.coba.ac.id. (
+  
+  @     IN   NS    coba.ac.id.
+  @     IN   A     192.168.1.156
+  ns    IN   A     192.168.1.156
+  www   IN   A     192.168.1.156
+  mail  IN   A     192.168.1.156
+
+# nano /etc/bind/zones/db.156
+  tambahkan (ubah)
+  @       IN     SOA   coba.ac.id. root.coba.ac.id. (
+  
+  @       IN     NS    coba.ac.id.
+  156     IN     NS    coba.ac.id.
+  ns      IN     PTR   192.168.1.156
+  www     IN     PTR   192.168.1.156
+  mail    IN     PTR   192.168.1.156  
+  
+# nano /etc/resolv.conf
+  tambahkan
+  nameserver 192.168.1.156
+  search coba.ac.id
+
+# service bind9 restart
+# systemctl start bind9
+# systemctl status bind9
+
+# nslookup coba.ac.id
+# nslookup 192.168.1.156
+
+# adduser admin
+  full name : admin
+  lainnya kosongi lalu jawab y dan enter
+  
+# adduser sakha
+  full name : sakha
+  lainnya kosongi lalu jawab y dan enter
+
+Letak user ada di direktori /home
+
+=Pengujian Mail Server=
+Kirim email dari user “admin” ke user “sakha” lewat CLI
 # telnet mail.nama_domain_anda 25
-# telnet.nama_domain_anda 110
+# telnet mail.coba.ac.id 25
+  ketik
+  mail from: admin (pengirim)
+  rcpt to: sakha  (penerima)
+  data
+  Ini pesan saya (isi pesan)
+  .    (tanda titik untuk mengakhiri pesan)
+  quit (untuk keluar)
+
+Cek email yang dikirimkan oleh “admin” apakah masuk ke user penerima "sakha" lewat CLI
+# telnet mail.nama_domain_anda 110
+# telnet mail.coba.ac.id 110
+  ketik
+  user sakha (penerima)
+  pass 123  (password penerima)
+  stat  (untuk mengetahui apakah ada pesan baru)
+  retr 1 (membaca pesan dengan kode urut 1)
+  quit (untuk keluar)
+
+=APACHE PHP MYSQL=
+# apt install apache2 php mariadb-server -y
+  - buat database lengkap dengan usernamenya
+# mysql -u root -p
+  masukkan password 123
+  MariaDb > CREATE DATABASE roundcube;
+  MariaDb > GRANT ALL PRIVILEGES ON roundcube.* TO 'roundcube'@'localhost' IDENTIFIED BY '123';
+  MariaDb > FLUSH PRIVILEGES;
+  MariaDb > exit;
+  
+=ROUNDCUBE=  
+# apt install roundcube -y
+  - configure database for roundcube : YES
+  - mysql application password : 123
+  - password confirmation : 123
+
+=VirtualHost=
+# nano /etc/roundcube/apache.conf
+  tambahkan
+  <VirtualHost *:80>
+      ServerName mail.coba.ac.id
+      DocumentRoot /var/lib/roundcube
+  </VirtualHost>
+  
+# nano /etc/roundcube/config.inc.php
+  - default_host = 'coba.ac.id';
+  - smtp_server = '192.168.1.189';
+  - smtp_user = ''; (kosongkan tandanya)
+  
+=Restart=
+# systemctl restart apache2
+# systemctl restart postfix
+# systemctl restart courier-imap
+# systemctl restart courier-pop
+# reboot
+
+Pengujian:
+Ketik di browser : mail.coba.ac.id
+login roundcube : user1
+password : 123
+alamat email user2@coba.ac.id
+
+
+
 
 
 Referensi
 https://www.academia.edu/36940583/Bab_9_Installasi_dan_Konfigurasi_Mail_Server_dan_Webmail_Pada_Linux_Debian_9
+https://www.dewaweb.com/blog/roundcube-webmail/
