@@ -1,3 +1,4 @@
+=== MAIL SERVER ===
 - SMTP    : Postfix
 - POP3    : couerier-pop
 - IMAP    : courier-imap
@@ -31,7 +32,7 @@
 # systemctl status courier-imap 
 # systemctl status courier-pop 
 
-
+=DNS=
 # apt install bind9 dnsutils -y
 # cd /etc/bind
 # nano named.conf.local
@@ -45,7 +46,6 @@
         notify no;
         file "/etc/bind/zones/db.156";
   };
-
 
 # mkdir /etc/bind/zones
 # cd /etc/bind/zones
@@ -80,9 +80,11 @@
 # systemctl start bind9
 # systemctl status bind9
 
+=PENGUJIAN DNS=
 # nslookup coba.ac.id
 # nslookup 192.168.1.156
 
+=MEMBUAT USER=
 # adduser admin
   full name : admin
   lainnya kosongi lalu jawab y dan enter
