@@ -1,0 +1,315 @@
+=== SSH SERVER ===
+# apt install openssh-server -y
+# systemctl start ssh
+# systemctl enable ssh
+# systemctl status ssh
+
+Login menggunakan cmd/command prompt di windows
+   - login ssh dengan format : ssh user@ip_server 
+   - misal : ssh belajar@192.168.1.166
+   - lalu beri konfirmasi "yes" dan masukkan password user 
+   - setelah itu masuk ke super user menggunakan "su" dan masukkan password "root"
+   - untuk memutus koneksi ke SSH server ketikan perintah exit (enter), exit (enter)
+
+
+=== DNS SERVER ===
+# apt install bind9 dnsutils -y 
+# cd /etc/bind
+# nano named.conf.local
+  tambahkan 
+  zone "coba.ac.id" {
+          type master;
+          file "/etc/bind/zones/db.coba.ac.id";
+  };
+
+  zone "1.168.192.in-addr.arpa" {
+          type master;
+          notify no;
+          file "/etc/bind/zones/db.166";
+  };
+  simpan (ctrl+x, y, enter)
+# mkdir /etc/bind/zones
+# cd /etc/bind/zones
+# cp ../db.local db.coba.ac.id  
+# cp ../db.127 db.166
+# nano /etc/bind/zones/db.coba.ac.id
+  ubah jadi:
+  ;
+  ; BIND data file for local loopback interface
+  ;
+  $TTL    604800
+  @       IN      SOA     coba.ac.id. root.coba.ac.id. (
+                                2         ; Serial
+                           604800         ; Refresh
+                            86400         ; Retry
+                          2419200         ; Expire
+                           604800 )       ; Negative Cache TTL
+  ;
+  @       IN      NS      coba.ac.id.
+  @       IN      A       192.168.1.166
+  ns      IN      A       192.168.1.166
+  www     IN      A       192.168.1.166
+  mail    IN      A       192.168.1.166
+  simpan (ctrl+x, y, enter)
+# nano /etc/bind/zones/db.166
+  ubah jadi:  
+  ;
+  ; BIND reverse data file for local loopback interface
+  ;
+  $TTL    604800
+  @       IN      SOA     coba.ac.id. root.coba.ac.id. (
+                                1         ; Serial
+                           604800         ; Refresh
+                            86400         ; Retry
+                          2419200         ; Expire
+                           604800 )       ; Negative Cache TTL
+  ;
+  @       IN      NS      coba.ac.id.
+  166     IN      PTR     coba.ac.id.
+  ns      IN      PTR     192.168.1.166
+  www     IN      PTR     192.168.1.166
+  mail    IN      PTR     192.168.1.166
+  simpan (ctrl+x, y, enter)
+# nano /etc/resolv.conf
+  tambahkan:
+  nameserver 192.168.1.166
+  search coba.ac.id
+
+Restart
+# systemctl restart bind9
+# systemctl status bind9
+
+Pengujian DNS
+# nslookup coba.ac.id
+  muncul balasan
+  Server:         192.168.1.166
+  Address:        192.168.1.166#53
+
+  Name:   coba.ac.id
+  Address: 192.168.1.166
+# nslookup 192.168.1.166
+  muncul balasan
+  166.1.168.192.in-addr.arpa      name = coba.ac.id.
+  
+  
+=== WEB SERVER ===
+# apt install apache2 -y
+# cd /etc/apache2/sites-enabled
+# nano 000-default.conf      ====> file yang enable ke virtualhost
+  tambahkan
+  ServerName coba.ac.id   (hapus tanda pagarnya #)
+  DocumentRoot /var/www/coba.ac.id 
+# mkdir /var/www/coba.ac.id
+# nano /var/www/coba.ac.id/index.html
+  ketikkan
+  <html>
+    <head>
+      <title>coba.ac.id</title>
+    </head>
+    <body>
+      <h1>Belajar virtual host</h1>
+    </body>
+  </html>
+  simpan (ctrl+x, y, enter)
+# systemctl restart apache2
+# systemctl status apache2
+
+Pengujian virtualhost
+- Ubah DNS window (client) ke DNS server (192.168.1.166)
+- Ketik di browser : coba.ac.id
+  muncul
+  Belajar virtual host
+  
+  
+  
+=== PHP ===  
+# apt install php -y
+# nano /var/www/coba.ac.id/info.php
+  ketikkan
+  <?php phpinfo(); ?>
+
+Pengujian php
+- Ketik di browser : coba.ac.id/info.php
+  muncul
+  Halaman web PHP Version 7.4.25
+  
+
+
+=== DATABASE SERVER ===  
+# apt install mariadb-server -y
+Buat database lengkap dengan usernamenya
+# mysql -u root -p
+  masukkan password 123
+  MariaDb > CREATE DATABASE roundcube;
+  MariaDb > GRANT ALL PRIVILEGES ON roundcube.* TO 'roundcube'@'localhost' IDENTIFIED BY '123';
+  MariaDb > FLUSH PRIVILEGES;
+  MariaDb > exit;
+    
+    
+    
+=== MAIL SERVER ===
+- SMTP    : Postfix
+- POP3    : couerier-pop
+- IMAP    : courier-imap
+- Webmail : roundcube
+
+# apt install postfix courier-imap courier-pop -y
+  - create directories for : YES
+  - SSL : OK
+  - Courier MTA : OK
+  - General type : internet site
+  - system mail name : coba.ac.id
+# maildirmake /etc/skel/Maildir
+# nano /etc/postfix/main.cf
+  tambahkan
+  home_mailbox = Maildir/
+# dpkg-reconfigure postfix  
+  - General type : internet site
+  - system mail name : coba.ac.id
+  - Root and Postmaster mail recipient : kosongkan
+  - Other destinations to accept mail for (blank for none): silahkan anda lanjut saja
+  - Force synchronus updates on mail queue : silahkan anda memilih opsi No
+  - LocalNetwork : silahkan anda tambahkan konfigurasi 0.0.0.0/0 pada bagian belakang sendiri
+  - Mailbox Size limit (bytes) : biarkan saja tak perlu dilakukan konfigurasi
+  - Local address extension character : anda juga tidak perlumelakukan konfigurasi disii. Ini nantinya akan digunakan untuk ekstensipenyimpanan alamat telp (+62 xxxxxxxxxx)
+  - internet protokol : ipv4
+  
+# service postfix restart
+# service courier-imap restart
+# service courier-pop restart
+# systemctl status postfix
+# systemctl status courier-imap 
+# systemctl status courier-pop 
+
+
+
+=== MEMBUAT USER ===
+# adduser admin
+  new pass     : 123
+  confirm pass : 123
+  full name    : admin
+  lainnya kosongi lalu jawab y dan enter
+  
+# adduser sakha
+  full name : sakha
+  new pass     : 123
+  confirm pass : 123
+  lainnya kosongi lalu jawab y dan enter
+
+Letak user ada di direktori /home
+
+
+=== Pengujian Mail Server ===
+Kirim email dari user “admin” ke user “sakha” lewat CLI
+# telnet mail.nama_domain_anda 25
+# telnet mail.coba.ac.id 25
+  ketik
+  mail from: admin (pengirim)
+  rcpt to: sakha  (penerima)
+  data
+  Ini pesan saya (isi pesan)
+  .    (tanda titik untuk mengakhiri pesan)
+  quit (untuk keluar)
+
+Cek email yang dikirimkan oleh “admin” apakah masuk ke user penerima "sakha" lewat CLI
+# telnet mail.nama_domain_anda 110
+# telnet mail.coba.ac.id 110
+  ketik
+  user sakha (penerima)
+  pass 123  (password penerima)
+  stat  (untuk mengetahui apakah ada pesan baru)
+  retr 1 (membaca pesan dengan kode urut 1)
+  quit (untuk keluar)
+
+
+
+
+=== ROUNDCUBE ===  
+# apt install roundcube -y
+  - configure database for roundcube : YES
+  - mysql application password : 123
+  - password confirmation : 123
+
+# nano /etc/roundcube/config.inc.php
+  - default_host = 'coba.ac.id';
+  - smtp_server = '192.168.1.189';   atau ('localhost')
+  - smtp_user = ''; (kosongkan tandanya)
+  
+=== VIRTUALHOST ===
+# cd /etc/apache2/sites-enabled
+# nano 000-default.conf      ====> file yang enable ke virtualhost
+  tambahkan
+  <VirtualHost *:80>
+            ServerName mail.coba.ac.id        (hapus tanda pagarnya #)
+            ServerAdmin webmaster@localhost
+            DocumentRoot /var/lib/roundcube
+            <Directory /var/lib/roundcube/>
+                  AllowOverride All
+                  Require all granted
+                  Allow from all
+            </Directory>
+   . . .
+   simpan (ctrl+x, y, enter)
+# systemctl restart apache2
+# systemctl status apache2
+
+
+ 
+=== Restart ===
+# systemctl restart apache2
+# systemctl restart postfix
+# systemctl restart courier-imap
+# systemctl restart courier-pop
+# reboot
+
+
+
+=== PENGUJIAN ROUNDCUBE
+Ketik di browser : mail.coba.ac.id
+muncul halaman web roundcube
+- login roundcube : user1
+- password : 123
+- alamat email user2@coba.ac.id
+
+
+
+=== KENDALA ===
+Kendala pengujian mail server
+- Ketik di browser : mail.coba.ac.id
+  Muncul 
+    Forbidden
+    You don't have permission to access this resource.
+    Apache/2.4.51 (Debian) Server at mail.coba.ac.id Port 80
+   
+ - Solusi
+   # cd /etc/apache2/sites-available
+   # nano 000-default.conf
+     Ketikkan
+     <VirtualHost *:80>
+            ServerAdmin webmaster@localhost
+            DocumentRoot /var/lib/roundcube
+            ServerName mail.coba.ac.id
+            <Directory /var/lib/roundcube/>
+                  AllowOverride All
+                  Require all granted
+                  Allow from all
+            </Directory>
+     . . .
+     simpan (ctrl+x, y, enter)
+   # a2enmod rewrite 
+   # systemctl restart apache2
+   
+Kendala "bash: dpkg-reconfigure: command not found"
+Solusi
+# export PATH=$PATH:/usr/sbin
+lalu ulangi "command not found" tadi
+
+
+
+
+
+Referensi
+https://www.academia.edu/36940583/Bab_9_Installasi_dan_Konfigurasi_Mail_Server_dan_Webmail_Pada_Linux_Debian_9
+https://www.dewaweb.com/blog/roundcube-webmail/
+https://www.digitalocean.com/community/questions/forbidden-you-don-t-have-permissions-to-access-on-this-server
+https://medium.com/the-blog-of-ehsan-nazim/bash-dpkg-reconfigure-command-not-found-in-debian-10-buster-b5c89ae84a75#:~:text=dpkg%2Dreconfigure%20command%20is%20in,dpkg%2Dreconfigure%20will%20not%20work.&text=debconf%20package%20is%20located%20in,be%20in%20your%20PATH%20variable.
