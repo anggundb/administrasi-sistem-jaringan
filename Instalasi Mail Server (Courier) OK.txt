@@ -4,7 +4,7 @@
 # systemctl enable ssh
 # systemctl status ssh
 
-Login menggunakan cmd/command prompt di windows
+Login menggunakan cmd/command prompt di windows (supaya bisa copy paste)
    - login ssh dengan format : ssh user@ip_server 
    - misal : ssh belajar@192.168.1.166
    - lalu beri konfirmasi "yes" dan masukkan password user 
