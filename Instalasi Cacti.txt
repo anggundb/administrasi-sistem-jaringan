@@ -1,0 +1,52 @@
+Cacti merupakan sebuah aplikasi yang berbasis web sehingga kita bisa membuka aplikasi Cacti menggunakan web browser
+Tujuan : kita bisa lihat di jam berapa traffic kita berada pada tingkat yang paling tinggi atau trafic yang paling padat,
+         jam berapa dan sampai berapa mega yang digunakan client atau maksimal yang paling tinggi dari jaringan kita atau sampai berapa bandwithnya keluar
+Protokol yang digunakan:
+Protokol SNMP (Simple Network Management Protocol) -- Cacti
+SNMP ada 2 yaitu:
+- SNMP server 
+- SNMP Agen/client
+SNMP di enabled ==> akan menjadi penghubung antara cacti dengan mikrotik sehingga kita bisa membaca trafic yang ada pada mikrotik
+
+Bahan-bahan yang diperlukan untuk Cacti:
+- Webserver
+- MySQL Database
+- PHP
+- RRDTool
+
+
+
+=== Topologi Monitoring Traffic Mikrotik Dengan Cacti ===
+- Cacti (Linux) terhubung ke eth1 mikrotik
+- Eth 3 mikrotik terhubung ke komputer client
+
+
+=== Instalasi cacti di debian 11 ===
+Sebelumnya sudah terinstall web server, php, mariadb (ketika membuat MAIL SERVER)
+# apt install cacti -y
+  - configure database for cacti : YES
+  - mysql application password : 123
+  - password confirmation : 123
+  - web server : apache2  (dengan menekan tombol spasi)
+
+
+Pengujian:
+Ketikkan : IP-server/cacti di browser lalu login menggunakan :
+user: admin
+pass: admin
+
+Pengujian jika menggunakan DNS:
+Ketik di browser : coba.ac.id/cacti
+login dengan user: admin
+	           pass: pass mysql tadi yaitu 123	
+
+
+
+
+
+
+Referensi
+https://citraweb.com/artikel_lihat.php?id=215
+https://files.cacti.net/docs/html/requirements.html
+https://www.youtube.com/watch?v=y-JMbnhIBZs
+https://www.youtube.com/watch?v=wam9OqFc6Ic
