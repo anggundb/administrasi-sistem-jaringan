@@ -75,6 +75,8 @@ Konfigurasi Dasar IPtables
 == SSH, port tcp 22 === 
 # iptables –A INPUT –s 0/0 –p tcp –dport 22 –j ACCEPT    ==> membuka
 # iptables –A INPUT –s 0/0 –p tcp –dport 22 –j DROP      ==> menutup
+# iptables –A INPUT –s 0/0 –p tcp -–dport 22 –j DROP     ==> menutup (debian 11)
+# iptables -F                                            ==> mereset semua aturan atau rule (debian 11)
 
 # iptables –A INPUT –s 192.168.1.5/32 –p tcp –dport 22 –j ACCEPT     ==>  ip source yang bisa akses ke port server
 # iptables –A INPUT –s 192.168.1.5/32 –p tcp –dport 22 –j DROP       ==> Menutup akses untuk ip address 192.168.1.5 untuk akses ke port 22 pada server
