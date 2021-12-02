@@ -1,9 +1,99 @@
 IPTABLES adalah suatu tools dalam sistem operasi linux yang berfungsi sebagai alat untuk melakukan penyaringan terhadap lalu lintas data. 
 Secara sederhana digambarkan sebagai pengatur lalu lintas data. Dengan IPTABLES inilah kita akan mengatur semua lalu lintas dalam komputer, baik yang masuk ke komputer, keluar dari komputer ataupun lalu lintas data yang sekedar melewati komputer. 
 
+Firewall IPTABLES packet filtering memiliki tiga aturan (policy) yaitu:
+- INPUT (memasuki firewall)
+- OUTPUT (keluar dari firewall)
+- FORWARD (melintasi firewall)
+
+TARGET firewall IPTABLES ada 3 macam:
+- ACCEPT (akses diterima dan diizinkan melewati firewall)
+- REJECT (akses ditolak)
+- DROP (akses diterima tetapi paket data langsung dibuang ke kernel)
+
+NAT (Network Address Translation)
+Proses penulisan ulang (masquerade) pada alamat IP asal (source) dan/atau alamat IP tujuan (destination), setelah melalui router atau firewall.
+NAT (IP private agar dapat terkoneksi ke internet menggunakan IP public):
+- Source NAT
+- Destination NAT
+Ada 3 buah aturan yang harus diterapkan di dalam NAT:
+- PREROUTING (memilah paket yang akan diteruskan)
+- POSTROUTING (memilah paket yang telah diteruskan)
+- FORWARD (memilih paket yang melalui router)
+
+
+
+=== Install IPtables ===
+# apt install iptables -y
+
+Cek status IPtables
+# iptables -L -v
+  muncul 
+  Chain INPUT (policy ACCEPT 0 packets, 0 bytes)
+   pkts bytes target     prot opt in     out     source               destination
+
+  Chain FORWARD (policy ACCEPT 0 packets, 0 bytes)
+   pkts bytes target     prot opt in     out     source               destination
+
+  Chain OUTPUT (policy ACCEPT 0 packets, 0 bytes)
+   pkts bytes target     prot opt in     out     source               destination
+   
+  (semua chain di set ACCEPT artinya IPtables belum dikonfigurasi) 
+  
+Menghapus Konfigurasi IPtables (membuka semua port)
+# iptables –P INPUT ACCEPT
+
+Blokir semua paket data INPUT
+# iptables –P INPUT DROP
+
+Membuka interface menggunakan parameter –i
+# iptables –A INPUT –i eth0 –j ACCEPT
+
+# iptables –A INPUT –s 192.168.1.100 –j ACCEPT
+# iptables –A INPUT –p tcp --dport 22 –j ACCEPT
+
+
+Menghapus Konfigurasi IPtables (membuka semua port)
+# iptables -P INPUT ACCEPT
+# iptables -F
+# iptables -X
+
+
+Konfigurasi Dasar IPtables
+# iptables -A INPUT -i lo -j ACCEPT
+# iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+# iptables -A INPUT -p tcp -m tcp -m state -m comment -s xxx.xxx.xxx.xxx/32 --dport 22 --state NEW -j ACCEPT --comment "Open SSH Port for your xxx.xxx.xxx.xxx/32 IP only "
+# iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+# iptables -A INPUT -p tcp --dport 443 -j ACCEPT
+# iptables -A INPUT -p icmp --icmp-type echo-request -j ACCEPT
+# iptables -P INPUT DROP
+# iptables -P FORWARD DROP
+# iptables -P OUTPUT ACCEPT
+
+
+
+== SSH, port tcp 22 === 
+# iptables –A INPUT –s 0/0 –p tcp –dport 22 –j ACCEPT    ==> membuka
+# iptables –A INPUT –s 0/0 –p tcp –dport 22 –j DROP      ==> menutup
+
+# iptables –A INPUT –s 192.168.1.5/32 –p tcp –dport 22 –j ACCEPT     ==>  ip source yang bisa akses ke port server
+# iptables –A INPUT –s 192.168.1.5/32 –p tcp –dport 22 –j DROP       ==> Menutup akses untuk ip address 192.168.1.5 untuk akses ke port 22 pada server
+
+Keterangan :
+-p : protokol
+-s : source (address)
+-d : destination (address)
+-i : interface
+-j : target
+-dport: destination port
+-A : tambahkan ke chain
+-P : chain target
 
 
 
 Referensi
+http://solmet.kemdikbud.go.id/?p=3024
+https://idcloudhost.com/panduan/konfigurasi-sederhana-iptables/
+https://arstech.net/install-iptables-in-debian-11-bullseye/
 https://www.academia.edu/25900157/Administasi_Server_and_Desktop_Linux_Debian_8_Edisi_Revisi
 https://www.youtube.com/watch?v=r5sSsGNV9LE
