@@ -1,3 +1,9 @@
+IPTABLES adalah suatu tools dalam sistem operasi linux yang berfungsi sebagai alat untuk melakukan penyaringan terhadap lalu lintas data. 
+Secara sederhana digambarkan sebagai pengatur lalu lintas data. Dengan IPTABLES inilah kita akan mengatur semua lalu lintas dalam komputer, baik yang masuk ke komputer, keluar dari komputer ataupun lalu lintas data yang sekedar melewati komputer. 
+
+
+
 
 Referensi
+https://www.academia.edu/25900157/Administasi_Server_and_Desktop_Linux_Debian_8_Edisi_Revisi
 https://www.youtube.com/watch?v=r5sSsGNV9LE
