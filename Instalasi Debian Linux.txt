@@ -1,0 +1,58 @@
+=== Instalasi Debian ===
+- Ubah boot order pada komputer agar mengarah ke media untuk instalasi
+- Tunggu hingga komputer booting dan pilih menu "install" untuk mode teks
+- Select a language : English
+- Select your location : other, Asia, Indonesia
+- Configure locales : United Stated
+- Configure the keyboard : American English
+- Configure the networks : Continue
+- Network configuration method : Do not configure the network at this time
+- Hostname : belajar  (nama komputer server kita)
+- Root password : 123
+- Re-enter password to verify : 123
+- Full name for the new user: belajar (username untuk login debian)
+- Username for your account: belajar (username untuk akun biasanya terisi otomatis)
+- Choose a password for the new user : 123 (password untuk username)
+- Re-enter password to verify : 123
+- Select a city in your time zone: Western (Sumatra, Jakarta, Java, ...)
+- Partitioning method : Manual
+- Create new empty partition table on this device : Yes (atau pilih hardisk yang kosong)
+- Device to initialize its partition table : pri/log ... FREE SPACE
+- How to use this free space : Create a new partition
+- New partition size : 100 GB (untuk root / local disk C pada windows)
+- Type for the new partition : Primary 
+- Location for the new partition : Beginning
+- Partition settings : 
+  mount point : /  (root)
+  Done setting up the partition
+- Device to initialize its partition table : pri/log ... FREE SPACE (untuk tempat data kita atau local disk D: E: di windows)
+- How to use this free space : Create a new partition
+- New partition size : 150 GB  (partisi home)
+- Type for the new partition : Logical
+- Location for the new partition : Beginning  
+- Partition settings : 
+  mount point : /home  
+  Done setting up the partition
+- Device to initialize its partition table : pri/log ... FREE SPACE
+- How to use this free space : Create a new partition
+- New partition size : 2 GB    (partisi swap)
+- Type for the new partition : Logical 
+- Location for the new partition : Beginning
+- Partition settings : 
+  Use as  ..... (tekan enter)
+  mount point : /usr  
+  How to use this partition: swap area  
+- Partition settings : 
+  Use as  swap area
+  Done setting up the partition 
+- Device to initialize its partition table : Finish partitioning and write changes to disk
+- Write the changes to disks? YES
+- Scan another CD or DVD? NO 
+- Use a network mirror? NO
+- Participate in the package usage survey? NO
+- Choose software to install: hilangkan semua tanda bintang (*) menggunakan tombol spasi kecuali standart system utilities
+- Install the GRUB boot loader to the master boot record? YES
+- Device for boot loader installation: /dev/sda
+- Finish the installation: Continue 
+
+
