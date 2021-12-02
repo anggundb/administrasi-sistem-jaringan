@@ -7,7 +7,7 @@ Pengujian apache : ketik IP Address dibrowser lalu tekan enter
 # systemctl restart mariadb
 # systemctl status mariadb
 Pengujian mariadb : 
-# mysql -u root -p 123
+# mysql -u root -p123
   isikan password databasenya
   MariaDb > show databases;
 
