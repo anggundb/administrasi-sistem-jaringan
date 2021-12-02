@@ -81,7 +81,7 @@ Konfigurasi Dasar IPtables
 # iptables –A INPUT –s 192.168.1.5/32 –p tcp –dport 22 –j ACCEPT     ==>  ip source yang bisa akses ke port server
 # iptables –A INPUT –s 192.168.1.5/32 –p tcp –dport 22 –j DROP       ==> Menutup akses untuk ip address 192.168.1.5 untuk akses ke port 22 pada server
 
-Keterangan :
+Keterangan (iptables -h):
 -p : protokol
 -s : source (address)
 -d : destination (address)
@@ -90,6 +90,7 @@ Keterangan :
 -dport: destination port
 -A : tambahkan ke chain
 -P : chain target
+-F : Delete all rules in  chain or all chains
 
 
 
