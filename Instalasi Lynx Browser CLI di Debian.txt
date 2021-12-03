@@ -1,0 +1,19 @@
+Kelebihan :
+- Penggunaan kuota/data yang sedikit karena browser ini tidak menampilkan gambar dan elemen kode seperti html,css,js,cookie,dan lain-lain.
+- Browser ini hanya menampilkan text saja.
+
+
+=== LYNX ===
+# apt install lynx
+
+Cara menggunakan :
+- Cari keywoard Linux di lynx
+  # lynx linux
+  # lynx google.com
+
+
+
+
+
+Referensi
+https://www.foruminformasi.com/2020/08/lynx-browser.html
