@@ -20,7 +20,7 @@ Pengujian phpmyadmin : ketik IP Address/phpmyadmin dibrowser lalu tekan enter
 - isikan user dan password
 
 Buat user yang bisa akses full:
-# mysql -u root -p 123
+# mysql -u root -p123
 MariaDb > CREATE USER 'user'@'localhost' IDENTIFIED BY '123';  ==>(username = user dan password = 123)
 MariaDb > GRANT ALL PRIVILEGES ON *.* TO 'user'@'localhost';
 MariaDb > FLUSH PRIVILEGES;
