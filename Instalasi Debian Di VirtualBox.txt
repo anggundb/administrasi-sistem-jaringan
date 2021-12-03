@@ -1,0 +1,41 @@
+=== Instalasi Debian Di VirtualBox ====
+- Buka VirtulBox
+- Klik menu New
+  Isikan
+  Name    : Belajar (nama mesin virtual)
+  Type    : Linux
+  Version : Debian (64-bit)
+- Klik Next
+- Memory Size : 1024 MB (Menyesuaikan)
+- Klik Next
+- Centang Create a virtual hard disk now (jika ingin membuat virtual hardisk baru) 
+- Klik Create
+- Hard Disk File Type : VDI (VirtualBox Disk Image)
+- Klik Next
+- Storage on Physical Hard Disk : Dynamically Allocated
+- Klik Next
+- File Location and Size : (File Location tetap, Size : 12 GB)
+- Klik Create (Mesin virtual selesai dibuat)
+- Isi mesin virtual dengan file .iso
+- Klik menu Settings
+- Pilih Storage lalu klik empty pada Controller: IDE
+- Klik icon CD lalu pilih Choose a disk file
+- Cari file debian.iso lalu klik open
+- Klik Normal Start untuk menjalankan (memulai instalasi debian)
+
+
+=== Jika ingin menggunakan virtual hardisk yang sudah ada ===
+- Centang Use an existing virtual hard disk file (jika ingin menggunakan virtual hardisk yang sudah ada)
+- Klik Choose a virtual hard disk file
+- Klik Add lalu cari file .vdi dan klik open
+- Klik Choose lalu klik create
+
+
+=== Network VirtualBox ===
+- Klik Menu Settings lalu pilih Network
+  Attached to : Bridged Adapter
+  Name        : Pilih Ethernet yang terhubung ke internet
+- Ubah IP Address Mesin Virtual menjadi Static
+- Cek koneksi internet dengan melakukan "ping google.com"
+
+
