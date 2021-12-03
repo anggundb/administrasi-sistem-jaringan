@@ -4,12 +4,14 @@ Kelebihan :
 
 
 === LYNX ===
-# apt install lynx
+# apt install lynx -y
 
 Cara menggunakan :
 - Cari keywoard Linux di lynx
   # lynx linux
   # lynx google.com
+- allow cookie : Y  
+- tekan 'q' untuk mengakhiri 
 
 
 
