@@ -1,8 +1,3 @@
-Kelebihan :
-- Penggunaan kuota/data yang sedikit karena browser ini tidak menampilkan gambar dan elemen kode seperti html,css,js,cookie,dan lain-lain.
-- Browser ini hanya menampilkan text saja.
-
-
 === LYNX ===
 # apt install lynx -y
 
@@ -14,6 +9,9 @@ Cara menggunakan :
 - tekan 'q' untuk mengakhiri 
 
 
+Kelebihan :
+- Penggunaan kuota/data yang sedikit karena browser ini tidak menampilkan gambar dan elemen kode seperti html,css,js,cookie,dan lain-lain.
+- Browser ini hanya menampilkan text saja.
 
 
 
