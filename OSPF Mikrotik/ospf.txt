@@ -25,9 +25,8 @@ eth2: -- LAN 192.168.1.1/24
 R1
 /ip address add address=10.10.1.1/30 interface=ether1
 /ip address add address=10.10.1.5/30 interface=ether2
-# /ip address add address=192.168.122.100/24 interface=ether3
-# /ip address add address=192.168.122.101/24 interface=ether3
-# /ip address add address=192.168.122.102/24 interface=ether3
+/ip address add address=172.16.13.154/24 interface=ether3   # kalau ingin dipasang IP static
+Untuk meminta IP DHCP
 /ip dhcp-client remove number=0
 /ip dhcp-client add interface=ether3 disabled=no        # kalau ether3 DHCP client
 
@@ -55,7 +54,7 @@ instance name=default sudah ada, tidak perlu di tambahkan, tapi kalau perlu mena
 
 R1:
 # /routing ospf instance add name=default
-/routing ospf instance set name=default router-id=10.10.1.1 numbers=0 
+/routing ospf instance set name=default router-id=10.10.1.1 numbers=0   ===> router-id = ip router (ip eth1) supaya g bingung 
 /routing ospf instance enable numbers=0
 /routing ospf network add network=10.10.1.0/30 area=backbone
 /routing ospf network add network=10.10.1.4/30 area=backbone 
@@ -85,15 +84,26 @@ Flags: X - disabled
      redistribute-rip=no redistribute-bgp=no redistribute-other-ospf=no 
      metric-default=1 metric-connected=20 metric-static=20 metric-rip=20 
      metric-bgp=auto metric-other-ospf=auto in-filter=ospf-in out-filter=ospf-out
-     
+(cek di semua router)     
 
 
 === Pengujian ===
 R1:
-/routing ospf interface print
-/routing ospf neighbor print
-/ip route print
+/routing ospf interface print  ==> OSPFnya di interface yang mana
+/routing ospf neighbor print   ==> tetangganya siapa saja
+/ip route print                ==> routingnya
 Lakukan yang sama untuk R2, R3
+
+- Distance 
+  0   = nempel
+  1   = deket
+  110 = lewat router lain
+
+Ping komputer 172.16.1.100/16 ke R1 (10.10.1.1) dan R2 (10.10.1.2)
+                                 R  (10.10.1.5), R (10.10.1.6), R (10.10.1.9), R (10.10.1.10)
+                                 R  (192.168.1.1)
+Coba putus satu sambungannya lalu ping dari satu komputer ke komputer yang lain                                 
+
 
      
      
