@@ -1,2 +1,15 @@
+Kalau kirim paket itu biasanya diberi label pengirimnya siapa dan tujuannya kemana.
+Setiap paket data pasti ada Source dan Destination, yang bisa kita rubah atau modifikasi dengan menggunakan fitur NAT.
+Fungsi utama NAT adalah merubah alamat IP yang ada di dalam paket header.
+ada 2 chain:
+- Source NAT
+- Destination NAT
+
+Action Source NAT:
+- Masquerade (pengubahan IP secara otomatis) ==> otomatis dipilihkan IP publik yang ada di interface yang terhubung ke internet  ==> ketika menggunakan IP publik dynamic
+- Source NAT (pengubahan IP secara manual)   ==> dituliskan secara manual IP publiknya                                           ==> ketika menggunakan IP publik static
+
+
+
 Referensi
 https://www.youtube.com/watch?v=7LUv5WMjcVs
