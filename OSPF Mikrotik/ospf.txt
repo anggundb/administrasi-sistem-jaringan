@@ -1,4 +1,106 @@
+=== Routing Dynamic menggunakan OSPF (Open Shortest Path First) ===
+Sebuah protokol routing otomatis (Dynamic Routing) yang mampu menjaga, mengatur dan mendistribusikan informasi routing antar network mengikuti setiap perubahan jaringan secara dinamis.
+OSPF termasuk di dalam kategori IGP (Interior Gateway Protocol) yang menggunakan protokol 89.
+Tujuannya:
+- Coba kita ping dari komputer satu ke komputer yang lain bisa apakah bisa tersambung.
+- Misal satu jalurnya kita putus, apakah masih bisa routing lewat sebelahnya / masih bisa nyambung. 
+
+=== Sambungan ===
+R1
+eth0: -- R3: eth0
+eth1: -- R2: eth0
+eth2: -- Internet
+
+R2:
+eth0: -- R1: eth1
+eth1: -- R3: eth1
+eth2: -- LAN 172.16.1.1/16
+
+R3:
+eth0: -- R1: eth0
+eth1: -- R2: eth1
+eth2: -- LAN 192.168.1.1/24
+
+=== IP address ===
+R1
+/ip address add address=10.10.1.1/30 interface=ether1
+/ip address add address=10.10.1.5/30 interface=ether2
+# /ip address add address=192.168.122.100/24 interface=ether3
+# /ip address add address=192.168.122.101/24 interface=ether3
+# /ip address add address=192.168.122.102/24 interface=ether3
+/ip dhcp-client remove number=0
+/ip dhcp-client add interface=ether3 disabled=no        # kalau ether3 DHCP client
+
+Agar terhubung ke internet
+/ip firewall nat add chain=srcnat out-interface=ether3 action=masquerade
+/ip firewall nat print
+
+R2
+/ip address add address=10.10.1.6/30 interface=ether1
+/ip address add address=10.10.1.9/30 interface=ether2
+/ip address add address=172.16.1.1/16 interface=ether3
+
+R3
+/ip address add address=10.10.1.2/30 interface=ether1
+/ip address add address=10.10.1.10/30 interface=ether2
+/ip address add address=192.168.1.1/24 interface=ether3
+
+OSPF
+Ada tiga (3) elemen dasar konfigurasi OSPF:
+- Enable OSPF instance
+- OSPF area configuration
+- OSPF network configuration
+instance name=default sudah ada, tidak perlu di tambahkan, tapi kalau perlu menambahkan caranya adalah sebagai berikut Catatan: Ingat bahwa backbone area-id adalah 0.0.0.0.
+
+
+R1:
+# /routing ospf instance add name=default
+/routing ospf instance set name=default router-id=10.10.1.1 numbers=0 
+/routing ospf instance enable numbers=0
+/routing ospf network add network=10.10.1.0/30 area=backbone
+/routing ospf network add network=10.10.1.4/30 area=backbone 
+
+R2:
+# /routing ospf instance add name=default
+/routing ospf instance set name=default router-id=10.10.1.6 numbers=0
+/routing ospf instance enable numbers=0
+/routing ospf network add network=10.10.1.4/30 area=backbone 
+/routing ospf network add network=10.10.1.8/30 area=backbone 
+/routing ospf network add network=172.16.0.0/16 area=backbone
+
+R3:
+# /routing ospf instance add name=default
+/routing ospf instance set name=default router-id=10.10.1.2 numbers=0
+/routing ospf instance enable numbers=0
+/routing ospf network add network=10.10.1.0/30 area=backbone 
+/routing ospf network add network=10.10.1.8/30 area=backbone 
+/routing ospf network add network=192.168.1.0/24 area=backbone
+
+Cek
+/routing ospf instance print 
+muncul
+Flags: X - disabled 
+ 0   name="default" router-id=10.10.1.1 distribute-default=never 
+     redistribute-connected=as-type-1 redistribute-static=as-type-1 
+     redistribute-rip=no redistribute-bgp=no redistribute-other-ospf=no 
+     metric-default=1 metric-connected=20 metric-static=20 metric-rip=20 
+     metric-bgp=auto metric-other-ospf=auto in-filter=ospf-in out-filter=ospf-out
+     
+
+
+=== Pengujian ===
+R1:
+/routing ospf interface print
+/routing ospf neighbor print
+/ip route print
+Lakukan yang sama untuk R2, R3
+
+     
+     
 
 Referensi
 https://qastack.id/programming/12258399/how-do-i-create-a-folder-in-a-github-repository  ==> create new folder
 https://www.youtube.com/watch?v=ggue772WPBY
+https://citraweb.com/artikel_lihat.php?id=154
+https://www.youtube.com/watch?v=RHlFvLa9VQA
+https://lms.onnocenter.or.id/wiki/index.php/Mikrotik:_OSPF_Sederhana
