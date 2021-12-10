@@ -51,7 +51,8 @@ Pengujian lewat CLI(harus terinstal ftp client)/Command Prompt
           (put filename = upload dari client ke server)
           (mkdir newname = membuat folder baru ke server)
           (cd = pindah direktori)
-          (mput file1 file2 file3... = upload beberapa file dari server ke client)
+          (mget file1 file2 file3... = download beberapa file dari server ke client) kalau ada pertanyaan mget ...? tekan enter
+          (mput file1 file2 file3... = upload beberapa file dari client ke server)
           (delete filename = hapus file)
           (rmdir directoryname = hapus direktori)
           (mget *.txt = download semua file .txt) y/n
