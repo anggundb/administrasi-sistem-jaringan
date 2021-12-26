@@ -24,7 +24,10 @@ Konfigurasi VLAN di Routerboard menggunakan Switch Chipset (hardware):
 Setting Router Utama (untuk remote konfigurasi gunakan port terakhir karena port 1 ada default config, biar kosong kita remove configuration)
 Login Mikrotik: admin 
       Password: kosong
-1. Beri nama dan password untuk router 
+1. Ganti password
+   system > Users > + (tambahkan user baru) > name: user > group: full > password: 123 > confirm password: 123 > apply > OK
+   lalu admin kita matikan (disable) kemudian login lagi dengan user dan password yang sudah dibuat tadi
+2. Beri nama untuk router 
    system > identity > Router Utama > Apply > OK
 
 
