@@ -1,4 +1,20 @@
+=== VLAN (Virtual Local Area Network) ===
+Bisa digunakan oleh perangkat jaringan yang sudah manageable.
+Fungsi VLAN:
+1. Untuk mengelompokkan beberapa network pada satu switch yang sama. Kalau biasanya satu switch hanya dapat digunakan untuk jaringan yang satu subnet, 
+   dengan VLAN kita bisa membuat beberapa network dalam satu VLAN.
+2. Memuatkan beberapa link layer 2 / beberapa service pada sebuah link layer 1. Jika kita memiliki 1 link layer 1 atau 1 kabel, bagaimana caranya kita bisa memuatkan 
+   beberapa service yang berbeda pada satu interface fisik tersebut.
+Protokol VLAN : IEEE 802.1Q bisanya disebut .1Q = VLAN
+
+
+
+
+
+
+
 Referensi
+https://app.diagrams.net/
 https://www.youtube.com/watch?v=p92ClFkUMV0
 https://www.youtube.com/watch?v=Cu_0XQO8MG0&t=1278s
 https://www.youtube.com/watch?v=TjfDLEbhzWw
