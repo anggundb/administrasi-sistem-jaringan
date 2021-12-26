@@ -1,4 +1,6 @@
 Referensi
+https://www.youtube.com/watch?v=p92ClFkUMV0
+https://www.youtube.com/watch?v=Cu_0XQO8MG0&t=1278s
 https://www.youtube.com/watch?v=TjfDLEbhzWw
 https://wiki.mikrotik.com/wiki/Manual:Basic_VLAN_switching
 https://wiki.mikrotik.com/wiki/Manual:Interface/VLAN#Simple_VLAN_routing
