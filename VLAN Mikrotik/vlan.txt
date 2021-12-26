@@ -7,6 +7,21 @@ Fungsi VLAN:
    beberapa service yang berbeda pada satu interface fisik tersebut.
 Protokol VLAN : IEEE 802.1Q bisanya disebut .1Q = VLAN
 
+Empat perbedaan setting VLAN:
+1. Routerboard tanpa switch chip
+2. Routerboard dengan switch chip
+3. CRS (Cloud Router Switch)
+4. CSS (Cloud Smart Switch)
+Kita bisa memanagemen layer 2 itu di produk-produk yang menggunakan Router OS
+Mikrotik Routerboard adalah device layer 3 (router) tapi bisa managemen layer 2
+
+Fitur Routerboard untuk layer 2:
+1. Switch Chipset (hardware)  : melewatkan traffic melalui hardware sehingga tidak membebani CPU.
+2. Bridge tanpa switch chipset (software)
+
+
+Konfigurasi VLAN di Routerboard menggunakan Switch Chipset (hardware):
+
 
 
 
