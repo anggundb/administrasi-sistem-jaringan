@@ -67,7 +67,15 @@ Kalau bermain dengan VLAN, ada dua istilah:
 Komunikasi antara Router Utama dengan Router Distribusi melalui sebuah kabel yang membawa informasi lebih dari satu VLAN maka biasa disebut VLAN TRUNKING.
 Lalu dari Router Distribusi yang terhubung ke laptop (ether2 dan 3) dinamakan VLAN ACCESS  > VLAN TAGGING dihilangkan sehingga nanti keluar seperti ethernet biasa, langsung bisa colok ke laptop 
 
-Setting Router Utama
+Setting Router Distribusi:
+1. Cek switch chipset untuk ether berapa saja.
+   Switch > switch1 -- Type: Altheros8227  --> Kemampuan mengelola sebuah VLAN
+                                               Cek tabel switch chipset di wiki.mikrotik.com
+                                               Cek apakah sudah support VLAN table atau belum
+   Switch > port (ether berapa saja yang tergabung dalam switch chipset groupnya)
+2.    
+                                               
+
 
 
 
