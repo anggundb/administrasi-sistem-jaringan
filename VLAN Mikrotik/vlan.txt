@@ -29,7 +29,17 @@ Login Mikrotik: admin
    lalu admin kita matikan (disable) kemudian login lagi dengan user dan password yang sudah dibuat tadi
 2. Beri nama untuk router 
    system > identity > Router Utama > Apply > OK
-
+3. DHCP Client untuk Ether 1
+   IP > DHCP Client > + > Interface: Ether1 > centang use peer DNS (Bila kita hendak menggunakan DNS server sesuai dengan informasi DHCP) 
+                                            > centang use peer NTP (Bila kita hendak menggunakan informasi pengaturan waktu di router (NTP) sesuai dengan informasi dari DHCP)
+                                            > Add default route: yes (Bila kita menginginkan default route kita mengarah sesuai dengan informasi DHCP)
+   tunggu sampai status (bound) lalu cek IP nya di menu IP > Addresses
+4. Ping dari terminal
+   Ping 8.8.8.8
+   Ping google.com
+5. Supaya bisa mendistribusikan internet ke bawah
+   IP > Firewall > NAT > chain: srcnat > out interface: ether1 > action: masquerade
+6.  
 
 
 
