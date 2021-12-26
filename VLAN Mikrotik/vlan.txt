@@ -21,6 +21,9 @@ Fitur Routerboard untuk layer 2:
 
 
 Konfigurasi VLAN di Routerboard menggunakan Switch Chipset (hardware):
+Setting Router Utama (untuk konfigurasi gunakan port terakhir karena port 1 ada default config)
+1. Beri nama dan password untuk router 
+   system > identity > Router Utama > Apply > OK
 
 
 
