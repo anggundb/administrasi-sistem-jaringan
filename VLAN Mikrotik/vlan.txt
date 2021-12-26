@@ -39,8 +39,35 @@ Login Mikrotik: admin
    Ping google.com
 5. Supaya bisa mendistribusikan internet ke bawah
    IP > Firewall > NAT > chain: srcnat > out interface: ether1 > action: masquerade
-6.  
+6. Distribusi ke bawah menggunakan 2 VLAN 
+   Interface > + > VLAN > name: VLAN100 > VLAN ID: 100 (1 = tanpa VLAN) > interface: ether2 (master/trunk)
+   Interface > + > VLAN > name: VLAN200 > VLAN ID: 200 (1 = tanpa VLAN) > interface: ether2 (master/trunk)
+7. Karena saya gunakan untuk gateway maka tambahkan IP
+   IP > Addresses > + > address: 172.31.1.1/24 > interface: VLAN100
+   IP > Addresses > + > address: 192.168.30.1/24 > interface: VLAN200
+8. Tambahkan DHCP Server dikedua VLAN
+   IP > DHCP Server > DHCP Setup > DHCP Server Interface: VLAN100
+                                 > DHCP Address Space: 172.31.1.0/24 (network)
+                                 > Gateway for DHCP Network: 172.31.1.1
+                                 > Addresses to Give Out: 172.31.1.2-172.31.1.254 (pool)
+                                 > DNS Servers: 10.10.10.1
+                                 > Lease Time: 00:10:00 (setiap 10 menit refresh)
 
+   IP > DHCP Server > DHCP Setup > DHCP Server Interface: VLAN200
+                                 > DHCP Address Space: 192.168.30.0/24 (network)
+                                 > Gateway for DHCP Network: 192.168.30.1
+                                 > Addresses to Give Out: 192.168.30.2-192.168.30.254 (pool)
+                                 > DNS Servers: 10.10.10.1
+                                 > Lease Time: 00:10:00 (setiap 10 menit refresh)
+
+Kalau bermain dengan VLAN, ada dua istilah:
+1. VLAN TRUNKING / TAG
+2  VLAN ACCESS / UNTAG
+
+Komunikasi antara Router Utama dengan Router Distribusi melalui sebuah kabel yang membawa informasi lebih dari satu VLAN maka biasa disebut VLAN TRUNKING.
+Lalu dari Router Distribusi yang terhubung ke laptop (ether2 dan 3) dinamakan VLAN ACCESS  > VLAN TAGGING dihilangkan sehingga nanti keluar seperti ethernet biasa, langsung bisa colok ke laptop 
+
+Setting Router Utama
 
 
 
