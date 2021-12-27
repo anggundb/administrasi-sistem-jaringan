@@ -137,7 +137,7 @@ Alokasi IP VLAN
       1 network
       2 host yang bisa dipakai
       1 broadcast
-
+VLAN ID?
 
 
 
