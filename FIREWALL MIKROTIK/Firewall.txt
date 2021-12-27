@@ -9,7 +9,7 @@ Lapisan jaringan:
 - Port number  : transport layer 
 - IP address   : network layer
 - Mac Address  : datalink
-Di firewall dari ketiga lapisan (port, IP, Mac) kita bisa ngatur mana boleh masuk ke mana. 
+Di firewall dari ketiga lapisan (port, IP, Mac) kita bisa ngatur mana boleh masuk ke mana, mengatur besarnya traffic. 
 
 
 
