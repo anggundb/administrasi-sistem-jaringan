@@ -73,7 +73,15 @@ Setting Router Distribusi:
                                                Cek tabel switch chipset di wiki.mikrotik.com
                                                Cek apakah sudah support VLAN table atau belum
    Switch > port (ether berapa saja yang tergabung dalam switch chipset groupnya)
-2.    
+2. Melewatkan VLAN dari Router Utama ke Laptop
+   - Buat Bridge
+     Bridge > + > name: bridge1 > OK > Port > + > ether1
+                                                > Bridge: Bridge1
+                                                > Centang Hardware Offload
+                                                > OK
+                                            > + > ether2 > OK
+                                            > + > ether3 > OK
+                                            
                                                
 
 
