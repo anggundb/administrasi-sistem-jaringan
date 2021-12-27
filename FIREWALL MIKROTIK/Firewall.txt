@@ -1,2 +1,10 @@
+Fungsi Firewall adalah untuk mengatur lalu lintas / paling sederhana adalah memblokir.
+Ngatur yang paling mudah adalah : 
+- Buka / tutup
+- Banyaknya yang bisa masuk
+- Bisa merubah paket, dari yang IP XXX menjadi IP YYY.
+Firewall pada dasarnya bisa ditaruh di router, server.
+
+
 Referensi
 https://www.youtube.com/watch?v=r5sSsGNV9LE
