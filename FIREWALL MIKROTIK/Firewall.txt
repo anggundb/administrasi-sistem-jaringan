@@ -31,6 +31,11 @@ Memberi IP Address
 /ip firewall nat add chain=srcnat out-interface=ether1 action=masquerade    
 /ip firewall nat print
 
+- "nat" merupakan salah satu fungsi firewall untuk melakukan perubahan paket (IP nya dirubah) dari IP LAN dirubah jadi IP WAN.
+- masquerade : ditutup / dimasker sama nat
+Jadi fungsi nat itu masker supaya jaringan di depan g perlu tau lah jaringan apa dibelakang saya, pokoknya tau beres aja. BIsa terhubung ke internet
+
+
 DHCP Server
 /ip dhcp-server setup
 dhcp server interface: bridge1
@@ -41,9 +46,21 @@ dns servers: 192.168.0.222 atau 8.8.8.8
 lease time: 10m (tiap 10 menit akan direfresh IP Addressnya)
 /ip dhcp-server print
 
-- "nat" merupakan salah satu fungsi firewall untuk melakukan perubahan paket (IP nya dirubah) dari IP LAN dirubah jadi IP WAN.
-- masquerade : ditutup / dimasker sama nat
-Jadi fungsi nat itu masker supaya jaringan di depan g perlu tau lah jaringan apa dibelakang saya, pokoknya tau beres aja. BIsa terhubung ke internet
+Firewall NAT:
+Chain: dst-nat
+       src-nat
+Firewall Filter:
+Chain: input
+       forward
+       output
+Firewall Mangle:
+Chain: input
+       forward
+       output
+       pre
+       post
+
+
 
 
 Referensi
