@@ -74,15 +74,70 @@ Setting Router Distribusi:
                                                Cek apakah sudah support VLAN table atau belum
    Switch > port (ether berapa saja yang tergabung dalam switch chipset groupnya)
 2. Melewatkan VLAN dari Router Utama ke Laptop
-   - Buat Bridge
+   - Buat Bridge (untuk menggabungkan beberapa ethernet ke dalam satu buah switch/untuk melewatkan layer 2 nya)
      Bridge > + > name: bridge1 > OK > Port > + > ether1
                                                 > Bridge: Bridge1
-                                                > Centang Hardware Offload
+                                                > Centang Hardware Offload (menggantikan fungsi master port, 
+                                                  ketika dicentang maka trafficnya akan dilewatkan ke hardware/chipset switch yang ada di setiap routerboard)
                                                 > OK
-                                            > + > ether2 > OK
+                                            > + > ether2 
+                                                > Bridge: Bridge1
+                                                > Centang Hardware Offload (menggantikan fungsi master port, 
+                                                  ketika dicentang maka trafficnya akan dilewatkan ke hardware/chipset switch yang ada di setiap routerboard)
+                                                > OK
                                             > + > ether3 > OK
-                                            
+                                                > Bridge: Bridge1
+                                                > Centang Hardware Offload (menggantikan fungsi master port, 
+                                                  ketika dicentang maka trafficnya akan dilewatkan ke hardware/chipset switch yang ada di setiap routerboard)
+                                                > OK
+3. Memetakan VLANnya
+   Switch > VLAN > + > Switch: switch1
+                     > VLAN ID: 100
+                     > Port: ether1 (trunking)
+                             ether2 (access)
+                     > Apply 
+                     > OK
+   
+   Switch > VLAN > + > Switch: switch1
+                     > VLAN ID: 200
+                     > Port: ether1 (trunking)
+                             ether3 (access)
+                     > Apply 
+                     > OK                  
+                     
+   Switch > Port > ether1 klik 2x (VLAN TRUNKING) > VLAN Mode: Secure
+                                                  > Vlan Header: add if missing
+                                                  > OK
+  
+   Switch > Port > ether2 klik 2x (VLAN ACCESS) > VLAN Mode: Secure
+                                                > Vlan Header: always trip (untuk menghilangkan VLAN TAGGING dari TRUNKnya)
+                                                > VLAN ID: 100
+                                                > OK
                                                
+   Switch > Port > ether2 klik 2x (VLAN ACCESS) > VLAN Mode: Secure
+                                                > Vlan Header: always trip (untuk menghilangkan VLAN TAGGING dari TRUNKnya)
+                                                > VLAN ID: 200
+                                                > OK
+
+
+Pengujian:
+Setting DHCP dikomputer client
+- Ether2 dapat VLAN100 : 172.31.1.XX
+- Ether3 dapat VLAN100 : 192.168.30.XX
+
+
+
+Eksperimen:
+Apakah VLAN bisa digunakan sebagai alternatif jika port mikrotiknya sedikit, sehingga port mikrotik yang sedikit itu bisa digantikan oleh switch manageable?
+
+Kalau "wlan" tidak masuk ke switch chipset sehingga hardware offload dihilangkan centangnya karena trafficnya melewati CPU.
+
+Alokasi IP VLAN
+/30 = 4 host terdiri dari:
+      1 network
+      2 host yang bisa dipakai
+      1 broadcast
+
 
 
 
@@ -90,6 +145,7 @@ Setting Router Distribusi:
 
 
 Referensi
+https://www.youtube.com/watch?v=8y8OMXSxYrw&t=1149s  --- VLAN dengan switch manageable
 https://app.diagrams.net/
 https://www.youtube.com/watch?v=p92ClFkUMV0
 https://www.youtube.com/watch?v=Cu_0XQO8MG0&t=1278s
