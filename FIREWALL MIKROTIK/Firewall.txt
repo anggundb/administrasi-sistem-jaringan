@@ -5,6 +5,13 @@ Ngatur yang paling mudah adalah :
 - Bisa merubah paket, dari yang IP XXX menjadi IP YYY.
 Firewall pada dasarnya bisa ditaruh di router, server.
 
+Lapisan jaringan:
+- Port number  : transport layer 
+- IP address   : network layer
+- Mac Address  : datalink
+Di firewall dari ketiga lapisan (port, IP, Mac) kita bisa ngatur mana boleh masuk ke mana. 
+
+
 
 Referensi
 https://www.youtube.com/watch?v=r5sSsGNV9LE
