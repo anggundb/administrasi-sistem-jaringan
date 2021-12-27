@@ -11,6 +11,13 @@ Lapisan jaringan:
 - Mac Address  : datalink
 Di firewall dari ketiga lapisan (port, IP, Mac) kita bisa ngatur mana boleh masuk ke mana, mengatur besarnya traffic. 
 
+Konfigurasi Firewall: 
+/ip firewall nat add chain=srcnat out-interface=ether1 action=masquerade    
+/ip firewall nat print
+
+- "nat" merupakan salah satu fungsi firewall untuk melakukan perubahan paket (IP nya dirubah) dari IP LAN dirubah jadi IP WAN.
+- masquerade : ditutup / dimasker sama nat
+Jadi fungsi nat itu masker supaya jaringan di depan g perlu tau lah jaringan apa dibelakang saya, pokoknya tau beres aja. BIsa terhubung ke internet
 
 
 Referensi
