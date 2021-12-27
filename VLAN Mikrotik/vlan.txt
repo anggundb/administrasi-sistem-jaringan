@@ -143,8 +143,28 @@ Alokasi IP VLAN
 
 
 
+=== VLAN Configuration in Client RouterOS1 ===
+
+Ether1 port of Client RouterOS1 is connected to Core RouterOS through Ethernet Hub and it is working as WAN port. As Core RouterOS is using VLAN for its client, Client RouterOS1 must create VLAN on its WAN interface. The following steps will show how to create VLAN in Client RouterOS1 and configure WAN and LAN properly.
+
+- Login to Client RouterOS1 using Winbox with full privilege credential.
+- Click on Interfaces menu item. Interface List window will appear. Click on VLAN tab and then click on PLUS SIGN (+). New Interface window will appear.
+- Put interface name (VLAN 10) in Name input box and put VLAN ID (10) in VLAN ID input box and choose your physical interface (ether1) from Interface dropdown menu and then click on Apply and OK button.
+- Go to IP > Addresses menu item and click on PLUS SIGN (+). In New Address window, put WAN IP address (172.22.2.2/30) in Address input field and choose VLAN interface (VALN 10) as WAN interface from Interface dropdown menu and then click on Apply and OK button.
+- Click on PLUS SIGN (+) again and put LAN gateway IP (10.10.2.1/24) in Address input box and choose ether2 interface from Interface dropdown menu and then click on Apply and OK button.
+- Go to IP > DNS and put DNS Server IP (8.8.8.8 or 8.8.4.4) in Servers input field and click on Apply and OK button.
+- Go to IP > Firewall and click on NAT tab and then click on PLUS SIGN (+). Inside General tab, choose srcnat from Chain dropdown menu and click on Action tab and then choose masqueradefrom Action dropdown menu. Click on Apply and OK button.
+- Go to IP > Routes and click on PLUS SIGN (+). In New Route window, click on Gateway input field and put WAN Gateway address (172.22.2.1) in Gateway input field and click on Apply and OK button.
+- Client RouterOS1 configuration with VLAN has been completed. Now it is able to communicate with internet as well as its LAN users are also able to get internet through this Router. For checking, assign a LAN IP in PC-2 and try to get internet. If everything is OK, PC-2 will be able to get internet.
+
+
+
+
 
 Referensi
+https://systemzone.net/vlan-routing-configuration-between-mikrotik-routeros/
+https://www.youtube.com/watch?v=5MRR64FofYQ
+https://systemzone.net/mikrotik-vlan-routing-configuration-with-manageable-switch/
 https://www.youtube.com/watch?v=8y8OMXSxYrw&t=1149s  --- VLAN dengan switch manageable
 https://app.diagrams.net/
 https://www.youtube.com/watch?v=p92ClFkUMV0
