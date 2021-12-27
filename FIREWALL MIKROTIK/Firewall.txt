@@ -11,9 +11,35 @@ Lapisan jaringan:
 - Mac Address  : datalink
 Di firewall dari ketiga lapisan (port, IP, Mac) kita bisa ngatur mana boleh masuk ke mana, mengatur besarnya traffic. 
 
-Konfigurasi Firewall: 
+Konfigurasi Firewall (blok IP Address): 
+/ip address print  (melihat IP Address)
+
+/interface bridge  (ethernetnya di bridge)
+add name=bridge1
+/interface bridge port
+add bridge=bridge1 interface=ether2
+add bridge=bridge1 interface=ether3
+add bridge=bridge1 interface=ether4
+add bridge=bridge1 interface=ether5
+
+Memberi IP Address
+/ip address add interface=bridge1 address=192.168.100.1/24
+/ip route add gateway=bridge1
+/ip dns set servers=8.8.8.8
+/ip dns set allow-remote-request=yes
+
 /ip firewall nat add chain=srcnat out-interface=ether1 action=masquerade    
 /ip firewall nat print
+
+DHCP Server
+/ip dhcp-server setup
+dhcp server interface: bridge1
+dhcp address space: 192.168.100.0/24
+gateway for dhcp network: 192.168.100.1
+addresses to give out: 192.168.100.100-192.168.100.200
+dns servers: 192.168.0.222 atau 8.8.8.8
+lease time: 10m (tiap 10 menit akan direfresh IP Addressnya)
+/ip dhcp-server print
 
 - "nat" merupakan salah satu fungsi firewall untuk melakukan perubahan paket (IP nya dirubah) dari IP LAN dirubah jadi IP WAN.
 - masquerade : ditutup / dimasker sama nat
