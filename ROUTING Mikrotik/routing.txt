@@ -105,5 +105,6 @@ ip 192.168.2.100/24 192.168.2.1
 
 
 Referensi
+https://lms.onnocenter.or.id/wiki/index.php/Mikrotik:_Static_Routing_Sedehana
 https://www.youtube.com/watch?v=quOJtsqYu7Y&t=150s
 https://www.youtube.com/watch?v=QhNEllsclQI&t=138s
