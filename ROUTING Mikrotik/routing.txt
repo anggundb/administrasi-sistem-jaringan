@@ -9,6 +9,15 @@ Routing:
   nanti kalau ada yang nyala dia langsung tau otomatis semuanya.
   contoh: OSPF (untuk jaringan LAN dalam kantor / kampus) 
           BGP  (untuk jaringan antar provider)
+          
+          
+IP Address          
+192.168.1.1   (desimal)
+11000000.10101000.00000001.00000001  (binary)
+11111111.11111111.11111111.00000000  (netmask) > 255.255.255.0
+and
+11000000.10101000.00000001.00000000  (kode area / network) 
+   192      168       1        0
 
 
 Referensi
