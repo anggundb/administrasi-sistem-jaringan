@@ -94,6 +94,13 @@ NAT untuk Router1
 /ip firewall nat print
 
 
+PC1
+ip 192.168.1.100/24 192.168.1.1
+
+PC2
+ip 192.168.2.100/24 192.168.2.1
+
+
 
 
 
