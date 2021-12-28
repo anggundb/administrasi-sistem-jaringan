@@ -47,18 +47,27 @@ lease time: 10m (tiap 10 menit akan direfresh IP Addressnya)
 /ip dhcp-server print
 
 Firewall NAT:
-Chain: dst-nat
-       src-nat
+Chain: dst-nat    (untuk mengubah destination address pada sebuah paket data)
+       src-nat    (untuk mengubah source address dari sebuah paket data) 
 Firewall Filter:
-Chain: input
-       forward
-       output
+Chain: input      (untuk memproses trafik paket data yang masuk ke dalam router melalui interface yang ada di router dan memiliki tujuan IP Address berupa 
+                   ip yang terdapat pada router)
+       forward    (untuk memproses trafik paket data yang hanya melewati router)
+       output     (untuk memproses trafik paket data yang keluar dari router)
 Firewall Mangle:
-Chain: input
+Chain: input      
        forward
        output
-       pre
-       post
+       prerouting   (sebuah koneksi yang akan masuk kedalam router dan melewati router)
+       postrouting  (koneksi yang akan keluar dari router, baik untuk trafik yang melewati router ataupun yang keluar dari router) 
+       
+Action:
+- drop    (orang yang akses tidak tau bahwa paketnya dibuang)
+- reject  (orang yang akses biasanya dikasih tau "anda tidak dikasih ijin buat akses kesana")
+- allow   (lewat saja) 
+          (biasanya semua paket diblokir, kecuali ini di allow)
+          (semua diblokir, kecuali ... )
+          (semua boleh lewat, kecuali ...)
 
 
 
