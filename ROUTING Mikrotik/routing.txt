@@ -85,6 +85,15 @@ ping 192.168.122.1     (internet---timeout)
 
 Kalau belajar bertahap pelan-pelan, kita coba nyambung nggak nyambung nggak
 
+Dari Router1
+ping 192.168.2.1   (timeout) karena belum ada tabel routingnya
+/ip route print    (cek tabel routing)
+
+NAT untuk Router1
+/ip firewall nat add chain=srcnat out-interface=ether1 action=masquerade
+/ip firewall nat print
+
+
 
 
 
