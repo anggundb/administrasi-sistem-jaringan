@@ -37,6 +37,9 @@ netmask
 10000000 = 128
 
 
+127.0.0.1 > IP Address localhost
+0.0.0.0/0 > netmasknya 0, hostnya semua komputer diinternet (default routing / ke internet)
+
 
 
 
