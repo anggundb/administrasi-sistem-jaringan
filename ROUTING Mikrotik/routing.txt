@@ -18,6 +18,26 @@ IP Address
 and
 11000000.10101000.00000001.00000000  (kode area / network) 
    192      168       1        0
+                           00000000  (nomor pesawat telepon / host address)  
+
+misal
+11111111.00000000.00000000.00000000  (netmask indonesia)
+   192        0       0        0     (indonesia) 
+   192      168       1        0     (jakarta)
+   192      168       1        1     (nomor pesawat teleponnya)
+   
+netmask
+11111111 = 255
+11111110 = 254
+11111100 = 252
+11111000 = 248
+11110000 = 240
+11100000 = 224
+11000000 = 192
+10000000 = 128
+
+
+
 
 
 Referensi
