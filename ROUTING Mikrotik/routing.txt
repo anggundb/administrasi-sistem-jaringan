@@ -1,4 +1,14 @@
+Mikrotik asal mulanya adalah PC yang dijadikan router terus lama-lama boardnya dia bikin sendiri namanya Routerboard, sistem operasinya dia bikin sendiri namanya RouterOS
+tapi pada dasarnya didalamnya adalah linux.
 
+Routing:
+- Routing static 
+  Ngeset routingnya untuk masuk ke jaringan secara manual (tidak bisa berubah) 
+- Routing Dynamic
+  Router akan memberi tahu satu sama lain antar router dibelakang saya ada, dibelakang saya ada apa, di depan saya ada apa, disamping saya ada apa, 
+  nanti kalau ada yang nyala dia langsung tau otomatis semuanya.
+  contoh: OSPF (untuk jaringan LAN dalam kantor / kampus) 
+          BGP  (untuk jaringan antar provider)
 
 
 Referensi
