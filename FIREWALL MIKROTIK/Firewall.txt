@@ -70,7 +70,28 @@ Action:
           (semua boleh lewat, kecuali ...)
 
 Block IP:
-/ip firewall filter add chain=forward dst-address=139.177.184.75 action=drop
+/ip firewall filter add dst-address=139.177.184.75 chain=forward action=drop
+/ip firewall filter print
+0  chain=forward action=drop dst-address=139.177.184.75
+(di forward, akan didrop kalau destination addressnya 139.177.184.75)
+(action drop dari sisi user, usernya nyangka ada masalah dijaringan, "sepertinya jaringan putus / servernya mati")
+
+Kelemahan blokir menggunakan firewall router:
+Misalnya kita mau memblokir 1000 situs, kita punya IP 1000 situs yang kita masukin di setingan firewall (ada 1000 IP firewall filternya).
+Apa yang terjadi diMikrotiknya?
+Jadi waktu mikrotiknya kerja mau memblokir, caranya kalau ada paket yang masuk ke dalam mikrotik, mikrotik akan melihat daftar cekal (IP yang dituju masuk daftar cekal atau tidak?) lalu di cek ke 1000 daftar cekal tadi, lama jadinya tiap kali ada paket yang masuk di cek ke 1000 IP address.
+Jadi daftar ini akan membuat jaringan anda menjadi lambat / lemot kalau daftarnya banyak.
+
+Eksperimen:
+Blokir youtobe > masukin IP Addressnya Youtobe ke Firewall
+Redirect IP di Firewall 
+
+NAT (merubah IP)
+IPTable adalah firewallnya linux
+
+Reset Mikrotik:
+/system reset configuration
+
 
 
 
