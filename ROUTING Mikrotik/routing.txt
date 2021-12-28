@@ -71,12 +71,19 @@ Router2
 add address=172.168.1.2/30 interface=ether1
 add address=192.168.2.1/30 interface=ether2
 
-      
+/ip address print (melihat IP)      
 
+ping 192.168.1.1   status "no route to host"  (kita belum kasih routing)
 
+Routing Router2
+/ip route
+add gateway=172.168.1.1
 
+ping 192.168.1.1       (konek)
+ping 192.168.122.100   (konek)
+ping 192.168.122.1     (internet---timeout)
 
-
+Kalau belajar bertahap pelan-pelan, kita coba nyambung nggak nyambung nggak
 
 
 
