@@ -36,9 +36,16 @@ netmask
 11000000 = 192
 10000000 = 128
 
-
+IPV4
 127.0.0.1 > IP Address localhost
 0.0.0.0/0 > netmasknya 0, hostnya semua komputer diinternet (default routing / ke internet)
+
+IPV6
+::1  > localhost
+::   > internet
+
+
+=== ROUTING STATIC ===
 
 
 
