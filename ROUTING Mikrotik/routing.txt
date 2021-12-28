@@ -46,6 +46,37 @@ IPV6
 
 
 === ROUTING STATIC ===
+Login Mikrotik : admin
+      Password : kosong
+
+Do you want to see the software license? [Y/n]: n
+[admin@Mikrotik] > /ip address  
+[admin@Mikrotik] /ip address >    (tekan tab, akan keluar perintah di dalamnya)
+[admin@Mikrotik] /ip address > .. (turun satu direktori)
+
+Router1
+/ip address
+add address=192.168.122.100/24 interface=ether1
+add address=172.16.1.1/30 interface=ether2
+add address=192.168.1.1/24 interface=ether3
+
+/ip route
+add gateway=192.168.122.1
+add dst-address=192.168.2.0/24
+gateway=172.16.1.2
+
+
+Router2
+/ip address
+add address=172.168.1.2/30 interface=ether1
+add address=192.168.2.1/30 interface=ether2
+
+      
+
+
+
+
+
 
 
 
