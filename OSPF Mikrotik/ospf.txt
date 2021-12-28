@@ -105,7 +105,13 @@ Ping komputer 172.16.1.100/16 ke R1 (10.10.1.1) dan R2 (10.10.1.2)
 Coba putus satu sambungannya lalu ping dari satu komputer ke komputer yang lain                                 
 
 
-     
+
+
+Konsep OSPF adalah ada yang namanya area backbone atau area nol atau jaringan antar gedung
+Tugasnya OSPF adalah menghitung jalur terdekatnya yang mana
+
+
+
      
 
 Referensi
