@@ -1,0 +1,19 @@
+=== Debian server tidak bisa ping domain ===
+# ping 8.8.8.8     (terhubung)
+# ping google.com  (gagal)
+Konfigurasi IP Address sudah ditambahkan
+# nano /etc/network/interfaces
+  address 172.16.13.156/24
+  gateway 172.16.13.100
+  dns-nameservers 8.8.8.8 8.8.4.4
+  
+Permasalahan:
+# ping google.com (gagal)
+
+Solusi:
+Cek konfigurasi DNS di resolv.conf
+# nano /etc/resolv.conf
+  tambahkan
+  nameserver 8.8.8.8
+# reboot
+Setelah itu coba ping google.com
