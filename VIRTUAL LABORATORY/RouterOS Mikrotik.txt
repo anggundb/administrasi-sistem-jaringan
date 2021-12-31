@@ -1,0 +1,3 @@
+Referensi
+https://labkom.co.id/mikrotik/cara-install-routeros-mikrotik-di-virtualbox
+https://mikrotik.com/download/archive
