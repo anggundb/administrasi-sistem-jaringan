@@ -19,10 +19,11 @@
    - Nanti di Cloud akan muncul ethernet-ethernet lalu pilih yang VirtualBox Host-Only Network 
   
 
-
+=== Konfigurasi PC di GNS3 ===
 
 
 Referensi
 https://www.gns3.com/
 https://www.youtube.com/watch?v=aa0Wl2FPjPY
 https://www.youtube.com/watch?v=rf-yypmbUBA&t=215s
+https://www.youtube.com/watch?v=_Q9DIwbBLpk
