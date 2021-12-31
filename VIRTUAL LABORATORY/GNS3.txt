@@ -14,7 +14,8 @@
      Preferred DNS server : 8.8.8.8
      Alternate DNS server : 8.8.4.4
    - OK  
-3. Klik kanan Cloud > configure > Ethernet Interfaces > centang Show special Ethernet Interfaces
+3. Sebelum konfigurasi pastikan perangkat belum terhubung ke apapun
+   - Klik kanan Cloud > configure > Ethernet Interfaces > centang Show special Ethernet Interfaces
    - Klik dropdown lalu pilih VirtualBox Host-Only Network > Add > Apply > OK
    - Nanti di Cloud akan muncul ethernet-ethernet lalu pilih yang VirtualBox Host-Only Network 
   
