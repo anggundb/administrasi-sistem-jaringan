@@ -1,2 +1,10 @@
+=== Konfigurasi Cloud agar terhubung ke internet ===
+
+
+
+
+
 Referensi
 https://www.gns3.com/
+https://www.youtube.com/watch?v=aa0Wl2FPjPY
+https://www.youtube.com/watch?v=rf-yypmbUBA&t=215s
