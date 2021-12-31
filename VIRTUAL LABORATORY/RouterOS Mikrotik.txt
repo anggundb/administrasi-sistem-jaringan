@@ -1,3 +1,26 @@
+=== Instalasi RouterOS Mikrotik di VirtualBox ===
+- Download ISO RouterOS Mikrotik
+- Buat Mesin Virtual baru
+  Name: Mikrotik
+  Tipe: Other
+  Versi: Other/Unknown
+  Next
+- RAM: 512 MB
+- Buat virtual hardisk baru
+- Tipe berkas hardisk: VHD
+- Penyimpanan: dialokasikan secara dinamik
+- Virtual disk: 2 GB
+- Tambahkan mikrotik-6.15.iso
+- Klik mulai/start
+- Jika ingin install semua service tekan 'a' untuk select all, kemudian tekan 'i' untuk install
+- Do you want to keep old configuration? > pilih n
+- Warning: all data on the disk will be erased! Continue? > pilih y. Tunggu sampai proses instalasi selesai
+- Sebelum reboot pastikan hilangkan checklist pada mikrotik-6.15.iso. Klik kanan pada icon disk di bagian bawah virtualbox. Setelah itu enter untuk reboot
+
+
+
+
 Referensi
 https://labkom.co.id/mikrotik/cara-install-routeros-mikrotik-di-virtualbox
 https://mikrotik.com/download/archive
+http://www.rianlab.com/2014/10/install-mikrotik-di-virtualbox.html
