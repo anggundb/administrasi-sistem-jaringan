@@ -17,6 +17,9 @@
 - Warning: all data on the disk will be erased! Continue? > pilih y. Tunggu sampai proses instalasi selesai
 - Sebelum reboot pastikan hilangkan checklist pada mikrotik-6.15.iso. Klik kanan pada icon disk di bagian bawah virtualbox. Setelah itu enter untuk reboot
 
+Perintah shutdown mikroik
+/system shutdown
+
 
 
 
