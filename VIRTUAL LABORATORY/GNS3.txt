@@ -21,6 +21,16 @@
   
 
 === Konfigurasi PC di GNS3 ===
+- Klik kanan PC lalu pilih console
+  PC> ip <ip address> <mask> <gateway>
+  PC> ip 192.168.1.2/24 192.168.1.1
+  PC> ip dns 8.8.8.8   (konfigurasi DNS)
+  PC> save (untuk menyimpan)
+  PC> show (untuk melihat IP)
+- 
+
+
+
 
 
 Referensi
@@ -28,3 +38,5 @@ https://www.gns3.com/
 https://www.youtube.com/watch?v=aa0Wl2FPjPY
 https://www.youtube.com/watch?v=rf-yypmbUBA&t=215s
 https://www.youtube.com/watch?v=_Q9DIwbBLpk
+https://husnirofiq.wordpress.com/2016/07/25/cara-menambahkan-ip-address-untuk-vpcs-di-gns3/
+https://alfafarhans.blogspot.com/2017/11/belajar-gns3-5-vpcs-di-gns3.html
