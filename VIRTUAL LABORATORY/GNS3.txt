@@ -27,7 +27,9 @@
   PC> ip dns 8.8.8.8   (konfigurasi DNS)
   PC> save (untuk menyimpan)
   PC> show (untuk melihat IP)
-- 
+
+=== Menyisipkan Teks di GNS3 ===
+- Masuk ke menu Annote > add note
 
 
 
