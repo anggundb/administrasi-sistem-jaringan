@@ -29,7 +29,7 @@
   PC> show (untuk melihat IP)
 
 === Menyisipkan Teks di GNS3 ===
-- Masuk ke menu Annote > add note
+- Masuk ke menu Annotate > add note
 
 
 
