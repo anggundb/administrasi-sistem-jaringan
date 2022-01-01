@@ -32,6 +32,17 @@
 - Masuk ke menu Annotate > add note
 
 
+=== Menambahkan Mikrotik dari VirtualBox ke GNS3 ===
+- Masuk menu edit > preferences > VirtualBox VMs
+- Klik New > VM list (pilih mesin yang ingin ditambahkan) > finish
+- Klik edit > general settings
+  category: routers
+  console type: telnet
+- Klik tab network
+  adapters: 8
+  centang allow GNS3 to use any configured VirtualBox adapter
+- Klik apply > OK
+
 
 
 
