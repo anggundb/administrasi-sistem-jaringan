@@ -1,2 +1,5 @@
+Setting semua network di virtualbox 
+- attached to: Not attached
+
 Referensi
 https://www.virtualbox.org/
