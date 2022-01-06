@@ -1,5 +1,6 @@
 Setting semua network di virtualbox 
-- attached to: Not attached
+- attached to: Not attached (default: NAT)
+
 
 Referensi
 https://www.virtualbox.org/
