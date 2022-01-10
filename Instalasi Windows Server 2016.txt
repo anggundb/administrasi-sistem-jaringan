@@ -13,7 +13,7 @@ version: other windows(64-bit)
 - Custom: Install....
 - New 
 - Apply
-- OK
+- OK (windows cannot find the license)
 - Pilih partisi lalu next
 - tunggu sampai loading selesai
 - tekan ctrl+alt+del untuk unlock
