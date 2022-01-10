@@ -8,6 +8,8 @@ version: other windows(64-bit)
 - Next
 - Install now
 - pilih standard Evaluation (dekstop experience)
+        datacenter   (CLI)
+        datacenter dekstop experience (GUI)
 - next
 - I accept
 - Custom: Install....
