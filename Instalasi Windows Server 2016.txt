@@ -35,3 +35,4 @@ https://www.youtube.com/watch?v=Xwj4yy7IKog  ---memorinya minta diperbesar, HD m
 
 https://www.youtube.com/watch?v=xWhoyjRRiM0  --domain controller
 https://marstechnoo.wordpress.com/2019/04/11/konfigurasi-web-server-di-windows-server-2016/  ---webserver
+https://marstechnoo.wordpress.com/2019/04/10/konfigurasi-ftp-server-di-windows-server-2016/  ---ftpserver
