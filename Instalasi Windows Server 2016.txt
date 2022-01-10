@@ -1,3 +1,9 @@
+name: winserver2016
+type: microsoft windows
+version: other windows(64-bit)
+
+
+
 - Time and currency format: Indonesia
 - Next
 - Install now
