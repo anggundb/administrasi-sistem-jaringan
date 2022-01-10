@@ -1,3 +1,19 @@
+- Time and currency format: Indonesia
+- Next
+- Install now
+- pilih standard Evaluation (dekstop experience)
+- next
+- I accept
+- Custom: Install....
+- New 
+- Apply
+- OK
+- Pilih partisi lalu next
+- tunggu sampai loading selesai
+- tekan ctrl+alt+del untuk unlock
+
+
+
 Referensi
 https://www.youtube.com/watch?v=qnNokaBPGg4&list=PLJGji3QDg91GJh0fNlEfffc1Z214Yt2bX
 https://www.forumkomputer.com/tutorial-instalasi-windows-server-2016/
