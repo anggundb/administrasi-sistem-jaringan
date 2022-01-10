@@ -11,7 +11,10 @@
 - Pilih partisi lalu next
 - tunggu sampai loading selesai
 - tekan ctrl+alt+del untuk unlock
+
+
 - change password : password emailku
+- > shutdown /s  (untuk shutdown)
 
 
 
