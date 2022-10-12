@@ -49,8 +49,26 @@ apt-get clean
 
 
 
+=== Membuat User Baru di Webmin ===
+login ke Webmin
+Masuk ke "System - Users and Groups - Create a new user"
+
+User Details - Pada bagian ini Anda bisa memasukkan detail mengenai user yang akan ditambahkan, seperti username, User ID (UID), Real Name, Home Directory, Jenis Shel yang akan digunakan, dan juga tentunya password untuk user tersebut.
+
+Password Option - Pada bagian ini Anda bisa mengatur masa aktif password yang digunakan oleh user yang bersangkutan.
+
+Group Membership - Pada bagian ini Anda bisa memasukkan user tersebut pada group baru atau dari group yang sudah ada
+
+Upon Creation - Pada bagian ini Anda bisa mengatur apakah user akan diberikan home directory atau tidak
+
+Setelah mengisi kolom-kolom sesuai kebutuhan Anda, langkah terakhir adalah mengklik tombol "Create" di bagian bawah kolom
+
+Kemudian Anda akan dibawa kembali ke halaman Users and Groups List, scroll ke bawah dan Anda akanmelihat user baru sudah dibuat.
+
+
 
 
 
 referensi:
 https://www.howtoforge.com/how-to-install-webmin-on-debian-11/
+http://gtammam.blogspot.com/2014/02/cara-membuat-user-baru-di-webmin.html
