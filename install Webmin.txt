@@ -1,1 +1,56 @@
+apt-get update -y
+apt-get install gnupg2 curl -y
 
+=== Install Webmin ===
+wget -qO - http://www.webmin.com/jcameron-key.asc | gpg --dearmor > /etc/apt/trusted.gpg.d/jcameron-key.gpg
+sh -c 'echo "deb http://download.webmin.com/download/repository sarge contrib" > /etc/apt/sources.list.d/webmin.list'
+apt-get update -y
+apt-get install webmin -y
+
+=== Manage Webmin Service ===
+service webmin start
+service webmin restart
+service webmin stop
+service webmin status
+
+=== Webmin listens on port 100000 ===
+ss -antpl | grep 10000
+outputnya:
+LISTEN 0      4096         0.0.0.0:10000      0.0.0.0:*    users:(("miniserv.pl",pid=4073,fd=5))
+
+=== Configure Firewall for Webmin ===
+apt-get install ufw -y
+ufw allow 22
+ufw allow 10000
+ufw enable
+ufw status
+hasilnya : 
+Status: active
+
+To                         Action      From
+--                         ------      ----
+22                         ALLOW       Anywhere                  
+10000                      ALLOW       Anywhere                  
+22 (v6)                    ALLOW       Anywhere (v6)             
+10000 (v6)                 ALLOW       Anywhere (v6)  
+
+=== How to Use Webmin === 
+http://your-server-ip:10000
+root username, password 123
+
+
+=== Remove Webmin ===
+apt-get remove webmin
+apt-get autoremove -y
+apt-get clean
+
+
+
+
+
+
+
+
+
+referensi:
+https://www.howtoforge.com/how-to-install-webmin-on-debian-11/
