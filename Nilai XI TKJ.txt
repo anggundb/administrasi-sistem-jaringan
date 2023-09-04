@@ -1,1 +1,7 @@
+NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
+--------------------------------------
+NAMA          NILAI
+ANAM            90
+
+
 
