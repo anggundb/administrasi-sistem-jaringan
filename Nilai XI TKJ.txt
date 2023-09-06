@@ -1,7 +1,40 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 --------------------------------------
-NAMA          NILAI
-ANAM            90
+NAMA                                    NILAI
+AHMAD RAFLY PUTRA IRAWAN                   0
+AL MALIK BRILLIANT NDARU AKBAR           100   
+ALIF SALMAN FIRMANSYAH                     0
+BAGAS PRASETYO WIBOWO                    100
+DANA ABDU RODZAQ                           0
+DAVA HAIDAR EKA EMRIZA                   100
+DICKY RAHMAD DANI                        100
+FAEZAL RAHADY NUGROHO                    100
+FARREL AKBAR ANANDA SULISTYO             100
+FITRA SAHADEWA HARTONO                   100
+ILHAM FATCHUR RACHMAN                    100
+INDAH APRILIA VIDYANINGRUM                 0
+M. ARDI KOES WARDANA                     100
+MAULANA NOVAN FIRMANSYAH                 100
+MOCH. ZAID QOMARUDDIN                    100
+MOCH. ICHWAN MARSELO                     100
+MOCH. KHOIRUL ANAM                       100
+MOH. RIFKI LAFAIS                        100
+MUCHAMAT AKBAR AINUR RIZKY               100
+MUHAMMAD FATKURROHMAN                      0
+MUHAMMAD GHARY AL BAIHAQI                100
+MUHAMMAT FIRDAUS                           0
+NADIVA MIFTA BELGISHA                      0
+NAZAR JALALLUDIN                           0
+RAHMAD HIDAYATULLOH                      100
+RENDRA YASA ANANTA                         0
+RENDY MARCELINO                            0
+RIJAL PRASETYO                           100
+SALWA MYASHIRA MAHESA                      0
+SEPTIAN SAMSAN SAPUTRA                     0
+STEVE SEPTIAN PRAMADANA                  100
+YANUAR PUTRA HANDIKA                     100
+
+
 
 
 
