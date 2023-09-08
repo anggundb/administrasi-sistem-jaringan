@@ -78,7 +78,7 @@ Atur Name Server Client (coba di server untuk cek)
   - Tambahkan IP DNS Server ke Client (di setingan IP address) 
   - Ping nama_domain
     pastikan dapat replay dari IP DNS
-  - Lalu akses alamat domain lewat browser http://namadomain
+  - Lalu akses alamat domain lewat browser http://namadomain (hapus historynya dulu)
   
 
 Gabungkan dengan Apache:
