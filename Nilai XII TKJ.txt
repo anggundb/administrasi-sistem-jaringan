@@ -1,4 +1,4 @@
-NILAI PRAKTEK PHPMYADMIN DEBIAN 11 (2023/2024)
+NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
 NAMA                                    NILAI
 ADAM ARRASYDI AKBAR                    0
