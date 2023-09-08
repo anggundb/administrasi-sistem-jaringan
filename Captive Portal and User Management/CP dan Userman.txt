@@ -1,6 +1,8 @@
 Captive portal (halaman login) / hotspot sebagai metode authentikasi user yang ingin terkoneksi ke jaringan
 
 
+untuk mengetahui mikrotik sudah aktif dengan cara ping ke ip router pastikan replay:
+ping 192.168.0.1 -t
 
 Untuk mengaksesnya ketiklah di browser dengan http://ip_mikrotik/userman contoh http://172.16.0.1/userman
 Agar Userman terhubung dengan Mikrotik anda perlu mengaktifkan Radius Server.
