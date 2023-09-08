@@ -1,46 +1,46 @@
 NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
-NAMA                                    DNS SERVER      WEB SERVER        PHP
+NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE SERVER 
 ADAM ARRASYDI AKBAR                            85              85          85
-BAYU RAMADHANI                                  
-ALVIN FADHLI RAMADHANI                         85
-ARDI DANU EFENDI
-AULIA HAPSARI                                  85
-DEVAN RISQI AMARI
-DHANI ANAM
-DIMAS BAKTI SURYANTO
-DWI ADITYA PUTRA
-DZAKY SAPUTRA
-EDO FISABILILLAH
-EFRILLIAN ARTHA NUSANTARA ISMI                 85
-ERI ADITYA PUTRA                               85              85           85
-FARHAN YUSLI SAPUTRA                           85              85           85
-HILMAN RIFKI HARYADI                           85
-ILHAM DWITARAMA PRAYITNO                       85
-INDI ANGGRIANI
-IRHAN AFFANDI                                  85              85           85
-M. SALEH ABIDIN R.
-MICO PRIYANTO PUTRO SADEWO
-MOCH. RISKI KURNIA WIJAYA
-MOCHAMAD DZAKIRAH RENALDIMAZ
-MOCHAMMAD ZAENAL ARIFIN
-MOHAMAT IMAM UTOMO                             85
-MUHAMMAD FAHRUR ROZY
-MUHAMMAD FAJAR SHODIQ                          85
-MUHAMMAD ILHAM AKBAR PERDANA
-MUHAMMAD SAIFUL RAHMAN
-MUHAMMAD SYIHABUL IRFAN                        85
-MUHAMMAD WILDAN FAUZI
-NAYLA DISSI WAHYU UTAMI
-NEO LAKSA WIJAYA
-NIZHOM FAWAZ YASIR AL YAZID                                                  85
-RIAN HIDAYAT
-RUBEN HASIHOLAND SIMATUPANG
-SATRIA BIMA ADDIN
-SEPTIAN DWI WARDANA                            85                            85
-SHEVA RAYA ANDRIAN
-SYAIFUL IMAN
-SYARIF HIDAYATULLAH                            85
-WAHYUDI
-WIDYA SARI SUYITNO PUTRI
+BAYU RAMADHANI                                  0               0           0
+ALVIN FADHLI RAMADHANI                         85               0           0
+ARDI DANU EFENDI                                0               0           0
+AULIA HAPSARI                                  85               0           0
+DEVAN RISQI AMARI                               0               0           0
+DHANI ANAM                                      0               0           0
+DIMAS BAKTI SURYANTO                            0               0           0
+DWI ADITYA PUTRA                                0               0           0
+DZAKY SAPUTRA                                   0               0           0
+EDO FISABILILLAH                                0               0           0
+EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0
+ERI ADITYA PUTRA                               85              85          85
+FARHAN YUSLI SAPUTRA                           85              85          85
+HILMAN RIFKI HARYADI                           85               0          85
+ILHAM DWITARAMA PRAYITNO                       85               0           0
+INDI ANGGRIANI                                  0               0           0
+IRHAN AFFANDI                                  85              85          85
+M. SALEH ABIDIN R.                              0               0           0
+MICO PRIYANTO PUTRO SADEWO                      0               0           0
+MOCH. RISKI KURNIA WIJAYA                       0               0           0
+MOCHAMAD DZAKIRAH RENALDIMAZ                    0               0           0
+MOCHAMMAD ZAENAL ARIFIN                         0               0           0
+MOHAMAT IMAM UTOMO                             85               0           0
+MUHAMMAD FAHRUR ROZY                            0               0           0
+MUHAMMAD FAJAR SHODIQ                          85               0           0
+MUHAMMAD ILHAM AKBAR PERDANA                    0               0           0
+MUHAMMAD SAIFUL RAHMAN                          0               0           0
+MUHAMMAD SYIHABUL IRFAN                        85               0           0
+MUHAMMAD WILDAN FAUZI                           0               0           0
+NAYLA DISSI WAHYU UTAMI                         0               0           0
+NEO LAKSA WIJAYA                                0               0           0
+NIZHOM FAWAZ YASIR AL YAZID                     0               0          85          85
+RIAN HIDAYAT                                    0               0           0
+RUBEN HASIHOLAND SIMATUPANG                     0               0           0
+SATRIA BIMA ADDIN                               0               0           0
+SEPTIAN DWI WARDANA                            85               0          85          85
+SHEVA RAYA ANDRIAN                              0               0           0
+SYAIFUL IMAN                                    0               0           0
+SYARIF HIDAYATULLAH                            85               0           0
+WAHYUDI                                         0               0           0
+WIDYA SARI SUYITNO PUTRI                        0               0           0
 
