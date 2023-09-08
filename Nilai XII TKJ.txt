@@ -15,7 +15,7 @@ EDO FISABILILLAH                                0               0           0
 EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0
 ERI ADITYA PUTRA                               85              85          85
 FARHAN YUSLI SAPUTRA                           85              85          85
-HILMAN RIFKI HARYADI                           85               0          85
+HILMAN RIFKI HARYADI                           85               0          85                  85
 ILHAM DWITARAMA PRAYITNO                       85               0           0
 INDI ANGGRIANI                                  0               0           0
 IRHAN AFFANDI                                  85              85          85
@@ -33,11 +33,11 @@ MUHAMMAD SYIHABUL IRFAN                        85               0           0
 MUHAMMAD WILDAN FAUZI                           0               0           0
 NAYLA DISSI WAHYU UTAMI                         0               0           0
 NEO LAKSA WIJAYA                                0               0           0
-NIZHOM FAWAZ YASIR AL YAZID                     0               0          85          85
+NIZHOM FAWAZ YASIR AL YAZID                     0               0          85                  85
 RIAN HIDAYAT                                    0               0           0
 RUBEN HASIHOLAND SIMATUPANG                     0               0           0
 SATRIA BIMA ADDIN                               0               0           0
-SEPTIAN DWI WARDANA                            85               0          85          85
+SEPTIAN DWI WARDANA                            85               0          85                  85
 SHEVA RAYA ANDRIAN                              0               0           0
 SYAIFUL IMAN                                    0               0           0
 SYARIF HIDAYATULLAH                            85               0           0
