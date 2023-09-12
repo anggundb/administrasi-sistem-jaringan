@@ -1,6 +1,6 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
-NAMA                                    NILAI
+NAMA                                    DHCP SERVER      DNS SERVER
 ACHMAD ANDHIKA PRATAMA                    0                      
 ACHMAD MAULANA FIRMANSYAH                 0
 ACHMAD RIFADI                             0
