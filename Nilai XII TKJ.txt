@@ -5,7 +5,7 @@ ADAM ARRASYDI AKBAR                            85              85          85
 BAYU RAMADHANI                                  0               0           0
 ALVIN FADHLI RAMADHANI                         85               0           0
 ARDI DANU EFENDI                                0               0           0
-AULIA HAPSARI                                  85               85           0
+AULIA HAPSARI                                  85               85           85
 DEVAN RISQI AMARI                               0               0           0
 DHANI ANAM                                      0               0           0
 DIMAS BAKTI SURYANTO                            0               0           0
@@ -26,7 +26,7 @@ MOCHAMAD DZAKIRAH RENALDIMAZ                    0               0           0
 MOCHAMMAD ZAENAL ARIFIN                         0               0           0
 MOHAMAT IMAM UTOMO                             85               0           0
 MUHAMMAD FAHRUR ROZY                            0               0           0
-MUHAMMAD FAJAR SHODIQ                          85               85           0
+MUHAMMAD FAJAR SHODIQ                          85               85           85
 MUHAMMAD ILHAM AKBAR PERDANA                    0               0           0
 MUHAMMAD SAIFUL RAHMAN                          0               0           0
 MUHAMMAD SYIHABUL IRFAN                        85               85           85
