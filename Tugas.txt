@@ -1,1 +1,45 @@
-
+TUGAS ADMINISTRASI SISTEM JARINGAN (2023/2024)
+------------------------------------------------
+NAMA                                    NEXTCLOUD            EHCP(web hosting)       
+ADAM ARRASYDI AKBAR                            
+BAYU RAMADHANI                                 
+ALVIN FADHLI RAMADHANI                         
+ARDI DANU EFENDI                               80          80
+AULIA HAPSARI                                  
+DEVAN RISQI AMARI                              
+DHANI ANAM                                     
+DIMAS BAKTI SURYANTO                           
+DWI ADITYA PUTRA                               
+DZAKY SAPUTRA                                  
+EDO FISABILILLAH                               
+EFRILLIAN ARTHA NUSANTARA ISMI                 
+ERI ADITYA PUTRA                               
+FARHAN YUSLI SAPUTRA                           
+HILMAN RIFKI HARYADI                           
+ILHAM DWITARAMA PRAYITNO                       
+INDI ANGGRIANI                                 
+IRHAN AFFANDI                                  
+M. SALEH ABIDIN R.                             
+MICO PRIYANTO PUTRO SADEWO                     
+MOCH. RISKI KURNIA WIJAYA                      
+MOCHAMAD DZAKIRAH RENALDIMAZ                   
+MOCHAMMAD ZAENAL ARIFIN                        
+MOHAMAT IMAM UTOMO                             
+MUHAMMAD FAHRUR ROZY                           
+MUHAMMAD FAJAR SHODIQ                          
+MUHAMMAD ILHAM AKBAR PERDANA                   
+MUHAMMAD SAIFUL RAHMAN                         
+MUHAMMAD SYIHABUL IRFAN                        
+MUHAMMAD WILDAN FAUZI                          80           80
+NAYLA DISSI WAHYU UTAMI                        
+NEO LAKSA WIJAYA                               
+NIZHOM FAWAZ YASIR AL YAZID                    
+RIAN HIDAYAT                                   
+RUBEN HASIHOLAND SIMATUPANG                    
+SATRIA BIMA ADDIN                              80           80
+SEPTIAN DWI WARDANA                            
+SHEVA RAYA ANDRIAN                             
+SYAIFUL IMAN                                   
+SYARIF HIDAYATULLAH                            
+WAHYUDI                                        
+WIDYA SARI SUYITNO PUTRI                       
