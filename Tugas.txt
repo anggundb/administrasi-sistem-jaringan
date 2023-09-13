@@ -1,9 +1,9 @@
 TUGAS ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
 NAMA                                    NEXTCLOUD            EHCP(web hosting)       
-ADAM ARRASYDI AKBAR                            
+ADAM ARRASYDI AKBAR                            80          80
 BAYU RAMADHANI                                 
-ALVIN FADHLI RAMADHANI                         
+ALVIN FADHLI RAMADHANI                         80          80
 ARDI DANU EFENDI                               80          80
 AULIA HAPSARI                                  
 DEVAN RISQI AMARI                              
@@ -13,23 +13,23 @@ DWI ADITYA PUTRA
 DZAKY SAPUTRA                                  
 EDO FISABILILLAH                               
 EFRILLIAN ARTHA NUSANTARA ISMI                 
-ERI ADITYA PUTRA                               
+ERI ADITYA PUTRA                               80           80
 FARHAN YUSLI SAPUTRA                           
 HILMAN RIFKI HARYADI                           
 ILHAM DWITARAMA PRAYITNO                       
 INDI ANGGRIANI                                 
 IRHAN AFFANDI                                  
 M. SALEH ABIDIN R.                             
-MICO PRIYANTO PUTRO SADEWO                     
+MICO PRIYANTO PUTRO SADEWO                     80           80
 MOCH. RISKI KURNIA WIJAYA                      
 MOCHAMAD DZAKIRAH RENALDIMAZ                   
 MOCHAMMAD ZAENAL ARIFIN                        
 MOHAMAT IMAM UTOMO                             
-MUHAMMAD FAHRUR ROZY                           
+MUHAMMAD FAHRUR ROZY                           80           80
 MUHAMMAD FAJAR SHODIQ                          
 MUHAMMAD ILHAM AKBAR PERDANA                   
 MUHAMMAD SAIFUL RAHMAN                         
-MUHAMMAD SYIHABUL IRFAN                        
+MUHAMMAD SYIHABUL IRFAN                        80           80
 MUHAMMAD WILDAN FAUZI                          80           80
 NAYLA DISSI WAHYU UTAMI                        
 NEO LAKSA WIJAYA                               
@@ -42,4 +42,4 @@ SHEVA RAYA ANDRIAN
 SYAIFUL IMAN                                   
 SYARIF HIDAYATULLAH                            
 WAHYUDI                                        
-WIDYA SARI SUYITNO PUTRI                       
+WIDYA SARI SUYITNO PUTRI                       80            80
