@@ -2,17 +2,17 @@ TUGAS ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
 NAMA                                    NEXTCLOUD            EHCP(web hosting)       
 ADAM ARRASYDI AKBAR                            80          80
-BAYU RAMADHANI                                 
+BAYU RAMADHANI                                 80          80
 ALVIN FADHLI RAMADHANI                         80          80
 ARDI DANU EFENDI                               80          80
 AULIA HAPSARI                                  
-DEVAN RISQI AMARI                              
-DHANI ANAM                                     
+DEVAN RISQI AMARI                                           80
+DHANI ANAM                                                  80
 DIMAS BAKTI SURYANTO                           
-DWI ADITYA PUTRA                               
+DWI ADITYA PUTRA                                            80
 DZAKY SAPUTRA                                  
 EDO FISABILILLAH                               
-EFRILLIAN ARTHA NUSANTARA ISMI                 
+EFRILLIAN ARTHA NUSANTARA ISMI                 80           80
 ERI ADITYA PUTRA                               80           80
 FARHAN YUSLI SAPUTRA                           
 HILMAN RIFKI HARYADI                           
@@ -24,14 +24,14 @@ MICO PRIYANTO PUTRO SADEWO                     80           80
 MOCH. RISKI KURNIA WIJAYA                      
 MOCHAMAD DZAKIRAH RENALDIMAZ                   
 MOCHAMMAD ZAENAL ARIFIN                        
-MOHAMAT IMAM UTOMO                             
+MOHAMAT IMAM UTOMO                                          80
 MUHAMMAD FAHRUR ROZY                           80           80
 MUHAMMAD FAJAR SHODIQ                          
 MUHAMMAD ILHAM AKBAR PERDANA                   
 MUHAMMAD SAIFUL RAHMAN                         
 MUHAMMAD SYIHABUL IRFAN                        80           80
 MUHAMMAD WILDAN FAUZI                          80           80
-NAYLA DISSI WAHYU UTAMI                        
+NAYLA DISSI WAHYU UTAMI                        80           80
 NEO LAKSA WIJAYA                               
 NIZHOM FAWAZ YASIR AL YAZID                    
 RIAN HIDAYAT                                   
@@ -39,7 +39,7 @@ RUBEN HASIHOLAND SIMATUPANG
 SATRIA BIMA ADDIN                              80           80
 SEPTIAN DWI WARDANA                            
 SHEVA RAYA ANDRIAN                             
-SYAIFUL IMAN                                   
-SYARIF HIDAYATULLAH                            
+SYAIFUL IMAN                                                80
+SYARIF HIDAYATULLAH                            80
 WAHYUDI                                        
 WIDYA SARI SUYITNO PUTRI                       80            80
