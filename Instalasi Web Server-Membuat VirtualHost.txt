@@ -23,7 +23,7 @@ Untuk membuat banyak website dalam satu server/IP.
 # ls -l 
   - html
   - coba.ac.id
-# cd /coba.ac.id
+# cd coba.ac.id/
 # nano index.html
   <html>
     <head>
