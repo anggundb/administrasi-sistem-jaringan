@@ -46,6 +46,7 @@ solusi dpkg: warning: while removing bind9, directory.... not empty so not remov
 
 #apt install apache2 -y
 
+#apt remove --purge isc-dhcp-server -y
 
 https://raspberrypi.stackexchange.com/questions/96283/error-reading-lock-file-etc-rc-local-swp-not-enough-data-read
 File .*.swp dibuat oleh editor vi untuk mencatat perubahan sehingga perintah undo dapat berfungsi.
