@@ -10,8 +10,8 @@ ALEX HERMANSYAH                           0
 ALFIN BAGUS SAPUTRA                       0
 ANDHIKA ARYA SAMUDERA                   100                  100
 ANDIKA PUTRA PRATAMA                    100                  100
-ANGGA                                     0
-ANUGRAH DAFA ARISANDI                     0
+ANGGA                                   100
+ANUGRAH DAFA ARISANDI                   100
 BAGUS BHAKTIAR ARDIANSYAH               100                  100
 DENI PURWANTO                             0
 EGA DANANG SETYAWAN                       0
@@ -53,3 +53,8 @@ File .*.swp dibuat oleh editor vi untuk mencatat perubahan sehingga perintah und
 Mereka dibuat dengan izin yang sama dengan file yang mereka login di direktori yang sama. Karena namanya dimulai dengan titik, mereka disembunyikan.
 
 Jika Anda telah menggunakan sudo vi /etc/rc.localdan membuat /etc/.rc.local.swp Anda harus menggunakannya sudo rm /etc/.rc.local.swpuntuk menghapusnya.
+
+Permasalahan
+[Bad lock file is ignored: /etc/default/.isc-dhcp-server.swp] -> tidak bisa di edit
+solusinya :
+hapus file tersebut dengan perintah # rm /etc/default/.isc-dhcp-server.swp
