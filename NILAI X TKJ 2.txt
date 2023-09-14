@@ -1,6 +1,6 @@
 NILAI PRAKTIK 
 -------------------------------------------
-NAMA                                Instalasi Windows
+NAMA                                Instalasi Windows      Komponen Komp.
 RADYTIA DIAS PRATAMA                      80
 BINTANG ARYA FIARDILLAH                   80
 RAFI ADIKA PRATAMA                        80
