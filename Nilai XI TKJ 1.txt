@@ -48,3 +48,8 @@ solusi dpkg: warning: while removing bind9, directory.... not empty so not remov
 
 
 https://raspberrypi.stackexchange.com/questions/96283/error-reading-lock-file-etc-rc-local-swp-not-enough-data-read
+File .*.swp dibuat oleh editor vi untuk mencatat perubahan sehingga perintah undo dapat berfungsi.
+
+Mereka dibuat dengan izin yang sama dengan file yang mereka login di direktori yang sama. Karena namanya dimulai dengan titik, mereka disembunyikan.
+
+Jika Anda telah menggunakan sudo vi /etc/rc.localdan membuat /etc/.rc.local.swp Anda harus menggunakannya sudo rm /etc/.rc.local.swpuntuk menghapusnya.
