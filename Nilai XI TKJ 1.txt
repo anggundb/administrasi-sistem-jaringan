@@ -55,6 +55,6 @@ Mereka dibuat dengan izin yang sama dengan file yang mereka login di direktori y
 Jika Anda telah menggunakan sudo vi /etc/rc.localdan membuat /etc/.rc.local.swp Anda harus menggunakannya sudo rm /etc/.rc.local.swpuntuk menghapusnya.
 
 Permasalahan
-[Bad lock file is ignored: /etc/default/.isc-dhcp-server.swp] -> tidak bisa di edit
+[Bad lock file is ignored: /etc/default/.isc-dhcp-server.swp] -> tidak bisa di edit (fie tersembunyi karena ada titik didepan nama file)
 solusinya :
 hapus file tersebut dengan perintah # rm /etc/default/.isc-dhcp-server.swp
