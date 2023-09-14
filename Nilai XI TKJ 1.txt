@@ -45,3 +45,6 @@ solusi dpkg: warning: while removing bind9, directory.... not empty so not remov
 #rm -r /etc/bind
 
 #apt install apache2 -y
+
+
+https://raspberrypi.stackexchange.com/questions/96283/error-reading-lock-file-etc-rc-local-swp-not-enough-data-read
