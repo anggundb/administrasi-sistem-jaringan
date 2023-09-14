@@ -53,3 +53,44 @@ solusi name resolution
 #apt install apache2 -y
 
 
+
+
+
+
+
+
+
+
+NAMA                                    I               S                    A
+AHMAD RAFLY PUTRA IRAWAN                   
+AL MALIK BRILLIANT NDARU AKBAR           
+ALIF SALMAN FIRMANSYAH                     
+BAGAS PRASETYO WIBOWO                   
+DANA ABDU RODZAQ                           
+DAVA HAIDAR EKA EMRIZA                 
+DICKY RAHMAD DANI                      
+FAEZAL RAHADY NUGROHO                    
+FARREL AKBAR ANANDA SULISTYO            
+FITRA SAHADEWA HARTONO                 
+ILHAM FATCHUR RACHMAN                   
+INDAH APRILIA VIDYANINGRUM               
+M. ARDI KOES WARDANA                     
+MAULANA NOVAN FIRMANSYAH                 
+MOCH. ZAID QOMARUDDIN                    
+MOCH. ICHWAN MARSELO                    
+MOCH. KHOIRUL ANAM                      
+MOH. RIFKI LAFAIS                      
+MUCHAMAT AKBAR AINUR RIZKY               
+MUHAMMAD FATKURROHMAN                   
+MUHAMMAD GHARY AL BAIHAQI               
+MUHAMMAT FIRDAUS                           
+NADIVA MIFTA BELGISHA                      
+NAZAR JALALLUDIN                           
+RAHMAD HIDAYATULLOH                      
+RENDRA YASA ANANTA                      
+RENDY MARCELINO                            
+RIJAL PRASETYO                          
+SALWA MYASHIRA MAHESA                     
+SEPTIAN SAMSAN SAPUTRA                     
+STEVE SEPTIAN PRAMADANA                  
+YANUAR PUTRA HANDIKA                     
