@@ -1,6 +1,6 @@
 NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
-NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE SERVER        MAIL SERVER          ROUNDCUBE
+NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE SERVER/PHPMYADMIN        MAIL SERVER          ROUNDCUBE
 ADAM ARRASYDI AKBAR                            85              85          85
 BAYU RAMADHANI                                  0               0           0
 ALVIN FADHLI RAMADHANI                         85               0           0
