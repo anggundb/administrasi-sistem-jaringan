@@ -1,6 +1,6 @@
 NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
-NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE SERVER        MAIL SERVER
+NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE SERVER        MAIL SERVER          ROUNDCUBE
 ADAM ARRASYDI AKBAR                            85              85          85
 BAYU RAMADHANI                                  0               0           0
 ALVIN FADHLI RAMADHANI                         85               0           0
@@ -15,7 +15,7 @@ EDO FISABILILLAH                               85               0           0
 EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0
 ERI ADITYA PUTRA                               85              85          85                  85
 FARHAN YUSLI SAPUTRA                           85              85          85
-HILMAN RIFKI HARYADI                           85               85          85                  85              85
+HILMAN RIFKI HARYADI                           85               85          85                  85              85                  85
 ILHAM DWITARAMA PRAYITNO                       85               0           0
 INDI ANGGRIANI                                  0              85           0
 IRHAN AFFANDI                                  85              85          85                  85
@@ -32,7 +32,7 @@ MUHAMMAD SAIFUL RAHMAN                          0               0           0
 MUHAMMAD SYIHABUL IRFAN                        85               85           85                85
 MUHAMMAD WILDAN FAUZI                           0               0           0
 NAYLA DISSI WAHYU UTAMI                         0               85           0
-NEO LAKSA WIJAYA                                0               85           0                                    85
+NEO LAKSA WIJAYA                                0               85           0                                    85                 85
 NIZHOM FAWAZ YASIR AL YAZID                     0               85         85                  85                 85
 RIAN HIDAYAT                                    0               0           0
 RUBEN HASIHOLAND SIMATUPANG                     0               0           0
