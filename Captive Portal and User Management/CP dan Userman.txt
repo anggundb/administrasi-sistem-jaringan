@@ -26,6 +26,13 @@ Setelah itu buatlah sebuah Profiles baru, lalu tambahkan sebuat profile limitati
 Setelah Limitasi dan Profile dibuat anda bisa membuat Users/Pengguna dengan cara masuk ke menu Users lalu pilih Add untuk menambahkan, jangan lupa pililhan sebuah profile di bagian Assign profile.
 Agar userman saling terintegrasi dengan server hotspot anda maka anda perlu mengaktifkan Radius di Server Profile dengan cara masuk ke menu IP –> Hotspot –> Server Profiles, lalu pilihlah nama server profile yang akan diaktifkan server radiusnya .
 
+----------------------------------------------------------------------------------------------------------------
+Aktifkan Hotspot:
+Masuk menu IP > hotspot > hotspot setup > next sampai selesai
+
+
+
+
 
 Referensi
 https://www.youtube.com/watch?v=7lnAzVworxM
