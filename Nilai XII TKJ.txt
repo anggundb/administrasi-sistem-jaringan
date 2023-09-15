@@ -60,7 +60,7 @@ AULIA HAPSARI
 DEVAN RISQI AMARI                              
 DHANI ANAM                           s                              
 DIMAS BAKTI SURYANTO                           
-DWI ADITYA PUTRA                               
+DWI ADITYA PUTRA                      s         
 DZAKY SAPUTRA                                   
 EDO FISABILILLAH                                
 EFRILLIAN ARTHA NUSANTARA ISMI                 
@@ -72,7 +72,7 @@ INDI ANGGRIANI
 IRHAN AFFANDI                                 
 M. SALEH ABIDIN R.                              
 MICO PRIYANTO PUTRO SADEWO                      
-MOCH. RISKI KURNIA WIJAYA                       
+MOCH. RISKI KURNIA WIJAYA                 s      
 MOCHAMAD DZAKIRAH RENALDIMAZ                    
 MOCHAMMAD ZAENAL ARIFIN                         
 MOHAMAT IMAM UTOMO                             
@@ -81,7 +81,7 @@ MUHAMMAD FAJAR SHODIQ
 MUHAMMAD ILHAM AKBAR PERDANA                    
 MUHAMMAD SAIFUL RAHMAN                          
 MUHAMMAD SYIHABUL IRFAN                        
-MUHAMMAD WILDAN FAUZI                           
+MUHAMMAD WILDAN FAUZI                  s         
 NAYLA DISSI WAHYU UTAMI                         
 NEO LAKSA WIJAYA                                
 NIZHOM FAWAZ YASIR AL YAZID                     
