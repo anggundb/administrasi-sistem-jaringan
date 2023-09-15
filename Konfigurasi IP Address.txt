@@ -31,3 +31,4 @@ Cek IP
 Referensi: 
 https://www.cyberciti.biz/faq/linux-restart-network-interface/
 https://linuxhint.com/find-local-ip-address-debian/
+https://www.techrepublic.com/article/how-to-scan-for-ip-addresses-on-your-network-with-linux/
