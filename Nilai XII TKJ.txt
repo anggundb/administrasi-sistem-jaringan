@@ -29,7 +29,7 @@ MUHAMMAD FAHRUR ROZY                            0               0           0
 MUHAMMAD FAJAR SHODIQ                          85               85           85                85
 MUHAMMAD ILHAM AKBAR PERDANA                    0               0           0
 MUHAMMAD SAIFUL RAHMAN                          0               0           0
-MUHAMMAD SYIHABUL IRFAN                        85               85           85
+MUHAMMAD SYIHABUL IRFAN                        85               85           85                85
 MUHAMMAD WILDAN FAUZI                           0               0           0
 NAYLA DISSI WAHYU UTAMI                         0               0           0
 NEO LAKSA WIJAYA                                0               85           0
@@ -40,7 +40,7 @@ SATRIA BIMA ADDIN                               0               0           0
 SEPTIAN DWI WARDANA                            85               85         85                  85          85
 SHEVA RAYA ANDRIAN                              0               0           0
 SYAIFUL IMAN                                    0               0           0
-SYARIF HIDAYATULLAH                            85               85           85
+SYARIF HIDAYATULLAH                            85               85           85                85
 WAHYUDI                                         0               0           0
 WIDYA SARI SUYITNO PUTRI                        0               0           0
 
