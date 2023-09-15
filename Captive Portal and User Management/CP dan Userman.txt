@@ -35,6 +35,37 @@ Aktifkan Hotspot:
 Masuk menu IP > hotspot > hotspot setup > next sampai selesai
 Masuk ke menu Wireless > klik 2x Wlan1 > ganti modenya jadi "ap bridge"
 
+Cek Userman:
+Ketik IP ether 1 di browser > http://ip_ether1/userman (username : admin, password kosong)
+
+Menghubungkan User Manager dengan Hotspot dengan mengaktifkan Radius Server:
+Masuk menu RADIUS > Service (centang hotspot) > isi address : 127.0.0.1
+                                                    secret : 12345
+                                              > Apply > OK
+
+Masuk ke Userman:
+Pilih menu Routers dan tambahkan router baru dengan address : 127.0.0.1 lalu password : 12345 (sama dengan RADIUS mikrotik)
+
+Ubah hak akses Userman:
+Masuk menu Customer lalu add dan tambahkan pengguna baru atau ubah hak akses jadi admin
+
+Buat limitasi:
+Menu Profiles 
+
+Buat Profil:
+buat profile baru dan tambahkan limitasi yang kita buat tadi.
+
+Buat User:
+Menu User
+
+Integrasikan Radius Server dengan Hotspot:
+Menu IP > Hotspot > Server Profiles > pilih nama server profile yang akan diaktifkan server radiusnya (centang "Use RADIUS")
+
+Pengujian :
+Hubungkan ke wifi hotspot lalu login dengan akun userman
+
+
+
 
 
 
