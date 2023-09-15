@@ -24,6 +24,10 @@ tambahkan :
 # ifup enp0s3        > turn on
 # ip a show enp0s3   > see ip address info
 
+Cek IP
+# hostname -I
+
 
 Referensi: 
 https://www.cyberciti.biz/faq/linux-restart-network-interface/
+https://linuxhint.com/find-local-ip-address-debian/
