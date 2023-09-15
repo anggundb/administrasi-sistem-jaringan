@@ -29,7 +29,7 @@ Agar userman saling terintegrasi dengan server hotspot anda maka anda perlu meng
 ----------------------------------------------------------------------------------------------------------------
 Hubungkan Ether1 ke Internet:
 Masuk menu IP > DHCP Client > Interfaces : ether 1 > apply > OK
-Cek 
+Cek : ping google.com di new terminal
 
 Aktifkan Hotspot:
 Masuk menu IP > hotspot > hotspot setup > next sampai selesai
