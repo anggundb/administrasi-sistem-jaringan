@@ -27,8 +27,15 @@ Setelah Limitasi dan Profile dibuat anda bisa membuat Users/Pengguna dengan cara
 Agar userman saling terintegrasi dengan server hotspot anda maka anda perlu mengaktifkan Radius di Server Profile dengan cara masuk ke menu IP –> Hotspot –> Server Profiles, lalu pilihlah nama server profile yang akan diaktifkan server radiusnya .
 
 ----------------------------------------------------------------------------------------------------------------
+Hubungkan Ether1 ke Internet:
+Masuk menu IP > DHCP Client > Interfaces : ether 1 > apply > OK
+Cek 
+
 Aktifkan Hotspot:
 Masuk menu IP > hotspot > hotspot setup > next sampai selesai
+Masuk ke menu Wireless > klik 2x Wlan1 > ganti modenya jadi "ap bridge"
+
+
 
 
 
