@@ -70,7 +70,7 @@ hapus file tersebut dengan perintah # rm /etc/default/.isc-dhcp-server.swp
 
 NAMA                                   I            S          A     
 ACHMAD ANDHIKA PRATAMA                                        
-ACHMAD MAULANA FIRMANSYAH                 
+ACHMAD MAULANA FIRMANSYAH                s                 
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
 AKHMAD HAFIDZ FIRMANSYAH                                  
@@ -99,8 +99,8 @@ MUHAMMAD HUSAINI RIDWAN
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       
 MUHAMMAD SAMANUDIN ILHAM                 
 NANDA RIZKY SAPUTRA                      
-NAYAKA APTA RABBANI                      
+NAYAKA APTA RABBANI                      i
 RIDHO ARFIANTO ARFAN LIMATAHU              
-VAVIAN RIZZAL ARRIZKY                      
+VAVIAN RIZZAL ARRIZKY                     i 
 WILDAN KHOIRUL PRATAMA                     
 YUSUF ABDUL DJALIL                         
