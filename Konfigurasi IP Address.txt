@@ -27,7 +27,7 @@ tambahkan :
 Cek IP
 # hostname -I
 # apt install net-tools -y
-# arp -a (scaning IP)
+# arp -a (scaning IP)  ---> win/debian
 
 
 Referensi: 
@@ -35,3 +35,4 @@ https://www.cyberciti.biz/faq/linux-restart-network-interface/
 https://linuxhint.com/find-local-ip-address-debian/
 https://www.techrepublic.com/article/how-to-scan-for-ip-addresses-on-your-network-with-linux/
 https://command-not-found.com/arp
+https://www.pcwdld.com/how-to-scan-network-for-ip-addresses/
