@@ -46,6 +46,15 @@ WIDYA SARI SUYITNO PUTRI                        0               0           0
 
 
 
+# apt remove --purge openssh-server -y
+# apt remove --purge bind9 -y
+# apt remove --purge apache2 -y
+# apt remove --purge php -y
+# apt remove --purge mariadb-server -y
+# apt remove --purge postfix courier-imap -y
+# apt remove --purge postfix courier-pop -y
+# apt remove --purge postfix roudcube -y
+
 
 
 
