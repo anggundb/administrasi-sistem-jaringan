@@ -64,15 +64,15 @@ NAMA
 ADAM ARRASYDI AKBAR                  s                    
 BAYU RAMADHANI                               
 ALVIN FADHLI RAMADHANI                         
-ARDI DANU EFENDI                      s          
+ARDI DANU EFENDI.                      s          
 AULIA HAPSARI                                 
 DEVAN RISQI AMARI                         a     
 DHANI ANAM                           s    s                          
 DIMAS BAKTI SURYANTO                  s         
 DWI ADITYA PUTRA                      s    i     
-DZAKY SAPUTRA                                   
+DZAKY SAPUTRA.                                   
 EDO FISABILILLAH                            a     a 
-EFRILLIAN ARTHA NUSANTARA ISMI                 
+EFRILLIAN ARTHA NUSANTARA ISMI.                 
 ERI ADITYA PUTRA                               
 FARHAN YUSLI SAPUTRA                           
 HILMAN RIFKI HARYADI                           
@@ -80,25 +80,25 @@ ILHAM DWITARAMA PRAYITNO
 INDI ANGGRIANI                         a        
 IRHAN AFFANDI                                 
 M. SALEH ABIDIN R.                              
-MICO PRIYANTO PUTRO SADEWO                      
-MOCH. RISKI KURNIA WIJAYA               a  s      a
-MOCHAMAD DZAKIRAH RENALDIMAZ                    
-MOCHAMMAD ZAENAL ARIFIN                         
+MICO PRIYANTO PUTRO SADEWO.                      
+MOCH. RISKI KURNIA WIJAYA.               a  s      a
+MOCHAMAD DZAKIRAH RENALDIMAZ.                    
+MOCHAMMAD ZAENAL ARIFIN.                         
 MOHAMAT IMAM UTOMO                             
 MUHAMMAD FAHRUR ROZY                    a          a           
 MUHAMMAD FAJAR SHODIQ                          
-MUHAMMAD ILHAM AKBAR PERDANA                    
+MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       
 MUHAMMAD SYIHABUL IRFAN                        
 MUHAMMAD WILDAN FAUZI                  s  a         a
 NAYLA DISSI WAHYU UTAMI                   s      
-NEO LAKSA WIJAYA                                
+NEO LAKSA WIJAYA.                                
 NIZHOM FAWAZ YASIR AL YAZID                     
 RIAN HIDAYAT                               s a    a
-RUBEN HASIHOLAND SIMATUPANG                       i
-SATRIA BIMA ADDIN                              
+RUBEN HASIHOLAND SIMATUPANG.                       i
+SATRIA BIMA ADDIN.                              
 SEPTIAN DWI WARDANA                            
-SHEVA RAYA ANDRIAN                              
+SHEVA RAYA ANDRIAN.                              
 SYAIFUL IMAN                                    
 SYARIF HIDAYATULLAH                            
 WAHYUDI                                    i    i
