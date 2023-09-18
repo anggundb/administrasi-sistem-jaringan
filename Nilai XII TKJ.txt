@@ -64,34 +64,34 @@ NAMA
 ADAM ARRASYDI AKBAR                  s                    
 BAYU RAMADHANI                               
 ALVIN FADHLI RAMADHANI                         
-ARDI DANU EFENDI                              
+ARDI DANU EFENDI                      s          
 AULIA HAPSARI                                 
 DEVAN RISQI AMARI                         a     
 DHANI ANAM                           s    s                          
-DIMAS BAKTI SURYANTO                           
+DIMAS BAKTI SURYANTO                  s         
 DWI ADITYA PUTRA                      s    i     
 DZAKY SAPUTRA                                   
-EDO FISABILILLAH                                
+EDO FISABILILLAH                            a    
 EFRILLIAN ARTHA NUSANTARA ISMI                 
 ERI ADITYA PUTRA                               
 FARHAN YUSLI SAPUTRA                           
 HILMAN RIFKI HARYADI                           
 ILHAM DWITARAMA PRAYITNO                       
-INDI ANGGRIANI                                 
+INDI ANGGRIANI                         a        
 IRHAN AFFANDI                                 
 M. SALEH ABIDIN R.                              
 MICO PRIYANTO PUTRO SADEWO                      
-MOCH. RISKI KURNIA WIJAYA                 s      
+MOCH. RISKI KURNIA WIJAYA               a  s      
 MOCHAMAD DZAKIRAH RENALDIMAZ                    
 MOCHAMMAD ZAENAL ARIFIN                         
 MOHAMAT IMAM UTOMO                             
 MUHAMMAD FAHRUR ROZY                            
 MUHAMMAD FAJAR SHODIQ                          
 MUHAMMAD ILHAM AKBAR PERDANA                    
-MUHAMMAD SAIFUL RAHMAN                          
+MUHAMMAD SAIFUL RAHMAN                   s       
 MUHAMMAD SYIHABUL IRFAN                        
 MUHAMMAD WILDAN FAUZI                  s         
-NAYLA DISSI WAHYU UTAMI                         
+NAYLA DISSI WAHYU UTAMI                   s      
 NEO LAKSA WIJAYA                                
 NIZHOM FAWAZ YASIR AL YAZID                     
 RIAN HIDAYAT                                a    
@@ -101,5 +101,5 @@ SEPTIAN DWI WARDANA
 SHEVA RAYA ANDRIAN                              
 SYAIFUL IMAN                                    
 SYARIF HIDAYATULLAH                            
-WAHYUDI                                        
+WAHYUDI                                    i    
 WIDYA SARI SUYITNO PUTRI                       
