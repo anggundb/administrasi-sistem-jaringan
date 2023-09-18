@@ -58,7 +58,7 @@ WIDYA SARI SUYITNO PUTRI                        0               0           0
 
 
 
-
+ABSENSI
 --------------------------------------------------------------------
 NAMA                                    
 ADAM ARRASYDI AKBAR                  s                    
@@ -66,10 +66,10 @@ BAYU RAMADHANI
 ALVIN FADHLI RAMADHANI                         
 ARDI DANU EFENDI                              
 AULIA HAPSARI                                 
-DEVAN RISQI AMARI                              
-DHANI ANAM                           s                              
+DEVAN RISQI AMARI                         a     
+DHANI ANAM                           s    s                          
 DIMAS BAKTI SURYANTO                           
-DWI ADITYA PUTRA                      s         
+DWI ADITYA PUTRA                      s    i     
 DZAKY SAPUTRA                                   
 EDO FISABILILLAH                                
 EFRILLIAN ARTHA NUSANTARA ISMI                 
@@ -94,7 +94,7 @@ MUHAMMAD WILDAN FAUZI                  s
 NAYLA DISSI WAHYU UTAMI                         
 NEO LAKSA WIJAYA                                
 NIZHOM FAWAZ YASIR AL YAZID                     
-RIAN HIDAYAT                                    
+RIAN HIDAYAT                                a    
 RUBEN HASIHOLAND SIMATUPANG                     
 SATRIA BIMA ADDIN                              
 SEPTIAN DWI WARDANA                            
