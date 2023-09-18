@@ -3,7 +3,7 @@ NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE/PHPMYADMIN        MAIL SERVER          ROUNDCUBE
 ADAM ARRASYDI AKBAR                            85              85          85
 BAYU RAMADHANI                                  0               0           0
-ALVIN FADHLI RAMADHANI                         85               0           0
+ALVIN FADHLI RAMADHANI                         85               85           0
 ARDI DANU EFENDI                                0               0           0
 AULIA HAPSARI                                  85               85         85              85
 DEVAN RISQI AMARI                               0               0           0
@@ -11,12 +11,12 @@ DHANI ANAM                                      0               0           0
 DIMAS BAKTI SURYANTO                            0               0           0
 DWI ADITYA PUTRA                                0               0           0
 DZAKY SAPUTRA                                   0               0           0
-EDO FISABILILLAH                               85              85          85
+EDO FISABILILLAH                               85              85          85                  85
 EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0
 ERI ADITYA PUTRA                               85              85          85                  85               85
 FARHAN YUSLI SAPUTRA                           85              85          85
 HILMAN RIFKI HARYADI                           85               85          85                  85              85                      85
-ILHAM DWITARAMA PRAYITNO                       85               0           0
+ILHAM DWITARAMA PRAYITNO                       85              85           0
 INDI ANGGRIANI                                  0              85           0
 IRHAN AFFANDI                                  85              85          85                  85               85
 M. SALEH ABIDIN R.                              0               0           0
