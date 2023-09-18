@@ -71,7 +71,7 @@ DHANI ANAM                           s    s
 DIMAS BAKTI SURYANTO                  s         
 DWI ADITYA PUTRA                      s    i     
 DZAKY SAPUTRA                                   
-EDO FISABILILLAH                            a    
+EDO FISABILILLAH                            a     a 
 EFRILLIAN ARTHA NUSANTARA ISMI                 
 ERI ADITYA PUTRA                               
 FARHAN YUSLI SAPUTRA                           
@@ -81,25 +81,25 @@ INDI ANGGRIANI                         a
 IRHAN AFFANDI                                 
 M. SALEH ABIDIN R.                              
 MICO PRIYANTO PUTRO SADEWO                      
-MOCH. RISKI KURNIA WIJAYA               a  s      
+MOCH. RISKI KURNIA WIJAYA               a  s      a
 MOCHAMAD DZAKIRAH RENALDIMAZ                    
 MOCHAMMAD ZAENAL ARIFIN                         
 MOHAMAT IMAM UTOMO                             
-MUHAMMAD FAHRUR ROZY                            
+MUHAMMAD FAHRUR ROZY                    a          a           
 MUHAMMAD FAJAR SHODIQ                          
 MUHAMMAD ILHAM AKBAR PERDANA                    
 MUHAMMAD SAIFUL RAHMAN                   s       
 MUHAMMAD SYIHABUL IRFAN                        
-MUHAMMAD WILDAN FAUZI                  s         
+MUHAMMAD WILDAN FAUZI                  s  a         a
 NAYLA DISSI WAHYU UTAMI                   s      
 NEO LAKSA WIJAYA                                
 NIZHOM FAWAZ YASIR AL YAZID                     
-RIAN HIDAYAT                                a    
-RUBEN HASIHOLAND SIMATUPANG                     
+RIAN HIDAYAT                               s a    a
+RUBEN HASIHOLAND SIMATUPANG                       i
 SATRIA BIMA ADDIN                              
 SEPTIAN DWI WARDANA                            
 SHEVA RAYA ANDRIAN                              
 SYAIFUL IMAN                                    
 SYARIF HIDAYATULLAH                            
-WAHYUDI                                    i    
+WAHYUDI                                    i    i
 WIDYA SARI SUYITNO PUTRI                       
