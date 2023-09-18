@@ -70,14 +70,14 @@ DANA ABDU RODZAQ
 DAVA HAIDAR EKA EMRIZA                 
 DICKY RAHMAD DANI                                  s                
 FAEZAL RAHADY NUGROHO                    
-FARREL AKBAR ANANDA SULISTYO            
+FARREL AKBAR ANANDA SULISTYO                       a 
 FITRA SAHADEWA HARTONO                 
 ILHAM FATCHUR RACHMAN                   
 INDAH APRILIA VIDYANINGRUM               
 M. ARDI KOES WARDANA                     
 MAULANA NOVAN FIRMANSYAH                 
 MOCH. ZAID QOMARUDDIN                    
-MOCH. ICHWAN MARSELO                    
+MOCH. ICHWAN MARSELO                    a           
 MOCH. KHOIRUL ANAM                      
 MOH. RIFKI LAFAIS                      
 MUCHAMAT AKBAR AINUR RIZKY               
@@ -88,7 +88,7 @@ NADIVA MIFTA BELGISHA (keluar)
 NAZAR JALALLUDIN                                    s                   
 RAHMAD HIDAYATULLOH                      
 RENDRA YASA ANANTA                      
-RENDY MARCELINO                         i                         
+RENDY MARCELINO                         i     a                    
 RIJAL PRASETYO                          
 SALWA MYASHIRA MAHESA                     
 SEPTIAN SAMSAN SAPUTRA                     
