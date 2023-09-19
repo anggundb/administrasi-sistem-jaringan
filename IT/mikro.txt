@@ -1,1 +1,22 @@
+LANGKAH-LANGKAH MENGHUBUNGKAN PC KE INTERNET MELEWATI ROUTER (MIKROTIK):
+1. Hubungkan ether 1 ke PC menggunakan kabel LAN
+2. Buka winbox dan login menggunakan MAC Address dengan user:admin dan password: kosong
+3. Konfigurasi IP Address ether 1 dengan network : 192.168.3.0/24  (Menu IP > Addresess)
+4. Ether 1 beri IP terkecil dari network tersebut
+5. Ethernet komputer beri IP selain IP 192.168.3.1
+6. Tambahkan gateway pada komputer dengan IP ether 1 mikrotik dan tambahkan DNS : 8.8.8.8
+7. Lakukan ping dari PC ke ether 1 mikrotik untuk menguji sambungan PC-Mikrotik 
+8. Konfigurasi IP Ether 2 mikrotik dengan network 172.16.18.0/24, yang mana IP terkecil sudah dipakai oleh gateway
+9. Tambahkan Gateway dan DNS ke mikrotik 
+   Gateway : 172.16.18.1  (Menu IP > Routers)
+   DNS     : 8.8.8.8      (Menu IP > DNS)
+10. Lakukan ping dari ether 2 mikrotik ke google.com  
+    ping google.com
+11. Tambahkan NAT
+    Masuk menu IP > Firewall > NAT
+    Chain          : srcnat
+    Out. Interface : ether 2
+    Action         : masquerade\
+12. Lakukan ping dari PC ke google.com  
+    ping google.com
 
