@@ -64,12 +64,12 @@ NAMA
 ADAM ARRASYDI AKBAR                  s                    
 BAYU RAMADHANI                               
 ALVIN FADHLI RAMADHANI                         
-ARDI DANU EFENDI.                      s          
-AULIA HAPSARI                                 
-DEVAN RISQI AMARI                         a     
-DHANI ANAM                           s    s                          
+ARDI DANU EFENDI.                      s      s    
+AULIA HAPSARI                                 s  s
+DEVAN RISQI AMARI                         a   a    
+DHANI ANAM                           s    s   s                       
 DIMAS BAKTI SURYANTO                  s         
-DWI ADITYA PUTRA                      s    i     
+DWI ADITYA PUTRA                      s    i     a
 DZAKY SAPUTRA.                                   
 EDO FISABILILLAH                            a     a 
 EFRILLIAN ARTHA NUSANTARA ISMI.                 
@@ -90,11 +90,11 @@ MUHAMMAD FAJAR SHODIQ
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       
 MUHAMMAD SYIHABUL IRFAN                        
-MUHAMMAD WILDAN FAUZI                  s  a         a
+MUHAMMAD WILDAN FAUZI                  s  a         a  a
 NAYLA DISSI WAHYU UTAMI                   s      
 NEO LAKSA WIJAYA.                                
 NIZHOM FAWAZ YASIR AL YAZID                     
-RIAN HIDAYAT                               s a    a
+RIAN HIDAYAT                               s a    a  a
 RUBEN HASIHOLAND SIMATUPANG.                       i
 SATRIA BIMA ADDIN.                              
 SEPTIAN DWI WARDANA                            
