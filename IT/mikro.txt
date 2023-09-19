@@ -16,7 +16,7 @@ LANGKAH-LANGKAH MENGHUBUNGKAN PC KE INTERNET MELEWATI ROUTER (MIKROTIK):
     Masuk menu IP > Firewall > NAT
     Chain          : srcnat
     Out. Interface : ether 2
-    Action         : masquerade\
+    Action         : masquerade
 12. Lakukan ping dari PC ke google.com  
     ping google.com
 
