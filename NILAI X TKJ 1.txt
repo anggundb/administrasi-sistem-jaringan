@@ -2,7 +2,7 @@ NILAI PRAKTIK
 -------------------------------------------
 NAMA                                Instalasi Windows      Komponen Komp.
 ACHMAD RIZKIE ROSADI P..                    100
-ADHWA DHAWI PRANA ABYAN
+ADHWA DHAWI PRANA ABYAN                     100
 AFRILIAN INSAN SAPUTRA
 AKMAD MALIKI ABDULLAH                       100
 ANDHIKA TRI JULIANTO.
@@ -28,7 +28,7 @@ MAULANA BAGUS FADILLA.                       100
 MOCH. ARIANTO
 MOCH. FAIRUS GILANG FAJRIANSYAH.              100
 MOH. TEGAR FERDI DANUARTA.                    100
-MUHAMMAD CHENG HOO
+MUHAMMAD CHENG HOO                            100
 MUHAMMAD FARID RIDWAN
 MUHAMMAD HABHYB FADHILAH.                      100
 RASYA WAFIUDDIN MUAZZAM
