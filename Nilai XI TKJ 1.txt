@@ -18,10 +18,10 @@ EGA DANANG SETYAWAN                       0
 FADKHULI NIZAM HABIBI                   100
 FIKRI ARDINSYAH SAPUTRA                   0
 IKMAL CHULAIFI PRADITYA                   0
-IRVAN BAGUS SETIAWAN                    100                100
+IRVAN BAGUS SETIAWAN                    100                100             100
 MOCH. ALDIANO ABIGAIL EFFENDI             0
 MOCH. ARIF AFANDI                         0
-MOCH. RIZAL ZAMANI                      100                100
+MOCH. RIZAL ZAMANI                      100                100             100
 MOCH. SYAIFUDDIN MUBAROQ                  0
 MOCH. ZHIDAN ZAKARIYAH                    0
 MOHAMMAD HARIS SAHAN                    100                100            100
