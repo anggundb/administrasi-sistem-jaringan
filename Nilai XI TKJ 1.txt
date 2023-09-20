@@ -64,6 +64,9 @@ Permasalahan
 solusinya :
 hapus file tersebut dengan perintah # rm /etc/default/.isc-dhcp-server.swp
 
+Perintah melihat file hidden (.):
+ls -la
+
 
 
 
