@@ -85,7 +85,7 @@ ACHMAD FATONI.
 AL-FATH AGUNG PANGESTU                    
 BINTANG ARYA FIARDILLAH                   
 DARIEL ABDIEL AKBAR R.S                   
-DESTRA SATRIA HARTONO                     
+DESTRA SATRIA HARTONO            s         
 FAREL ADITYA PRATAMA                      a
 FERI ALDI.
 GALIH FAJAR PRASETYO JATI.                a
@@ -106,7 +106,7 @@ MUHAMMAD NAUFAL AZIZI
 MUHAMMAD NUR KOWI                         
 RADYTIA DIAS PRATAMA                      
 RAFI ADIKA PRATAMA                        
-REYHAN DEFANDA.
+REYHAN DEFANDA.                        a
 ROZZAQUL MUBAROK FAKHRUDDIN.
 VIDO AIDIL SAPUTRA.                       
 
