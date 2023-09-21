@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" modified="2023-09-21T08:03:58.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3P5NhLNF6oVB5Dco92-f" version="21.8.0" type="device">
+  <diagram name="Page-1" id="nk-2Uah-SKGxaa6baYP7">
+    <mxGraphModel dx="1467" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bEnfS8oPEmgfVWYTnivy-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="15" y="50" width="820" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry width="820" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Web Server-Virtualhost&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="253.5181236673774" y="73.76623376623377" width="236.03411513859277" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-3" value="apache2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="8.742004264392325" y="193.63636363636363" width="96.16204690831557" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-4" value="/etc/apache2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="8.742004264392325" y="254.4935064935065" width="96.16204690831557" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-5" value="sites-available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="122.38805970149255" y="202.85714285714286" width="96.16204690831557" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-8" value="sites-enabled" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="104.9040511727079" y="295.06493506493507" width="96.16204690831557" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="58.57142857142858" y="214.84415584415584" as="sourcePoint" />
+            <mxPoint x="58.57142857142858" y="260.94805194805195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="87.42004264392324" y="267.4025974025974" as="sourcePoint" />
+            <mxPoint x="131.13006396588486" y="221.2987012987013" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="87.42004264392324" y="267.4025974025974" as="sourcePoint" />
+            <mxPoint x="113.64605543710022" y="304.2857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-12" value="nano sites-available/coba.ac.id.conf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="253.5181236673774" y="201.012987012987" width="183.5820895522388" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215.92750533049042" y="215.76623376623377" as="sourcePoint" />
+            <mxPoint x="250.8955223880597" y="215.76623376623377" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-14" value="&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;lt;VirtualHost *:80&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; ServerAdmin admin@coba.ac.id&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; ServerName coba.ac.id&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; ServerAlias www.coba.ac.id&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; DocumentRoot /var/www/coba.ac.id&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; ErrorLog ${APACHE_LOG_DIR}/error.log&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; CustomLog ${APACHE_LOG_DIR}/access.log combined&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&amp;lt;/VirtualHost&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="498.2942430703625" y="147.53246753246754" width="297.22814498933906" height="119.87012987012987" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445.84221748400853" y="214.38311688311688" as="sourcePoint" />
+            <mxPoint x="480.81023454157787" y="214.38311688311688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-16" value="mkdir /var/www/coba.ac.id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="568.2302771855011" y="304.2857142857143" width="174.84008528784648" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-17" value="nano /var/www/coba.ac.id/index.html" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="568.2302771855011" y="343.93506493506493" width="201.06609808102345" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-18" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;&amp;nbsp; &amp;lt;html&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;lt;head&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;title&amp;gt;coba.ac.id&amp;lt;/title&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;lt;/head&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;lt;body&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;lt;h1&amp;gt;NAMA SISWA&amp;lt;/h1&amp;gt;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;lt;/body&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;lt;/html&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="574.7867803837953" y="396.49350649350646" width="187.95309168443498" height="119.87012987012987" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.4405117270788" y="272.93506493506493" as="sourcePoint" />
+            <mxPoint x="655.7377398720682" y="309.8181818181818" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-20" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.4405117270788" y="323.64935064935065" as="sourcePoint" />
+            <mxPoint x="655.6503198294243" y="351.31168831168833" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.4405117270788" y="364.2207792207792" as="sourcePoint" />
+            <mxPoint x="655.6503198294243" y="391.8831168831169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-23" value="cd /etc/apache2/sites-available" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="568.2302771855011" y="565.2337662337662" width="201.06609808102345" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-24" value="a2ensite coba.ac.id.conf&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="576.9722814498934" y="627.012987012987" width="201.06609808102345" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-25" value="systemctl reload apache2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" vertex="1">
+          <mxGeometry x="576.9722814498934" y="682.3376623376623" width="201.06609808102345" height="27.662337662337663" as="geometry" />
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.4405117270788" y="534.8051948051948" as="sourcePoint" />
+            <mxPoint x="655.6503198294243" y="562.4675324675325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.4405117270788" y="599.3506493506493" as="sourcePoint" />
+            <mxPoint x="655.6503198294243" y="627.012987012987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogmownrK-89vXzWXZmXE-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="bEnfS8oPEmgfVWYTnivy-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.4405117270788" y="661.1298701298701" as="sourcePoint" />
+            <mxPoint x="655.6503198294243" y="688.7922077922078" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
