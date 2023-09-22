@@ -68,7 +68,7 @@ ARDI DANU EFENDI.                      s      s
 AULIA HAPSARI                                 s  s
 DEVAN RISQI AMARI                         a   a    
 DHANI ANAM                           s    s   s                       
-DIMAS BAKTI SURYANTO                  s         
+DIMAS BAKTI SURYANTO                  s       a  
 DWI ADITYA PUTRA                      s    i     a
 DZAKY SAPUTRA.                                   
 EDO FISABILILLAH                            a     a 
@@ -90,16 +90,16 @@ MUHAMMAD FAJAR SHODIQ
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       
 MUHAMMAD SYIHABUL IRFAN                        
-MUHAMMAD WILDAN FAUZI                  s  a         a  a
+MUHAMMAD WILDAN FAUZI                  s  a         a  a    a
 NAYLA DISSI WAHYU UTAMI                   s      
 NEO LAKSA WIJAYA.                                
 NIZHOM FAWAZ YASIR AL YAZID                     
-RIAN HIDAYAT                               s a    a  a
+RIAN HIDAYAT                               s a    a  a    a
 RUBEN HASIHOLAND SIMATUPANG.                       i
 SATRIA BIMA ADDIN.                              
 SEPTIAN DWI WARDANA                            
 SHEVA RAYA ANDRIAN.                              
 SYAIFUL IMAN                                    
 SYARIF HIDAYATULLAH                            
-WAHYUDI                                    i    i
+WAHYUDI                                    i    i    s
 WIDYA SARI SUYITNO PUTRI                       
