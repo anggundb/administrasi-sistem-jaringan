@@ -1,1 +1,137 @@
+=== Database Server ===
+# apt install mariadb-server mariadb-client -y
+# mysql_secure_installation  >> setting password root database
 
+membuat database dan user nextcloud:
+# mysql -u root -p 
+# CREATE USER 'nextcloud'@'localhost' IDENTIFIED BY 'StrongDBP@SSwo$d';
+# CREATE DATABASE nextcloud;
+# GRANT ALL PRIVILEGES ON nextcloud.* TO 'nextcloud'@'localhost';
+# FLUSH PRIVILEGES;
+# QUIT
+
+hapus php lama:
+apt -y remove php php-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}
+
+install php:
+apt install lsb-release apt-transport-https ca-certificates software-properties-common
+wget -O /etc/apt/trusted.gpg.d/php.gpg https://packages.sury.org/php/apt.gpg
+sh -c 'echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main" > /etc/apt/sources.list.d/php.list'
+apt update
+apt install php8.2
+apt install vim php8.2-{bcmath,xml,fpm,mysql,zip,intl,ldap,gd,cli,bz2,curl,mbstring,pgsql,opcache,soap,cgi}
+apt install apache2 libapache2-mod-php8.2
+
+
+php setting:
+vim /etc/php/*/apache2/php.ini
+date.timezone = Africa/Nairobi
+memory_limit = 512M
+upload_max_filesize = 500M
+post_max_size = 500M
+max_execution_time = 300
+
+restart :
+systemctl restart apache2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# apt install apache2 mariadb-server -y
+# systemctl status apache2
+# systemctl status mysqld
+
+
+Install PHP 7.4 or 8.2 and extensions
+echo "deb https://packages.sury.org/php/ $(lsb_release -sc) main"\
+| sudo tee /etc/apt/sources.list.d/sury-php.list
+
+wget -qO - https://packages.sury.org/php/apt.gpg | sudo apt-key add -
+
+apt update
+
+apt install php8.2
+
+apt install php8.2-{xml,cli,cgi,mysql,mbstring,gd,curl,zip}
+systemctl restart apache2
+
+mysql_secure_installation
+
+mysql
+
+CREATE DATABASE yourdb;
+
+CREATE USER 'youruser'@'localhost' IDENTIFIED BY 'yourpassword';
+
+GRANT ALL ON yourdb.* TO 'youruser'@'localhost';
+
+FLUSH PRIVILEGES;
+exit;
+
+wget https://download.nextcloud.com/server/releases/latest.zip
+
+unzip latest.zip
+
+mv nextcloud /var/www/html/
+
+chown -R www-data:www-data /var/www/html/nextcloud
+
+nano /etc/apache2/sites-available/nextcloud.conf
+
+<VirtualHost *:80>
+     ServerAdmin admin@example.com
+     DocumentRoot /var/www/html/nextcloud
+     ServerName example.com
+     ServerAlias www.example.com
+
+     <Directory /var/www/html/nextcloud/>
+          Options FollowSymlinks
+          AllowOverride All
+          Require all granted
+     </Directory>
+
+     ErrorLog ${APACHE_LOG_DIR}/error.log
+     CustomLog ${APACHE_LOG_DIR}/access.log combined
+    
+     <Directory /var/www/html/nextcloud/>
+            RewriteEngine on
+            RewriteBase /
+            RewriteCond %{REQUEST_FILENAME} !-f
+            RewriteRule ^(.*) index.php [PT,L]
+    </Directory>
+</VirtualHost>
+
+
+a2dissite 000-default.conf
+a2ensite nextcloud.conf
+
+a2enmod headers rewrite env dir mime
+
+systemctl reload apache2
+
+http://192.168.0.109/
