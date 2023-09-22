@@ -17,7 +17,7 @@ ERI ADITYA PUTRA                               85              85          85   
 FARHAN YUSLI SAPUTRA                           85              85          85
 HILMAN RIFKI HARYADI                           85               85          85                  85              85                      85
 ILHAM DWITARAMA PRAYITNO                       85              85           85                  85
-INDI ANGGRIANI                                  0              85           0
+INDI ANGGRIANI                                 85              85           0
 IRHAN AFFANDI                                  85              85          85                  85               85
 M. SALEH ABIDIN R.                              0               0           0
 MICO PRIYANTO PUTRO SADEWO                      0               0           0
@@ -31,7 +31,7 @@ MUHAMMAD ILHAM AKBAR PERDANA                    0               0           0
 MUHAMMAD SAIFUL RAHMAN                          0               0           0
 MUHAMMAD SYIHABUL IRFAN                        85               85           85                85                85                      85
 MUHAMMAD WILDAN FAUZI                           0               0           0
-NAYLA DISSI WAHYU UTAMI                         0               85           0
+NAYLA DISSI WAHYU UTAMI                        85               85           0
 NEO LAKSA WIJAYA                               85               85           0                                    85                     85
 NIZHOM FAWAZ YASIR AL YAZID                    85               85         85                  85                 85                     85
 RIAN HIDAYAT                                    0               0           0
