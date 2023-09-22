@@ -65,7 +65,7 @@ NAMA                                    I               S                    A
 AHMAD RAFLY PUTRA IRAWAN                   
 AL MALIK BRILLIANT NDARU AKBAR           
 ALIF SALMAN FIRMANSYAH                     
-BAGAS PRASETYO WIBOWO                   
+BAGAS PRASETYO WIBOWO                   K
 DANA ABDU RODZAQ                           
 DAVA HAIDAR EKA EMRIZA                 
 DICKY RAHMAD DANI                                  s                
@@ -87,10 +87,10 @@ MUHAMMAT FIRDAUS
 NADIVA MIFTA BELGISHA (keluar)                      
 NAZAR JALALLUDIN                                    s                   
 RAHMAD HIDAYATULLOH                      
-RENDRA YASA ANANTA                      
+RENDRA YASA ANANTA                  K                   
 RENDY MARCELINO                         i     a                    
 RIJAL PRASETYO                          
-SALWA MYASHIRA MAHESA                     
+SALWA MYASHIRA MAHESA               k               
 SEPTIAN SAMSAN SAPUTRA                     
 STEVE SEPTIAN PRAMADANA                  
 YANUAR PUTRA HANDIKA                   s
