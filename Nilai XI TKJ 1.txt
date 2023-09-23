@@ -1,6 +1,6 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
-NAMA                                    DHCP SERVER      DNS SERVER          WEB SERVER   VIRTUALHOST
+NAMA                                    DHCP SERVER      DNS SERVER          WEB SERVER   VIRTUALHOST     100 VIRTUALHOST
 ACHMAD ANDHIKA PRATAMA                    0                      
 ACHMAD MAULANA FIRMANSYAH                 0
 ACHMAD RIFADI                             0
@@ -84,10 +84,10 @@ ANDIKA PUTRA PRATAMA                   i
 ANGGA                                   
 ANUGRAH DAFA ARISANDI                  
 BAGUS BHAKTIAR ARDIANSYAH                                
-DENI PURWANTO                            
+DENI PURWANTO                                     s                   
 EGA DANANG SETYAWAN                       
 FADKHULI NIZAM HABIBI                   
-FIKRI ARDINSYAH SAPUTRA                   
+FIKRI ARDINSYAH SAPUTRA                           i                
 IKMAL CHULAIFI PRADITYA                   
 IRVAN BAGUS SETIAWAN                                   
 MOCH. ALDIANO ABIGAIL EFFENDI                    s 
@@ -97,10 +97,16 @@ MOCH. SYAIFUDDIN MUBAROQ
 MOCH. ZHIDAN ZAKARIYAH                    
 MOHAMMAD HARIS SAHAN                    
 MUHAMMAD FAREL PRASETYA                 
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA 
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i
 MUHAMMAD HUSAINI RIDWAN                  
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       
-MUHAMMAD SAMANUDIN ILHAM                 
+MUHAMMAD SAMANUDIN ILHAM                           s        
+NANDA RIZKY SAPUTRA                      
+NAYAKA APTA RABBANI                      
+RIDHO ARFIANTO ARFAN LIMATAHU            
+VAVIAN RIZZAL ARRIZKY                    
+WILDAN KHOIRUL PRATAMA                   
+YUSUF ABDUL DJALIL                                 a
 
 
 
