@@ -1,4 +1,9 @@
 # tasksel    
 > hilangkan semua kecuali centang dekstop environment
 
+For GNOME3:
+# service gdm stop
+
+
+https://askubuntu.com/questions/351061/how-to-switch-from-gui-to-cli-mode-and-terminate-any-gui-program
 https://www.syarifabdillah.web.id/2019/12/cara-mengubah-tampilan-cli-menjadi-gui.html
