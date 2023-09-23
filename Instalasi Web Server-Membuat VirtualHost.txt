@@ -167,6 +167,13 @@ Pengujian di Client
 
 
 
+
+NGINX
+# apt install nginx -y 
+hapus nginx:
+# apt remove --purge nginx -y
+# apt autoremove -y
+
 Referensi:
 https://lms.onnocenter.or.id/wiki/index.php/Apache:_Virtual_Host_2
 https://www.youtube.com/watch?v=x5fWSWdM4F8
