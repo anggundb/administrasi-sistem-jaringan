@@ -1,3 +1,89 @@
+PHP:
+# apt install php php-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}
+
+Web Server dan Database:
+# apt install apache2 mariadb-server -y
+
+Cek Web Server:
+ketik di browser : IP server
+
+# nano /var/www/html/info.php
+  ketik:
+  <?php phpinfo(); ?>
+
+Cek PHP:
+# php -v
+atau
+ketik di browser : IP server/info.php
+
+Enable modul Apache untuk Nextcloud :
+# a2enmod rewrite headers env dir mime
+
+Set password database:
+# mysql_secure_installation
+
+Masuk database:
+# mysql -u root -p123
+
+Membuat database untuk nextcloud :
+> CREATE DATABASE nextcloud;
+> GRANT ALL PRIVILEGES ON nextcloud.* TO 'nextcloud'@'localhost' IDENTIFIED BY '123';
+> FLUSH PRIVILEGES;
+> EXIT;
+
+Download aplikasi NextCloud :
+# wget https://download.nextcloud.com/server/releases/nextcloud-19.0.6.zip
+# apt install unzip -y 
+# unzip nextcloud-19.0.6.zip -d /var/www/html
+
+Cek direktory nextcloud:
+# ls -l /var/www/html/
+
+Buat hak akses nextcloud :
+# chown -R www-data:www-data /var/www/html/nextcloud
+
+Buat virtualhost untuk nextcloud :
+# nano /etc/apache2/sites-available/nextcloud.conf
+tambahkan :
+<VirtualHost *:80>
+    ServerAdmin admin@coba.ac.id
+    DocumentRoot /var/www/html/nextcloud
+    ServerName coba.ac.id
+    <Directory /var/www/html/nextcloud/>
+        Options +FollowSymlinks
+        AllowOverride All
+        Require all granted
+    </Directory>
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
+Enable  virtual host dan restart Apache:
+# a2ensite nextcloud.conf
+# systemctl reload apache2
+
+
+
+Pengujian di browser:
+http://192.168.43.96/nextcloud/index.php
+
+Referensi:
+https://blog.alphavps.com/how-to-install-nextcloud-on-a-debian-11-server/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 apt install apache2 libapache2-mod-php mariadb-server php-xml php-cli php-cgi php-mysql php-mbstring php-gd php-curl php-zip -y
 
 systemctl start apache2.service
