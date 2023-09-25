@@ -1,2 +1,79 @@
+# apt install apache2 -y
+# systemctl start apache2
+# systemctl enable apache2
+# systemctl status apache2
+
+Cek Web Server:
+http://IP-address
+
+Secara default, Debian 11 hadir dengan PHP versi 7.4. :
+# apt install php libapache2-mod-php php-iconv php-intl php-soap php-zip php-curl php-mbstring php-mysql php-gd php-xml php-pspell php-json php-xmlrpc -y
+
+Cek php:
+# php -v
+
+Database:
+# apt install mariadb-server mariadb-client -y
+# systemctl start mariadb
+# systemctl stop mariadb
+# systemctl enable mariadb
+# systemctl status mariadb
+
+buka file konfigurasi default MariaDB:
+# nano /etc/mysql/mariadb.conf.d/50-server.cnf
+  tambahkan di bawah baris ' [mysqld] ':
+  default_storage_engine = innodb
+  innodb_file_per_table = 1
+  innodb_file_format = Barracuda
+
+# systemctl restart mariadb
+
+Buat database:
+# mysql -u root
+MariaDB [(none)]> CREATE DATABASE moodledb;
+MariaDB [(none)]> CREATE USER 'moodle_user'@'localhost' IDENTIFIED BY 'Moodle_Passw0rd!';
+MariaDB [(none)]> GRANT ALL ON moodledb.* TO 'moodle_user'@'localhost';
+MariaDB [(none)]> FLUSH PRIVILEGES;
+MariaDB [(none)]> EXIT
+
+Unduh moodle :
+# wget https://download.moodle.org/download.php/direct/stable400/moodle-4.0.1.zip
+# unzip moodle-4.0.1.zip -d /var/www/html/
+# mkdir /var/www/html/moodledata
+
+Aktifkan hak akses server web Apache untuk mengakses file :
+# chown -R www-data:www-data /var/www/html/moodle/
+# chmod -R 755 /var/www/html/moodle/
+# chown -R www-data:www-data /var/www/html/moodledata/
+
+VirtualHost moodle :
+# nano /etc/apache2/sites-available/moodle.conf
+  tambahkan:
+  <VirtualHost *:80>
+        ServerAdmin webmaster@your-domain.com
+        ServerName your-domain.com
+        ServerAlias www.your-domain.com
+        DocumentRoot /var/www/html/moodle
+        <Directory /var/www/html/moodle/>
+          Options Indexes FollowSymLinks
+          AllowOverride All
+          Require all granted
+        </Directory>
+      ErrorLog ${APACHE_LOG_DIR}/your-domain.com_error.log
+      CustomLog ${APACHE_LOG_DIR}/your-domain.com_access.log combined
+  </VirtualHost>
+
+Aktifkan VirtualHost :
+# a2ensite moodle.conf
+# systemctl restart apache2
+
+
+Pengujian Moodle :
+Ketik dibrowser : http://your-domain.com atau http://IP-server/moodle
+
+
+
+
+
 Referensi:
 https://www.linuxtuto.com/how-to-install-moodle-on-debian-11/
