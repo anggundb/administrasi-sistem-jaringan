@@ -78,6 +78,11 @@ Database password: nextcloud
 Database user: nextcloud
 Localhost: localhost
 
+User login:
+user: admin
+pass: 123
+
+
 
 
 
