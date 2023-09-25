@@ -23,6 +23,11 @@ Open the browser, and navigate to your Nextcloud server: http://Server_IP/nextcl
 
 https://wiki.crowncloud.net/?How_To_Install_Nextcloud_on_Debian_11
 https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html
+
+
+
+Apache Web server configuration:
+/etc/apache2/sites-available/nextcloud.conf
 ==============================================================================================================
 
 === Database Server ===
