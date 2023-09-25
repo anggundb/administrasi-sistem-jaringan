@@ -68,7 +68,7 @@ ALIF SALMAN FIRMANSYAH
 BAGAS PRASETYO WIBOWO                   K
 DANA ABDU RODZAQ                           
 DAVA HAIDAR EKA EMRIZA                 
-DICKY RAHMAD DANI                                  s                
+DICKY RAHMAD DANI                                  s        i        
 FAEZAL RAHADY NUGROHO                    
 FARREL AKBAR ANANDA SULISTYO                       a 
 FITRA SAHADEWA HARTONO                 
@@ -85,7 +85,7 @@ MUHAMMAD FATKURROHMAN
 MUHAMMAD GHARY AL BAIHAQI               
 MUHAMMAT FIRDAUS                           
 NADIVA MIFTA BELGISHA (keluar)                      
-NAZAR JALALLUDIN                                    s                   
+NAZAR JALALLUDIN                                    s    i                
 RAHMAD HIDAYATULLOH                      
 RENDRA YASA ANANTA                  K                   
 RENDY MARCELINO                         i     a                    
@@ -94,4 +94,4 @@ SALWA MYASHIRA MAHESA               k
 SEPTIAN SAMSAN SAPUTRA                     
 STEVE SEPTIAN PRAMADANA                  
 YANUAR PUTRA HANDIKA                   s
-mohammad farel aditya pasha
+mohammad farel aditya pasha             s 
