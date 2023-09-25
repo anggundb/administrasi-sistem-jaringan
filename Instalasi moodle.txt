@@ -8,6 +8,8 @@ http://IP-address
 
 Secara default, Debian 11 hadir dengan PHP versi 7.4. :
 # apt install php libapache2-mod-php php-iconv php-intl php-soap php-zip php-curl php-mbstring php-mysql php-gd php-xml php-pspell php-json php-xmlrpc -y
+atau
+# apt install php libapache2-mod-php php-{iconv,intl,soap,pspell,json,xmlrpc,cli,xml,zip,curl,gd,cgi,mysql,mbstring} -y
 
 Cek php:
 # php -v
