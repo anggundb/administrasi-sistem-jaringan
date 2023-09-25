@@ -13,6 +13,7 @@ ketik di browser : IP server
 
 Cek PHP:
 # php -v
+  PHP 7.4.33 (cli)
 atau
 ketik di browser : IP server/info.php
 
