@@ -28,6 +28,10 @@ https://docs.nextcloud.com/server/latest/admin_manual/installation/source_instal
 
 Apache Web server configuration:
 /etc/apache2/sites-available/nextcloud.conf
+
+Remove old PHP:
+apt -y remove php php-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}
+apt -y remove php8.2 php8.2-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}
 ==============================================================================================================
 
 === Database Server ===
