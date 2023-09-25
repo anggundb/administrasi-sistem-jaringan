@@ -16,7 +16,7 @@ exit
 
 wget https://download.nextcloud.com/server/releases/nextcloud-22.0.0.zip
 unzip nextcloud-*.zip
-cp -r /nextcloud /var/www/html/nextcloud  
+cp -r /nextcloud /var/www/html/  
 chown -R www-data:www-data /var/www/html/nextcloud
 Open the browser, and navigate to your Nextcloud server: http://Server_IP/nextcloud.
 
