@@ -71,7 +71,7 @@ DHANI ANAM                           s    s   s
 DIMAS BAKTI SURYANTO                  s       a  
 DWI ADITYA PUTRA                      s    i     a
 DZAKY SAPUTRA.                                   
-EDO FISABILILLAH                            a     a 
+EDO FISABILILLAH                            a     a     s
 EFRILLIAN ARTHA NUSANTARA ISMI.                 
 ERI ADITYA PUTRA                               
 FARHAN YUSLI SAPUTRA                           
@@ -85,12 +85,12 @@ MOCH. RISKI KURNIA WIJAYA.               a  s      a
 MOCHAMAD DZAKIRAH RENALDIMAZ.                    
 MOCHAMMAD ZAENAL ARIFIN.                         
 MOHAMAT IMAM UTOMO                             
-MUHAMMAD FAHRUR ROZY                    a          a           
+MUHAMMAD FAHRUR ROZY                    a          a       a        
 MUHAMMAD FAJAR SHODIQ                          
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       
 MUHAMMAD SYIHABUL IRFAN                        
-MUHAMMAD WILDAN FAUZI                  s  a         a  a    a
+MUHAMMAD WILDAN FAUZI                  s  a         a  a    a     a
 NAYLA DISSI WAHYU UTAMI                   s      
 NEO LAKSA WIJAYA.                                
 NIZHOM FAWAZ YASIR AL YAZID                     
