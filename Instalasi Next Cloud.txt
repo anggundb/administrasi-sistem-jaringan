@@ -32,6 +32,8 @@ Apache Web server configuration:
 Remove old PHP:
 apt -y remove php php-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}
 apt -y remove php8.2 php8.2-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}
+
+https://blog.alphavps.com/how-to-install-nextcloud-on-a-debian-11-server/
 ==============================================================================================================
 
 === Database Server ===
