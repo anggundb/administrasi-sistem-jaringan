@@ -1,3 +1,29 @@
+apt install apache2 libapache2-mod-php mariadb-server php-xml php-cli php-cgi php-mysql php-mbstring php-gd php-curl php-zip -y
+
+systemctl start apache2.service
+systemctl enable apache2.service
+systemctl status apache2.service
+
+mysql_secure_installation
+mysql -u root -p
+CREATE DATABASE nextcloud;
+CREATE USER 'nextclouduser'@'localhost' IDENTIFIED BY 'password';
+GRANT ALL ON nextcloud.* TO 'nextclouduser'@'localhost';
+FLUSH PRIVILEGES;
+exit
+
+
+
+wget https://download.nextcloud.com/server/releases/nextcloud-22.0.0.zip
+unzip nextcloud-*.zip
+cp -r /nextcloud /var/www/html/nextcloud  
+chown -R www-data:www-data /var/www/html/nextcloud
+Open the browser, and navigate to your Nextcloud server: http://Server_IP/nextcloud.
+
+
+https://wiki.crowncloud.net/?How_To_Install_Nextcloud_on_Debian_11
+==============================================================================================================
+
 === Database Server ===
 # apt install mariadb-server mariadb-client -y
 # mysql_secure_installation  >> setting password root database
