@@ -95,9 +95,9 @@ Instalasi:
   site not https
   max_input_vars	
 - Continue (pastikan berhasil semua)
-- Buat username : admin, password admin : 123
+- Buat username : admin, password admin : @Coba*123
   username : admin
-  new password : 123
+  new password : @Coba*123
   first name  : admin
   surname     : user
   email address : an123@gmail.com
