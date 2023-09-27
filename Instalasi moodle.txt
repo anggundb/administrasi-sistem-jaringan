@@ -102,7 +102,13 @@ Instalasi:
   surname     : user
   email address : an123@gmail.com
   Klik update profile
-  
+- New settings - Site home settings
+  Full site name : SMK PGRI 13 SURABAYA
+  Short name for site (eg single word) : SMKPGRI13SURABAYA (muncul di pojok kiri web)
+  Default timezone : Asia/Jakarta 
+  Self registration : Disable
+  Support email : an123@gmail.com
+  Klik Save Changes
 
 
 
