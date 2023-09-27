@@ -76,6 +76,35 @@ Ketik dibrowser : http://your-domain.com atau http://IP-server/moodle
 
 Instalasi:
 - Language : English (en)
+- Konfigurasikan URL, direktori root web, dan direktori data
+  Web address : http://coba.ac.id
+  Moodle directory : /var/www/html/moodle
+  Data directory : /var/www/html/moodledata
+- Database type : MariaDB(native/mariadb)
+- Database setting : 
+  Database host : localhost
+  Database name : moodledb
+  Database user : moodle_user
+  Database password : 123
+  Table prefix  : mdl_
+  Database port : 3306
+  Unix socket : /var/run/mysqld/mysqld.sock
+- Copyright confirm : continue
+- Other checks
+  warning
+  site not https
+  max_input_vars	
+- Continue (pastikan berhasil semua)
+- Buat username : admin, password admin : 123
+  username : admin
+  new password : 123
+  first name  : admin
+  surname     : user
+  email address : an123@gmail.com
+  Klik update profile
+  
+
+
 
 
 
