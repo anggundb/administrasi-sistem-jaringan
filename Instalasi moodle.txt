@@ -77,7 +77,7 @@ Ketik dibrowser : http://your-domain.com atau http://IP-server/moodle
 Instalasi:
 - Language : English (en)
 - Konfigurasikan URL, direktori root web, dan direktori data
-  Web address : http://coba.ac.id
+  Web address : http://coba.ac.id   (biarkan kosong supaya bisa diakses lewat IP)
   Moodle directory : /var/www/html/moodle
   Data directory : /var/www/html/moodledata
 - Database type : MariaDB(native/mariadb)
