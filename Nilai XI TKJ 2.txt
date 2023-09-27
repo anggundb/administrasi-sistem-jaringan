@@ -1,7 +1,7 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
 NAMA                                    DHCP SERVER      DNS SERVER      WEB SERVER    VIRTUALHOST      100VHost
-AHMAD RAFLY PUTRA IRAWAN                 100
+AHMAD RAFLY PUTRA IRAWAN                 100                    100
 AL MALIK BRILLIANT NDARU AKBAR           100                    100          100
 ALIF SALMAN FIRMANSYAH                     0                    100
 BAGAS PRASETYO WIBOWO                    100                    100          100
@@ -24,7 +24,7 @@ MUHAMMAD FATKURROHMAN                    100                    100
 MUHAMMAD GHARY AL BAIHAQI                100
 MUHAMMAT FIRDAUS                           0
 NADIVA MIFTA BELGISHA                      0
-NAZAR JALALLUDIN                           0
+NAZAR JALALLUDIN                           0                   100
 RAHMAD HIDAYATULLOH                      100                   100         100
 RENDRA YASA ANANTA                       100                   100
 RENDY MARCELINO                          100
