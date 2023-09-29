@@ -1,7 +1,7 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
 NAMA                                    DHCP SERVER      DNS SERVER      WEB SERVER    VIRTUALHOST      100VHost
-AHMAD RAFLY PUTRA IRAWAN                 100                    100
+AHMAD RAFLY PUTRA IRAWAN                 100                    100          100
 AL MALIK BRILLIANT NDARU AKBAR           100                    100          100
 ALIF SALMAN FIRMANSYAH                     0                    100
 BAGAS PRASETYO WIBOWO                    100                    100          100
@@ -16,9 +16,9 @@ INDAH APRILIA VIDYANINGRUM                 0
 M. ARDI KOES WARDANA                     100                    100           100        100
 MAULANA NOVAN FIRMANSYAH                 100                    100           100        100
 MOCH. ZAID QOMARUDDIN                    100                    100          100
-MOCH. ICHWAN MARSELO                     100                    100
+MOCH. ICHWAN MARSELO                     100                    100          100
 MOCH. KHOIRUL ANAM                       100                   100           100
-MOH. RIFKI LAFAIS                        100                   100
+MOH. RIFKI LAFAIS                        100                   100           100
 MUCHAMAT AKBAR AINUR RIZKY               100                    100         100
 MUHAMMAD FATKURROHMAN                    100                    100
 MUHAMMAD GHARY AL BAIHAQI                100
@@ -27,7 +27,7 @@ NADIVA MIFTA BELGISHA                      0
 NAZAR JALALLUDIN                           0                   100
 RAHMAD HIDAYATULLOH                      100                   100         100
 RENDRA YASA ANANTA                       100                   100
-RENDY MARCELINO                          100
+RENDY MARCELINO                          100                               100
 RIJAL PRASETYO                           100                    100        100         100
 SALWA MYASHIRA MAHESA                      0
 SEPTIAN SAMSAN SAPUTRA                     0
