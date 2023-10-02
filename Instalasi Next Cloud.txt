@@ -94,6 +94,11 @@ Kita butuh install libapache2-mod dan enable apache PHP mode.
 
 https://stackoverflow.com/questions/51420077/apache2-not-executing-php-scripts-on-debian-stretch
 
+= Apache Configuration Error AH00558: Could not reliably determine the server's fully qualified domain name
+# nano /etc/apache2/apache2.conf
+tambahkan dibaris paling bawah
+  ServerName 127.0.0.1
+https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00558-could-not-reliably-determine-the-server-s-fully-qualified-domain-name
 
 
 
