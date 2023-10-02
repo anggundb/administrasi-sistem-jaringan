@@ -68,12 +68,12 @@ ALIF SALMAN FIRMANSYAH
 BAGAS PRASETYO WIBOWO                   K
 DANA ABDU RODZAQ                           
 DAVA HAIDAR EKA EMRIZA                 
-DICKY RAHMAD DANI                                  s        i        
+DICKY RAHMAD DANI                                  s        i    i     
 FAEZAL RAHADY NUGROHO                    
 FARREL AKBAR ANANDA SULISTYO                       a        K
 FITRA SAHADEWA HARTONO                 
 ILHAM FATCHUR RACHMAN                   i            K     
-INDAH APRILIA VIDYANINGRUM               
+INDAH APRILIA VIDYANINGRUM               a
 M. ARDI KOES WARDANA                     
 MAULANA NOVAN FIRMANSYAH                 
 MOCH. ZAID QOMARUDDIN                    
@@ -88,7 +88,7 @@ NADIVA MIFTA BELGISHA (keluar)
 NAZAR JALALLUDIN                                    s    i   i             
 RAHMAD HIDAYATULLOH                 a                    
 RENDRA YASA ANANTA                  K                   
-RENDY MARCELINO                         i     a   i                  
+RENDY MARCELINO                         i     a   i   i               
 RIJAL PRASETYO                          
 SALWA MYASHIRA MAHESA               k               
 SEPTIAN SAMSAN SAPUTRA                     
