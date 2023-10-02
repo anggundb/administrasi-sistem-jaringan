@@ -61,7 +61,7 @@ WIDYA SARI SUYITNO PUTRI                        0               0           0
 ABSENSI
 --------------------------------------------------------------------
 NAMA                                    
-ADAM ARRASYDI AKBAR                  s                    
+ADAM ARRASYDI AKBAR                  s        i            
 BAYU RAMADHANI                               
 ALVIN FADHLI RAMADHANI                         
 ARDI DANU EFENDI.                      s      s    
@@ -71,7 +71,7 @@ DHANI ANAM                           s    s   s
 DIMAS BAKTI SURYANTO                  s       a  
 DWI ADITYA PUTRA                      s    i     a
 DZAKY SAPUTRA.                                   
-EDO FISABILILLAH                            a     a     s
+EDO FISABILILLAH                            a     a     s  a
 EFRILLIAN ARTHA NUSANTARA ISMI.                 
 ERI ADITYA PUTRA                               
 FARHAN YUSLI SAPUTRA                           
@@ -80,8 +80,8 @@ ILHAM DWITARAMA PRAYITNO
 INDI ANGGRIANI                         a        
 IRHAN AFFANDI                                 
 M. SALEH ABIDIN R.                              
-MICO PRIYANTO PUTRO SADEWO.                      
-MOCH. RISKI KURNIA WIJAYA.               a  s      a
+MICO PRIYANTO PUTRO SADEWO.                  -    
+MOCH. RISKI KURNIA WIJAYA.               a  s      a  a
 MOCHAMAD DZAKIRAH RENALDIMAZ.                    
 MOCHAMMAD ZAENAL ARIFIN.                         
 MOHAMAT IMAM UTOMO                             
@@ -99,7 +99,7 @@ RUBEN HASIHOLAND SIMATUPANG.                       i
 SATRIA BIMA ADDIN.                              
 SEPTIAN DWI WARDANA                            
 SHEVA RAYA ANDRIAN.                              
-SYAIFUL IMAN                                    
+SYAIFUL IMAN                                    -
 SYARIF HIDAYATULLAH                            
 WAHYUDI                                    i    i    s
 WIDYA SARI SUYITNO PUTRI                       
