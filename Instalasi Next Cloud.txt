@@ -85,6 +85,16 @@ pass: 123
 
 
 
+Kendala:
+apache2 not executing php scripts on Debian stretch >> info.php tidak bisa muncul di browser (PHP Version tidak muncul di browser)
+Solusi
+Kita butuh install libapache2-mod dan enable apache PHP mode.
+# apt install apache2 php7.x libapache2-mod-php7.x -y
+
+https://stackoverflow.com/questions/51420077/apache2-not-executing-php-scripts-on-debian-stretch
+
+
+
 
 
 
