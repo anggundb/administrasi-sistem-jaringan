@@ -103,7 +103,7 @@ https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00
 
 
 
-
+Permasalahan PHP aktif tapi tidak bisa load nextcloud:
 # apt install php-bz2 -y
 # systemctl restart apache2
 https://linux-packages.com/debian/package/php-bz2
