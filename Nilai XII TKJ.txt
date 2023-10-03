@@ -66,12 +66,12 @@ BAYU RAMADHANI
 ALVIN FADHLI RAMADHANI                         
 ARDI DANU EFENDI.                      s      s    
 AULIA HAPSARI                                 s  s
-DEVAN RISQI AMARI                         a   a    
-DHANI ANAM                           s    s   s                       
+DEVAN RISQI AMARI                         a   a    a
+DHANI ANAM                           s    s   s    a                   
 DIMAS BAKTI SURYANTO                  s       a  
-DWI ADITYA PUTRA                      s    i     a
+DWI ADITYA PUTRA                      s    i     a    a
 DZAKY SAPUTRA.                                   
-EDO FISABILILLAH                            a     a     s  a
+EDO FISABILILLAH                            a     a     s  a    a
 EFRILLIAN ARTHA NUSANTARA ISMI.                 
 ERI ADITYA PUTRA                               
 FARHAN YUSLI SAPUTRA                           
@@ -94,7 +94,7 @@ MUHAMMAD WILDAN FAUZI                  s  a         a  a    a     a
 NAYLA DISSI WAHYU UTAMI                   s      
 NEO LAKSA WIJAYA.                                
 NIZHOM FAWAZ YASIR AL YAZID                     
-RIAN HIDAYAT                               s a    a  a    a
+RIAN HIDAYAT                               s a    a  a    a    a
 RUBEN HASIHOLAND SIMATUPANG.                       i
 SATRIA BIMA ADDIN.                              
 SEPTIAN DWI WARDANA                            
