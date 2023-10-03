@@ -1,5 +1,6 @@
 PHP:
-# apt install php php-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}
+# apt install php php-{cli,xml,zip,curl,gd,cgi,mysql,mbstring}  >> tidak dikerjakan
+# apt install libapache2-mod-php7.4 php7.4 php7.4-{cli,xml,zip,curl,gd,cgi,mysql,mbstring} php-bz2 -y
 
 Web Server dan Database:
 # apt install apache2 mariadb-server -y
