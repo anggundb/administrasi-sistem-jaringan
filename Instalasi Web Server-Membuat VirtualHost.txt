@@ -166,6 +166,11 @@ Pengujian di Client
   - Lalu akses di web browser dengan mengetikkan nama domain tadi (test.ac.id dan coba.ac.id) 
 
 
+== Menambahkan isi file:
+# cd /var/www
+# echo "<h1>Web 1<h1>" > /coba1.ac.id/index.html
+
+
 
 
 NGINX
