@@ -90,7 +90,7 @@ apache2 not executing php scripts on Debian stretch >> info.php tidak bisa muncu
 Solusi
 Kita butuh install libapache2-mod dan enable apache PHP mode.
 # apt install apache2 php7.x libapache2-mod-php7.x -y
-# apt install libapache2-mod-php7.x php7.x php7.x-{cli,xml,zip,curl,gd,cgi,mysql,mbstring} -y
+# apt install libapache2-mod-php7.x php7.x php7.x-{cli,xml,zip,curl,gd,cgi,mysql,mbstring} php-bz2 -y
 
 https://stackoverflow.com/questions/51420077/apache2-not-executing-php-scripts-on-debian-stretch
 
