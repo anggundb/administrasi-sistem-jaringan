@@ -103,6 +103,12 @@ https://www.digitalocean.com/community/tutorials/apache-configuration-error-ah00
 
 
 
+# apt install php-bz2 -y
+# systemctl restart apache2
+https://linux-packages.com/debian/package/php-bz2
+
+
+
 
 Referensi:
 https://blog.alphavps.com/how-to-install-nextcloud-on-a-debian-11-server/
