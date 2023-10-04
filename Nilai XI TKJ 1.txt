@@ -72,7 +72,7 @@ Perintah melihat file hidden (.):
 
 
 NAMA                                   I            S          A     
-ACHMAD ANDHIKA PRATAMA                                        (-)
+ACHMAD ANDHIKA PRATAMA                                        (-)  a
 ACHMAD MAULANA FIRMANSYAH                s                 
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
@@ -80,10 +80,10 @@ AKHMAD HAFIDZ FIRMANSYAH                a
 ALEX HERMANSYAH                           (-)
 ALFIN BAGUS SAPUTRA                       
 ANDHIKA ARYA SAMUDERA                                     
-ANDIKA PUTRA PRATAMA                   i                              
+ANDIKA PUTRA PRATAMA                   i        o                        
 ANGGA                                  i
 ANUGRAH DAFA ARISANDI                  
-BAGUS BHAKTIAR ARDIANSYAH                                
+BAGUS BHAKTIAR ARDIANSYAH          o                          
 DENI PURWANTO                                     s                   
 EGA DANANG SETYAWAN                       a
 FADKHULI NIZAM HABIBI                   
@@ -91,18 +91,18 @@ FIKRI ARDINSYAH SAPUTRA                           i          (-)
 IKMAL CHULAIFI PRADITYA                   s
 IRVAN BAGUS SETIAWAN                             s     
 MOCH. ALDIANO ABIGAIL EFFENDI                    s 
-MOCH. ARIF AFANDI                                s
+MOCH. ARIF AFANDI                                s      a
 MOCH. RIZAL ZAMANI                      
 MOCH. SYAIFUDDIN MUBAROQ                          (-)
 MOCH. ZHIDAN ZAKARIYAH                            a   (-)
-MOHAMMAD HARIS SAHAN                    
+MOHAMMAD HARIS SAHAN                o              
 MUHAMMAD FAREL PRASETYA                 
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i
-MUHAMMAD HUSAINI RIDWAN                  
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o
+MUHAMMAD HUSAINI RIDWAN                  o
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       
 MUHAMMAD SAMANUDIN ILHAM                           s        
-NANDA RIZKY SAPUTRA                      
-NAYAKA APTA RABBANI                      
+NANDA RIZKY SAPUTRA             o              
+NAYAKA APTA RABBANI               o       
 RIDHO ARFIANTO ARFAN LIMATAHU                       (-)
 VAVIAN RIZZAL ARRIZKY                    
 WILDAN KHOIRUL PRATAMA                   
