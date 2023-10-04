@@ -169,6 +169,10 @@ Pengujian di Client
 == Menambahkan isi file:
 # cd /var/www
 # echo "<h1>Web 1<h1>" > coba1.ac.id/index.html
+== Menambahkan lebih dari 1 baris 
+# echo -e "Line 1\nLine 2\nLine 3" > file.txt 
+
+https://tecadmin.net/write-append-multiple-lines-to-file-linux/
 
 
 
