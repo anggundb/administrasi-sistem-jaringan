@@ -72,7 +72,7 @@ DICKY RAHMAD DANI                                  s        i    i
 FAEZAL RAHADY NUGROHO                    
 FARREL AKBAR ANANDA SULISTYO                       a        K
 FITRA SAHADEWA HARTONO                 
-ILHAM FATCHUR RACHMAN                   i            K     
+ILHAM FATCHUR RACHMAN                   i            K    o 
 INDAH APRILIA VIDYANINGRUM               a
 M. ARDI KOES WARDANA                     
 MAULANA NOVAN FIRMANSYAH                 
@@ -92,6 +92,6 @@ RENDY MARCELINO                         i     a   i   i
 RIJAL PRASETYO                          
 SALWA MYASHIRA MAHESA               k               
 SEPTIAN SAMSAN SAPUTRA                     
-STEVE SEPTIAN PRAMADANA                i        O
+STEVE SEPTIAN PRAMADANA                i        O  o
 YANUAR PUTRA HANDIKA                   s
 mohammad farel aditya pasha             s 
