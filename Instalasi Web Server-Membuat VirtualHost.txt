@@ -172,6 +172,11 @@ Pengujian di Client
 == Menambahkan lebih dari 1 baris 
 # echo -e "Line 1\nLine 2\nLine 3" > file.txt 
 
+# echo -e "<VirtualHost *:80>\nServerAdmin admin@coba1.ac.id\nServerName coba1.ac.id\nServerAlias www.coba1.ac.id\nDocumentRoot /var/www/html/webmirror/coba1.ac.id\nErrorLog ${APACHE_LOG_DIR}/error.log\nCustomLog ${APACHE_LOG_DIR}/access.log combined\n</VirtualHost> > coba1.ac.id.conf
+
+
+
+
 https://tecadmin.net/write-append-multiple-lines-to-file-linux/
 
 
