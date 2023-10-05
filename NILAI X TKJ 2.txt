@@ -12,10 +12,10 @@ FERI ALDI.
 GALIH FAJAR PRASETYO JATI.                80
 HAPPY BAGUS PRATAMA                       80
 IZAZ ISLAM AL MUSTHOFA
-KEVIN EGA ARSYA FIRMANSYAH                80
+KEVIN EGA ARSYA FIRMANSYAH                80                                    80
 M. FAJAR PRADIFA                          80
-M. HAIKAL HAQQUEL YAQIN AHRIF             80
-M. RIZKY MAULIDAN                         80 
+M. HAIKAL HAQQUEL YAQIN AHRIF             80                                    80
+M. RIZKY MAULIDAN                         80                                    80 
 M. SYUKRON IQBALI                         80
 MAULANA FIRMANSYAH.                       80
 MOH. ZAHID                                80                                    80
@@ -29,7 +29,7 @@ RADYTIA DIAS PRATAMA                      80                                   8
 RAFI ADIKA PRATAMA                        80                                  80
 REYHAN DEFANDA.
 ROZZAQUL MUBAROK FAKHRUDDIN.
-VIDO AIDIL SAPUTRA.                       80 
+VIDO AIDIL SAPUTRA.                       80                                 80
 
 
 
