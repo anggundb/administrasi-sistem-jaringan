@@ -1,0 +1,17 @@
+KISI-KISI        BAB yang diujikan:
+1. Proses bisnis di bidang TJKT
+2. Dasar-dasar TJKT            ---------> Komponen/Hardware
+3. Perkembangan Teknologi TJKT ---------> 1G - 5G
+					  IoT (Internet of Thing) --> Sensor
+								      ESP8266 (fungsi pin)
+								      Arduino
+								      Smart Home
+								      Smart City
+
+
+KISI-KISI PTS GANJIL XI TKJ
+1. perintah dasar linux
+2. fungsi direktori
+3. instalasi debian
+4. hak akses																										
+
