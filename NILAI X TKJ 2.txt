@@ -1,12 +1,12 @@
 NILAI PRAKTIK 
 -------------------------------------------
-NAMA                                Instalasi Windows      Komponen Komp.
+NAMA                                Instalasi Windows      Komponen Komp.       Type data python 
 ABIANS NANCY GARCIA.                      80
 ACHMAD FATONI.                            80
-AL-FATH AGUNG PANGESTU                    80
+AL-FATH AGUNG PANGESTU                    80                                      80
 BINTANG ARYA FIARDILLAH                   80
-DARIEL ABDIEL AKBAR R.S
-DESTRA SATRIA HARTONO                     80
+DARIEL ABDIEL AKBAR R.S                                                          80
+DESTRA SATRIA HARTONO                     80                                     80
 FAREL ADITYA PRATAMA                      80
 FERI ALDI.
 GALIH FAJAR PRASETYO JATI.                80
@@ -18,14 +18,14 @@ M. HAIKAL HAQQUEL YAQIN AHRIF             80
 M. RIZKY MAULIDAN                         80 
 M. SYUKRON IQBALI                         80
 MAULANA FIRMANSYAH.                       80
-MOH. ZAHID                                80
+MOH. ZAHID                                80                                    80
 MOHAMAD AMZAR RENDY PRAMUDJI.
 MUHAMMAD ATTAR REVALDO_
 MUHAMMAD FALDI MAULANA.
 MUHAMMAD FERDI HASAN UDIN
 MUHAMMAD NAUFAL AZIZI                     80
-MUHAMMAD NUR KOWI                         80
-RADYTIA DIAS PRATAMA                      80
+MUHAMMAD NUR KOWI                         80                                   80
+RADYTIA DIAS PRATAMA                      80                                   80
 RAFI ADIKA PRATAMA                        80
 REYHAN DEFANDA.
 ROZZAQUL MUBAROK FAKHRUDDIN.
