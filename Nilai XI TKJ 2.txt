@@ -11,7 +11,7 @@ DICKY RAHMAD DANI                        100                    100          100
 FAEZAL RAHADY NUGROHO                    100                    100          100           100     100         100       100
 FARREL AKBAR ANANDA SULISTYO             100
 FITRA SAHADEWA HARTONO                   100                    100          100          100      100
-ILHAM FATCHUR RACHMAN                    100
+ILHAM FATCHUR RACHMAN                    100                    100
 INDAH APRILIA VIDYANINGRUM                 0
 M. ARDI KOES WARDANA                     100                    100           100        100      100       100     100
 MAULANA NOVAN FIRMANSYAH                 100                    100           100        100      100       100     100
@@ -31,7 +31,7 @@ RENDY MARCELINO                          100                               100
 RIJAL PRASETYO                           100                    100        100         100     100
 SALWA MYASHIRA MAHESA                      0
 SEPTIAN SAMSAN SAPUTRA                     0
-STEVE SEPTIAN PRAMADANA                  100
+STEVE SEPTIAN PRAMADANA                  100                               100
 YANUAR PUTRA HANDIKA                     100                    100        100         100     100     100    100
 
 
