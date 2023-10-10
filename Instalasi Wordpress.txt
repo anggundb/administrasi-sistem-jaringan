@@ -1,5 +1,5 @@
 Instalasi wordpress-6.3.1-id_ID :
-- Buka: "http://localhost/wordpress" dibrowser nanti akan diarahkan ke "http://localhost/wordpress/wp-admin/setup-config.php"
+- Buka: "http://localhost/wordpress" dibrowser nanti akan diarahkan ke "http://localhost/wordpress/wp-admin/setup-config.php"  >> (https://id.wordpress.org/download/releases/)
 - Akan muncul: 
     Selamat datang di WordPress. Sebelum memulai, Anda harus mengetahui hal-hal berikut.
     Nama basis data
