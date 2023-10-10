@@ -52,20 +52,20 @@ Selamat datang di proses instalasi 5 menit WordPress yang terkenal! Isikan infor
 Informasi yang dibutuhkan
 Silakan berikan informasi berikut. Jangan khawatir, Anda selalu dapat mengubah pengaturan ini nanti.
 
-Judul Situs	
-Nama Pengguna	
+Judul Situs	: Timeline
+Nama Pengguna : anggun	
 Nama Pengguna hanya boleh berisi karakter alfanumerik (huruf dan angka), spasi, garis bawah, tanda minus, titik, dan simbol @.
 
-Sandi	
+Sandi : CobaBisa@123	
 A4jLc#nB!KXfMkQpSk
 Kuat
  Sembunyikan
 Penting: Anda butuh sandi ini untuk log masuk. Simpanlah di tempat yang aman.
 
-Email Anda	
+Email Anda	: anggunbudi@yahoo.com
 Periksa ulang alamat email Anda sebelum melanjutkan.
 
-Ketampakan di Mesin Pencari	Ketampakan di Mesin Pencari Halangi mesin pencari untuk mengindeks situs ini
+Ketampakan di Mesin Pencari	Ketampakan di Mesin Pencari Halangi mesin pencari untuk mengindeks situs ini (tidak perlu dicentang)
 Sepenuhnya tergantung mesin pencari untuk menghormati permintaan ini.
 
 Install Wordpress (klik disini) 
