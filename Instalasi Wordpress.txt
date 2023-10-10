@@ -12,4 +12,32 @@ Instalasi wordpress-6.3.1-id_ID :
     Biasanya, objek berikut disediakan oleh web hosting Anda. Jika Anda tidak mengetahuinya, hubungi web hosting sebelum Anda melanjutkan. Jika Anda sudah siap…
 
     Ayo!
+- Buat database dengan phpmyadmin, ketik "http://localhost/phpmyadmin"
+  Klik Basis Data > Nama basis data : wordpress > Klik Buat
+
+- Klik Ayo! pada wordpress, akan muncul:
+Anda harus mengisi informasi berikut untuk terhubung ke basis data Anda. Jika Anda tidak mengetahuinya, hubungi hosting Anda.
+
+Nama Basis data	
+wordpress
+Nama database yang hendak Anda gunakan dengan WordPress.
+
+Nama Pengguna	
+root
+Username database Anda.
+
+Sandi	
+sandi (kosong)
+ Tampilkan
+Sandi database Anda.
+
+Host Basis data	
+localhost
+Anda mestinya bisa memperoleh info ini dari web hosting Anda, jika localhost tidak berfungsi.
+
+Prefiks Tabel	
+wp_
+Jika Anda ingin menjalankan beberapa instalasi WordPress di dalam satu basis data tunggal, ubahlah di sini.
+
+
 
