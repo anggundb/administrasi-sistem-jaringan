@@ -39,5 +39,7 @@ Prefiks Tabel
 wp_
 Jika Anda ingin menjalankan beberapa instalasi WordPress di dalam satu basis data tunggal, ubahlah di sini.
 
+- Muncul
+Ok, sobat! Anda telah berhasil melewati bagian instalasi ini. WordPress sudah dapat berkomunikasi dengan database. Jika anda siap, sekarang saatnya untuk …
 
-
+Jalankan pemasangan
