@@ -69,3 +69,14 @@ Ketampakan di Mesin Pencari	Ketampakan di Mesin Pencari Halangi mesin pencari un
 Sepenuhnya tergantung mesin pencari untuk menghormati permintaan ini.
 
 Install Wordpress (klik disini) 
+
+
+- Muncul 
+Berhasil!
+WordPress telah diinstal. Terima kasih, dan selamat bekerja!
+
+Nama Pengguna	anggun
+Sandi	
+Sandi yang Anda pilih.
+
+Log Masuk
