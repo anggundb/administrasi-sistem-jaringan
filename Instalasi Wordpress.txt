@@ -80,3 +80,5 @@ Sandi
 Sandi yang Anda pilih.
 
 Log Masuk
+
+http://localhost/wordpress/wp-admin/  > untuk login wordpress
