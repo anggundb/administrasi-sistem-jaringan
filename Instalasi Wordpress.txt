@@ -1,16 +1,15 @@
 Instalasi wordpress-6.3.1-id_ID :
 - Buka: "http://localhost/wordpress" dibrowser nanti akan diarahkan ke "http://localhost/wordpress/wp-admin/setup-config.php"
+- Akan muncul: 
+    Selamat datang di WordPress. Sebelum memulai, Anda harus mengetahui hal-hal berikut.
+    Nama basis data
+    Nama pengguna basis data
+    Sandi database
+    Host basis data
+    Prefiks Tabel (jika Anda ingin menjalankan lebih dari satu WordPress pada satu basis data)
+    Informasi berikut dibutuhkan untuk membuat berkas wp-config.php. Tidak perlu khawatir jika proses pembuatan file otomatis gagal disebabkan oleh hal tertentu. Proses ini hanya untuk         mengisikan informasi basis data ke dalam file konfigurasi. Anda juga bisa membuka file wp-config-sample.php dengan sebuah editor teks, lengkapi informasi, kemudian simpan sebagai wp-       config.php. butuh lebih banyak bantuan? Baca artikel dukungan di wp-config.php.
 
-Selamat datang di WordPress. Sebelum memulai, Anda harus mengetahui hal-hal berikut.
+    Biasanya, objek berikut disediakan oleh web hosting Anda. Jika Anda tidak mengetahuinya, hubungi web hosting sebelum Anda melanjutkan. Jika Anda sudah siap…
 
-Nama basis data
-Nama pengguna basis data
-Sandi database
-Host basis data
-Prefiks Tabel (jika Anda ingin menjalankan lebih dari satu WordPress pada satu basis data)
-Informasi berikut dibutuhkan untuk membuat berkas wp-config.php. Tidak perlu khawatir jika proses pembuatan file otomatis gagal disebabkan oleh hal tertentu. Proses ini hanya untuk mengisikan informasi basis data ke dalam file konfigurasi. Anda juga bisa membuka file wp-config-sample.php dengan sebuah editor teks, lengkapi informasi, kemudian simpan sebagai wp-config.php. butuh lebih banyak bantuan? Baca artikel dukungan di wp-config.php.
-
-Biasanya, objek berikut disediakan oleh web hosting Anda. Jika Anda tidak mengetahuinya, hubungi web hosting sebelum Anda melanjutkan. Jika Anda sudah siap…
-
-Ayo!
+    Ayo!
 
