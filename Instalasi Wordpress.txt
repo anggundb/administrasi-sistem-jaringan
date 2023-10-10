@@ -43,3 +43,29 @@ Jika Anda ingin menjalankan beberapa instalasi WordPress di dalam satu basis dat
 Ok, sobat! Anda telah berhasil melewati bagian instalasi ini. WordPress sudah dapat berkomunikasi dengan database. Jika anda siap, sekarang saatnya untuk …
 
 Jalankan pemasangan
+
+
+- Muncul
+Selamat datang
+Selamat datang di proses instalasi 5 menit WordPress yang terkenal! Isikan informasi di bawah ini dan Anda akan memulai pengalaman menggunakan platorm penerbitan pribadi yang paling mudah dikembangkan dan berkemampuan luas di dunia.
+
+Informasi yang dibutuhkan
+Silakan berikan informasi berikut. Jangan khawatir, Anda selalu dapat mengubah pengaturan ini nanti.
+
+Judul Situs	
+Nama Pengguna	
+Nama Pengguna hanya boleh berisi karakter alfanumerik (huruf dan angka), spasi, garis bawah, tanda minus, titik, dan simbol @.
+
+Sandi	
+A4jLc#nB!KXfMkQpSk
+Kuat
+ Sembunyikan
+Penting: Anda butuh sandi ini untuk log masuk. Simpanlah di tempat yang aman.
+
+Email Anda	
+Periksa ulang alamat email Anda sebelum melanjutkan.
+
+Ketampakan di Mesin Pencari	Ketampakan di Mesin Pencari Halangi mesin pencari untuk mengindeks situs ini
+Sepenuhnya tergantung mesin pencari untuk menghormati permintaan ini.
+
+Install Wordpress (klik disini) 
