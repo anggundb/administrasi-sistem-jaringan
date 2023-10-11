@@ -60,16 +60,16 @@ WIDYA SARI SUYITNO PUTRI                        0               0           0
 
 ABSENSI
 --------------------------------------------------------------------
-NAMA                                    
+NAMA                                                                              Tugas Lks
 ADAM ARRASYDI AKBAR                  s        i            
 BAYU RAMADHANI                               
-ALVIN FADHLI RAMADHANI                         
-ARDI DANU EFENDI.                      s      s    
+ALVIN FADHLI RAMADHANI                                                                  80                         
+ARDI DANU EFENDI.                      s      s                                         80
 AULIA HAPSARI                                 s  s
 DEVAN RISQI AMARI                         a   a    a
 DHANI ANAM                           s    s   s    a                   
-DIMAS BAKTI SURYANTO                  s       a  
-DWI ADITYA PUTRA                      s    i     a    a
+DIMAS BAKTI SURYANTO                  s       a                                         80                             
+DWI ADITYA PUTRA                      s    i     a    a                                 80
 DZAKY SAPUTRA.                                   
 EDO FISABILILLAH                            a     a     s  a    a
 EFRILLIAN ARTHA NUSANTARA ISMI.                 
@@ -77,10 +77,10 @@ ERI ADITYA PUTRA
 FARHAN YUSLI SAPUTRA                           
 HILMAN RIFKI HARYADI                           
 ILHAM DWITARAMA PRAYITNO                       
-INDI ANGGRIANI                         a        
+INDI ANGGRIANI                         a                                                80
 IRHAN AFFANDI                                 
 M. SALEH ABIDIN R.                              
-MICO PRIYANTO PUTRO SADEWO.                  -    
+MICO PRIYANTO PUTRO SADEWO.                 -                                           80
 MOCH. RISKI KURNIA WIJAYA.               a  s      a  a
 MOCHAMAD DZAKIRAH RENALDIMAZ.                    
 MOCHAMMAD ZAENAL ARIFIN.                         
@@ -96,7 +96,7 @@ NEO LAKSA WIJAYA.
 NIZHOM FAWAZ YASIR AL YAZID                     
 RIAN HIDAYAT                               s a    a  a    a    a
 RUBEN HASIHOLAND SIMATUPANG.                       i
-SATRIA BIMA ADDIN.                              
+SATRIA BIMA ADDIN.                                                                      80                              
 SEPTIAN DWI WARDANA                            
 SHEVA RAYA ANDRIAN.                              
 SYAIFUL IMAN                                    -
