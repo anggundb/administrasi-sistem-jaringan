@@ -62,7 +62,7 @@ ABSENSI
 --------------------------------------------------------------------
 NAMA                                                                              Tugas Lks
 ADAM ARRASYDI AKBAR                  s        i            
-BAYU RAMADHANI                               
+BAYU RAMADHANI                                                                          80    
 ALVIN FADHLI RAMADHANI                                                                  80                         
 ARDI DANU EFENDI.                      s      s                                         80
 AULIA HAPSARI                                 s  s
@@ -71,35 +71,35 @@ DHANI ANAM                           s    s   s    a
 DIMAS BAKTI SURYANTO                  s       a                                         80                             
 DWI ADITYA PUTRA                      s    i     a    a                                 80
 DZAKY SAPUTRA.                                   
-EDO FISABILILLAH                            a     a     s  a    a
+EDO FISABILILLAH                            a     a     s  a    a                       80
 EFRILLIAN ARTHA NUSANTARA ISMI.                 
-ERI ADITYA PUTRA                               
-FARHAN YUSLI SAPUTRA                           
-HILMAN RIFKI HARYADI                           
-ILHAM DWITARAMA PRAYITNO                       
+ERI ADITYA PUTRA                                                                        80                      
+FARHAN YUSLI SAPUTRA                                                                    80                     
+HILMAN RIFKI HARYADI                                                                    80         
+ILHAM DWITARAMA PRAYITNO                                                                80       
 INDI ANGGRIANI                         a                                                80
 IRHAN AFFANDI                                 
 M. SALEH ABIDIN R.                              
 MICO PRIYANTO PUTRO SADEWO.                 -                                           80
 MOCH. RISKI KURNIA WIJAYA.               a  s      a  a
-MOCHAMAD DZAKIRAH RENALDIMAZ.                    
+MOCHAMAD DZAKIRAH RENALDIMAZ.                                                           80
 MOCHAMMAD ZAENAL ARIFIN.                         
 MOHAMAT IMAM UTOMO                             
 MUHAMMAD FAHRUR ROZY                    a          a       a        
 MUHAMMAD FAJAR SHODIQ                          
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       
-MUHAMMAD SYIHABUL IRFAN                        
+MUHAMMAD SYIHABUL IRFAN                                                                 80                        
 MUHAMMAD WILDAN FAUZI                  s  a         a  a    a     a
-NAYLA DISSI WAHYU UTAMI                   s      
-NEO LAKSA WIJAYA.                                
-NIZHOM FAWAZ YASIR AL YAZID                     
+NAYLA DISSI WAHYU UTAMI                   s                                             80
+NEO LAKSA WIJAYA.                                                                       80
+NIZHOM FAWAZ YASIR AL YAZID                                                             80
 RIAN HIDAYAT                               s a    a  a    a    a
 RUBEN HASIHOLAND SIMATUPANG.                       i
 SATRIA BIMA ADDIN.                                                                      80                              
-SEPTIAN DWI WARDANA                            
+SEPTIAN DWI WARDANA                                                                     80                   
 SHEVA RAYA ANDRIAN.                              
 SYAIFUL IMAN                                    -
-SYARIF HIDAYATULLAH                            
+SYARIF HIDAYATULLAH                                                                     80
 WAHYUDI                                    i    i    s
 WIDYA SARI SUYITNO PUTRI                       
