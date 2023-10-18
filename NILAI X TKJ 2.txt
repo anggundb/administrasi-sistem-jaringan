@@ -80,7 +80,7 @@ VIDO AIDIL SAPUTRA.                       80
 ABSENSI
 --------------------------------------
 NAMA                                
-ABIANS NANCY GARCIA.                      
+ABIANS NANCY GARCIA.                   a   
 ACHMAD FATONI.                         -   
 AL-FATH AGUNG PANGESTU                    
 BINTANG ARYA FIARDILLAH                   
@@ -106,7 +106,7 @@ MUHAMMAD NAUFAL AZIZI                  s
 MUHAMMAD NUR KOWI                         
 RADYTIA DIAS PRATAMA                      
 RAFI ADIKA PRATAMA                        
-REYHAN DEFANDA.                        a
+REYHAN DEFANDA.                        a    a
 ROZZAQUL MUBAROK FAKHRUDDIN.
 VIDO AIDIL SAPUTRA.                       
 
