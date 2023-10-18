@@ -10,7 +10,7 @@ DAVA HAIDAR EKA EMRIZA                   100                    100          100
 DICKY RAHMAD DANI                        100                    100          100           100
 FAEZAL RAHADY NUGROHO                    100                    100          100           100     100         100       100 
 FARREL AKBAR ANANDA SULISTYO             100
-FITRA SAHADEWA HARTONO                   100                    100          100          100      100
+FITRA SAHADEWA HARTONO                   100                    100          100          100      100        100
 ILHAM FATCHUR RACHMAN                    100                    100
 INDAH APRILIA VIDYANINGRUM                 0
 M. ARDI KOES WARDANA                     100                    100           100        100      100       100     100
@@ -28,7 +28,7 @@ NAZAR JALALLUDIN                           0                   100
 RAHMAD HIDAYATULLOH                      100                   100         100
 RENDRA YASA ANANTA                       100                   100
 RENDY MARCELINO                          100                               100
-RIJAL PRASETYO                           100                    100        100         100     100
+RIJAL PRASETYO                           100                    100        100         100     100     100
 SALWA MYASHIRA MAHESA                      0
 SEPTIAN SAMSAN SAPUTRA                     0
 STEVE SEPTIAN PRAMADANA                  100                               100
