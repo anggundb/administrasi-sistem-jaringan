@@ -177,6 +177,7 @@ Membuat 100 Virtual
 == Menambahkan lebih dari 1 baris: 
 # cd /etc/apache2/sites-available
 # echo -e "<VirtualHost *:80>\nServerAdmin admin@coba1.ac.id\nServerName coba1.ac.id\nServerAlias www.coba1.ac.id\nDocumentRoot /var/www/html/webmirror/coba1.ac.id\nErrorLog ${APACHE_LOG_DIR}/error.log\nCustomLog ${APACHE_LOG_DIR}/access.log combined\n</VirtualHost>" > coba1.ac.id.conf    (kalau menggunakan petik ganda (") tanda $ akan hilang maka gunakan petik satu ('))
+# echo -e '<VirtualHost *:80>\nServerAdmin admin@coba1.ac.id\nServerName coba1.ac.id\nServerAlias www.coba1.ac.id\nDocumentRoot /var/www/html/webmirror/coba1.ac.id\nErrorLog ${APACHE_LOG_DIR}/error.log\nCustomLog ${APACHE_LOG_DIR}/access.log combined\n</VirtualHost>' > coba1.ac.id.conf    (kalau menggunakan petik ganda (") tanda $ akan hilang maka gunakan petik satu ('))
 
 Menggunakan tanda kutip tunggal menghasilkan teks yang ditulis ke jendela terminal secara literal .
 Menggunakan  tanda kutip ganda menghasilkan variabel yang diinterpretasikan — juga disebut ekspansi variabel — dan nilainya ditulis ke jendela terminal.
