@@ -183,6 +183,11 @@ Menggunakan tanda kutip tunggal menghasilkan teks yang ditulis ke jendela termin
 Menggunakan  tanda kutip ganda menghasilkan variabel yang diinterpretasikan — juga disebut ekspansi variabel — dan nilainya ditulis ke jendela terminal.
 
 
+Mengaktifkan virtualhost 1-100:
+# a2ensite coba{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44 sampai 100}.ac.id.conf
+
+
+
 
 
 https://id.robohandus.com/1749-how-to-use-the-echo-command-on-linux
