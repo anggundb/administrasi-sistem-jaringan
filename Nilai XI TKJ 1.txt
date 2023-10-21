@@ -73,10 +73,10 @@ Perintah melihat file hidden (.):
 
 NAMA                                   I            S          A     
 ACHMAD ANDHIKA PRATAMA                                        (-)  a
-ACHMAD MAULANA FIRMANSYAH                s                 
+ACHMAD MAULANA FIRMANSYAH                s         s        
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
-AKHMAD HAFIDZ FIRMANSYAH                a                              
+AKHMAD HAFIDZ FIRMANSYAH                a    a                          
 ALEX HERMANSYAH                           (-)
 ALFIN BAGUS SAPUTRA                       
 ANDHIKA ARYA SAMUDERA                                     
@@ -85,13 +85,13 @@ ANGGA                                  i
 ANUGRAH DAFA ARISANDI                  
 BAGUS BHAKTIAR ARDIANSYAH          o    o                      
 DENI PURWANTO                                     s                   
-EGA DANANG SETYAWAN                       a
+EGA DANANG SETYAWAN                       a        a
 FADKHULI NIZAM HABIBI                   
 FIKRI ARDINSYAH SAPUTRA                           i          (-)      
-IKMAL CHULAIFI PRADITYA                   s
-IRVAN BAGUS SETIAWAN                             s     
+IKMAL CHULAIFI PRADITYA                   s    s
+IRVAN BAGUS SETIAWAN                             s     s
 MOCH. ALDIANO ABIGAIL EFFENDI                    s 
-MOCH. ARIF AFANDI                                s      a
+MOCH. ARIF AFANDI                                s      a   s
 MOCH. RIZAL ZAMANI                      
 MOCH. SYAIFUDDIN MUBAROQ                          (-)
 MOCH. ZHIDAN ZAKARIYAH                            a   (-)
