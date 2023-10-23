@@ -1,3 +1,5 @@
 https://aptika.kominfo.go.id/2017/06/keamanan-jaringan-internet-dan-firewall/
 http://repo.ugm.ac.id/ekstra/panduan/ugos/modul-pelatihan-TOT/2008/modul-susunan%20direktori.pdf
 http://repo.ugm.ac.id/ekstra/panduan/buku-ide-bisnis-dari-software-gratis/
+
+# cd /var/log
