@@ -3,6 +3,7 @@ http://repo.ugm.ac.id/ekstra/panduan/ugos/modul-pelatihan-TOT/2008/modul-susunan
 http://repo.ugm.ac.id/ekstra/panduan/buku-ide-bisnis-dari-software-gratis/
 https://blog.unnes.ac.id/eltux/tips-trik-terminal-melihat-log-system-ubuntu-secara-realtime-di-terminal/
 https://www.strongdm.com/blog/view-ssh-logs
+https://servernesia.com/473/melihat-riwayat-login-linux/
 
 # cd /var/log
 # tail -f /var/log/syslog
