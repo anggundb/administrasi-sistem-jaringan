@@ -115,6 +115,16 @@ https://laracasts.com/discuss/channels/servers/unable-to-load-dynamic-library-pd
 sudo apt-get remove --purge php-common
 sudo apt-get update
 sudo apt-get install php-common php-mysql php-cli
+# php -v 
+  (php8.2)
+# apt remove --purge libapache2-mod-php8.2 php8.2 php8.2-{cli,xml,zip,curl,gd,cgi,mysql,mbstring} php-bz2 -y
+# apt autoremove -y 
+# php -v 
+  (hasilnya kosong)
+# apt install libapache2-mod-php7.4 php7.4 php7.4-{cli,xml,zip,curl,gd,cgi,mysql,mbstring} php-bz2 -y
+
+
+
 
 
 
