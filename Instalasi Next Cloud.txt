@@ -122,6 +122,7 @@ sudo apt-get install php-common php-mysql php-cli
 # php -v 
   (hasilnya kosong)
 # apt install libapache2-mod-php7.4 php7.4 php7.4-{cli,xml,zip,curl,gd,cgi,mysql,mbstring} php-bz2 -y
+cek di browser : Ketik IP_server/info.php  > cek bz2
 
 
 
