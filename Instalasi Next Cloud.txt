@@ -108,6 +108,14 @@ Permasalahan PHP aktif tapi tidak bisa load nextcloud:
 # systemctl restart apache2
 https://linux-packages.com/debian/package/php-bz2
 
+Permasalahan PHP:
+PHP Warning: php startup unable to load dynamic library 'pdo_mysql.so'
+Solusi: 
+https://laracasts.com/discuss/channels/servers/unable-to-load-dynamic-library-pdo-mysql
+sudo apt-get remove --purge php-common
+sudo apt-get update
+sudo apt-get install php-common php-mysql php-cli
+
 
 
 
