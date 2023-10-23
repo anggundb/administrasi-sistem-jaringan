@@ -28,6 +28,12 @@ MariaDb > exit    ===> untuk keluar
 Lalu masukkan user dan password yang sudah kita buat di phpmyadmin
 
 
+Permasalahan phpmyadmin > (warning merah)
+Solusi :
+# apt remove --purge phpmyadmin -y
+# apt autoremove -y 
+# apt install phpmyadmin -y
+
 
   
 Referensi
