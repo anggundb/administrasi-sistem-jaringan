@@ -172,6 +172,7 @@ Pengujian di Client
 Membuat 100 Virtual
 == Menambahkan isi file:
 # cd /var/www
+# mkdir coba{1,2,3,4,5,6,7,8,9,10 sampai 100}.ac.id
 # echo "<h1>Web 1<h1>" > coba1.ac.id/index.html
 
 == Menambahkan lebih dari 1 baris: 
