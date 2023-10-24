@@ -71,7 +71,7 @@ DHANI ANAM                           s    s   s    a     a     s                
 DIMAS BAKTI SURYANTO                  s       a                                         80                             
 DWI ADITYA PUTRA                      s    i     a    a                                 80          60
 DZAKY SAPUTRA.                                                                          80          60
-EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80
+EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
 ERI ADITYA PUTRA                                                                        80          80                    
 FARHAN YUSLI SAPUTRA                       s                                             80                     
@@ -82,7 +82,7 @@ IRHAN AFFANDI                                                                   
 M. SALEH ABIDIN R.                              
 MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60
 MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a
-MOCHAMAD DZAKIRAH RENALDIMAZ.                                                           80           80
+MOCHAMAD DZAKIRAH RENALDIMAZ.              i(B.Jep)                                     80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
 MOHAMAT IMAM UTOMO                                                                      80
 MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a
@@ -93,9 +93,9 @@ MUHAMMAD SYIHABUL IRFAN                                                         
 MUHAMMAD WILDAN FAUZI                  s  a         a  a    a     a    a    a    a
 NAYLA DISSI WAHYU UTAMI                   s                                             80          80
 NEO LAKSA WIJAYA.                                                                       80          80
-NIZHOM FAWAZ YASIR AL YAZID                                                             80          80
+NIZHOM FAWAZ YASIR AL YAZID            i(B.Jep)                                         80          80
 RIAN HIDAYAT                               s a    a  a    a    a     a    a    a
-RUBEN HASIHOLAND SIMATUPANG.                       i                                    80
+RUBEN HASIHOLAND SIMATUPANG.                       i                                    80                          i(B.Jep)  
 SATRIA BIMA ADDIN.                                                                      80                              
 SEPTIAN DWI WARDANA                                                                     80                   
 SHEVA RAYA ANDRIAN.                       a                  
