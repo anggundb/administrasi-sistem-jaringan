@@ -61,45 +61,45 @@ WIDYA SARI SUYITNO PUTRI                        0               0           0
 ABSENSI
 --------------------------------------------------------------------
 NAMA                                                                              Tugas Lks      lks hal 71-72
-ADAM ARRASYDI AKBAR                  s        i                                         80
-BAYU RAMADHANI                                                                          80    
-ALVIN FADHLI RAMADHANI                                                                  80                         
+ADAM ARRASYDI AKBAR                  s        i                                         80          80
+BAYU RAMADHANI                                                                          80          80
+ALVIN FADHLI RAMADHANI                                                                  80          80                  
 ARDI DANU EFENDI.                      s      s                                         80
-AULIA HAPSARI                                 s  s
+AULIA HAPSARI                                 s  s                                                  80
 DEVAN RISQI AMARI                         a   a    a     a                               80         60
 DHANI ANAM                           s    s   s    a     a     s                          80               
 DIMAS BAKTI SURYANTO                  s       a                                         80                             
 DWI ADITYA PUTRA                      s    i     a    a                                 80          60
 DZAKY SAPUTRA.                                                                          80          60
-EDO FISABILILLAH                            a     a     s  a    a    a      s             80
+EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
-ERI ADITYA PUTRA                                                                        80                      
+ERI ADITYA PUTRA                                                                        80          80                    
 FARHAN YUSLI SAPUTRA                       s                                             80                     
-HILMAN RIFKI HARYADI                                                                    80         
-ILHAM DWITARAMA PRAYITNO                                                                80       
-INDI ANGGRIANI                         a                                                80
+HILMAN RIFKI HARYADI                                                                    80          80   
+ILHAM DWITARAMA PRAYITNO                                                                80          80
+INDI ANGGRIANI                         a                                                80          80
 IRHAN AFFANDI                                                                           80          80
 M. SALEH ABIDIN R.                              
 MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60
 MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a
-MOCHAMAD DZAKIRAH RENALDIMAZ.                                                           80
+MOCHAMAD DZAKIRAH RENALDIMAZ.                                                           80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
 MOHAMAT IMAM UTOMO                                                                      80
 MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a
-MUHAMMAD FAJAR SHODIQ                                                                   80
+MUHAMMAD FAJAR SHODIQ                                                                   80          80
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       
-MUHAMMAD SYIHABUL IRFAN                                                                 80                        
+MUHAMMAD SYIHABUL IRFAN                                                                 80           80             
 MUHAMMAD WILDAN FAUZI                  s  a         a  a    a     a    a    a    a
-NAYLA DISSI WAHYU UTAMI                   s                                             80
-NEO LAKSA WIJAYA.                                                                       80
-NIZHOM FAWAZ YASIR AL YAZID                                                             80
+NAYLA DISSI WAHYU UTAMI                   s                                             80          80
+NEO LAKSA WIJAYA.                                                                       80          80
+NIZHOM FAWAZ YASIR AL YAZID                                                             80          80
 RIAN HIDAYAT                               s a    a  a    a    a     a    a    a
 RUBEN HASIHOLAND SIMATUPANG.                       i                                    80
 SATRIA BIMA ADDIN.                                                                      80                              
 SEPTIAN DWI WARDANA                                                                     80                   
 SHEVA RAYA ANDRIAN.                       a                  
-SYAIFUL IMAN                                    -              a                         80
+SYAIFUL IMAN                                    -              a                         80          60
 SYARIF HIDAYATULLAH                                                                     80
 WAHYUDI                                    i    i    s                                  80           60
-WIDYA SARI SUYITNO PUTRI                                                                80
+WIDYA SARI SUYITNO PUTRI                                                                80           80
