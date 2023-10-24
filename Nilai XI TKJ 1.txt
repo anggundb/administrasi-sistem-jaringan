@@ -8,7 +8,7 @@ AIDIL OKTAVIAN                            0
 AKHMAD HAFIDZ FIRMANSYAH                100                  100            100            100
 ALEX HERMANSYAH                           0
 ALFIN BAGUS SAPUTRA                       0
-ANDHIKA ARYA SAMUDERA                   100                  100             100            100
+ANDHIKA ARYA SAMUDERA                   100                  100             100            100          100
 ANDIKA PUTRA PRATAMA                    100                  100              100           100          100
 ANGGA                                   100                  100             100            100
 ANUGRAH DAFA ARISANDI                   100                  100             100            100
@@ -31,7 +31,7 @@ MUHAMMAD HUSAINI RIDWAN                  100               100            100
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       100                100          100           100
 MUHAMMAD SAMANUDIN ILHAM                 100                100          100           100        100
 NANDA RIZKY SAPUTRA                      100                100          100           100
-NAYAKA APTA RABBANI                      100                100           100          100
+NAYAKA APTA RABBANI                      100                100           100          100        100
 RIDHO ARFIANTO ARFAN LIMATAHU              0
 VAVIAN RIZZAL ARRIZKY                      0
 WILDAN KHOIRUL PRATAMA                     0
