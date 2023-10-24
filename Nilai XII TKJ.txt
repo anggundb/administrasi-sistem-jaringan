@@ -64,7 +64,7 @@ NAMA                                                                            
 ADAM ARRASYDI AKBAR                  s        i                                         80          80
 BAYU RAMADHANI                                                                          80          80
 ALVIN FADHLI RAMADHANI                                                                  80          80                  
-ARDI DANU EFENDI.                      s      s                                         80
+ARDI DANU EFENDI.                      s      s          a                               80
 AULIA HAPSARI                                 s  s                                                  80
 DEVAN RISQI AMARI                         a   a    a     a                               80         60
 DHANI ANAM                           s    s   s    a     a     s                          80               
@@ -74,7 +74,7 @@ DZAKY SAPUTRA.                                                                  
 EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
 ERI ADITYA PUTRA                                                                        80          80                    
-FARHAN YUSLI SAPUTRA                       s                                             80                     
+FARHAN YUSLI SAPUTRA                       s             i                                80                     
 HILMAN RIFKI HARYADI                                                                    80          80   
 ILHAM DWITARAMA PRAYITNO                                                                80          80
 INDI ANGGRIANI                         a                                                80          80
@@ -92,9 +92,9 @@ MUHAMMAD SAIFUL RAHMAN                   s
 MUHAMMAD SYIHABUL IRFAN                                                                 80           80             
 MUHAMMAD WILDAN FAUZI                  s  a         a  a    a     a    a    a    a
 NAYLA DISSI WAHYU UTAMI                   s                                             80          80
-NEO LAKSA WIJAYA.                                                                       80          80
+NEO LAKSA WIJAYA.                                   i                                    80          80
 NIZHOM FAWAZ YASIR AL YAZID            i(B.Jep)                                         80          80
-RIAN HIDAYAT                               s a    a  a    a    a     a    a    a
+RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i
 RUBEN HASIHOLAND SIMATUPANG.                       i                                    80                          i(B.Jep)  
 SATRIA BIMA ADDIN.                                                                      80                              
 SEPTIAN DWI WARDANA                                                                     80                   
