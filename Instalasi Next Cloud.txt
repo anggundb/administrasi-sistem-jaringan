@@ -124,6 +124,19 @@ sudo apt-get install php-common php-mysql php-cli
 # apt install libapache2-mod-php7.4 php7.4 php7.4-{cli,xml,zip,curl,gd,cgi,mysql,mbstring} php-bz2 -y
 cek di browser : Ketik IP_server/info.php  > cek bz2
 
+Permasalahan:
+Muncul "Error"
+PHP module GD not installed.
+Please ask your server administrator to install the module.
+PHP module have been installed, but the are still listed as missing?
+Please ask your server administrator to restart the web server.
+
+Solusi :
+install module GD PHP lalu restart web server
+# apt install php7.4-gd -y
+# systemctl restart apache2
+# systemctl status apache2
+
 
 
 
