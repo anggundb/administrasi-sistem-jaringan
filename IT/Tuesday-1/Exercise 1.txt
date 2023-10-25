@@ -21,3 +21,6 @@ LANGKAH-LANGKAH MENGHUBUNGKAN PC KE INTERNET MELEWATI ROUTER (MIKROTIK):
     ping google.com
 
 
+# https://iputuhariyadi.net/2020/11/30/membuat-bootable-usb-dari-proxmox-ve-6-3-dengan-rufus/
+# https://www.lukmanlab.com/langkah-langkah-instalasi-proxmox-ve/
+# https://www.lukmanlab.com/langkah-langkah-membuat-virtual-machine-di-proxmox/
