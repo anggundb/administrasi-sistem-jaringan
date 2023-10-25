@@ -88,7 +88,7 @@ DARIEL ABDIEL AKBAR R.S
 DESTRA SATRIA HARTONO            s         
 FAREL ADITYA PRATAMA                      a
 FERI ALDI.
-GALIH FAJAR PRASETYO JATI.                a
+GALIH FAJAR PRASETYO JATI.       a         a 
 HAPPY BAGUS PRATAMA                       
 IZAZ ISLAM AL MUSTHOFA
 KEVIN EGA ARSYA FIRMANSYAH                
@@ -106,7 +106,7 @@ MUHAMMAD NAUFAL AZIZI                  s
 MUHAMMAD NUR KOWI                         
 RADYTIA DIAS PRATAMA                      
 RAFI ADIKA PRATAMA                        
-REYHAN DEFANDA.                        a    a
+REYHAN DEFANDA.                        a    a   a
 ROZZAQUL MUBAROK FAKHRUDDIN.
 VIDO AIDIL SAPUTRA.                       
 
