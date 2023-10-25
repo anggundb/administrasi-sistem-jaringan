@@ -1,0 +1,47 @@
+#list dari 0 sampai 10
+#range (10)
+#petanikode.com
+#for nomer in range (10):
+#	print ("petani-" + str(nomer))
+
+#w3schools
+#x = range(10)
+#for n in x:
+ #   print(n,end=" - ")
+ #  print(n)
+ #  print(x)
+# print(n) untuk menurun
+# perintah end="" untuk menyamping
+
+#for i in range (25, 2, -2):
+#	print(i, end=" ")
+print ()    
+# print () untuk membentuk baris kosong
+#TUgas
+# pola mendatar
+# pola tegak
+# pola persegi
+# pola segitiga
+# pola belah ketupat   
+
+#for i in range(10,-1,-1):
+#	for x in range(10,i,-1):
+#		print(x, end=" ")
+#	for x in range(2*i+1):
+#		print(x, end="")
+#	print()
+#for i in range(10,-1,-1):
+#	for x in range(10,i,-1):
+#		print(x, end="")
+#	for x in range(2*i+1):
+#		print(x, end="")
+#	print()
+#andika tri julianto X TKj 1 tidak masuk
+
+
+b = 6
+for i in range(b):
+	for j in range(i):
+		print(i, end=' ')
+	print('s')
+https://www.tutorialstonight.com/python/pattern-program-in-python
