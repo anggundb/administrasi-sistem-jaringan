@@ -45,3 +45,4 @@ for i in range(b):
 		print(i, end=' ')
 	print('s')
 https://www.tutorialstonight.com/python/pattern-program-in-python
+https://www.djkn.kemenkeu.go.id/artikel/baca/15924/Apakah-Citra-Baik-Perlu-dibangun-sebuah-Pertanyaan.html#:~:text=Nila%20setitik%20rusak%20susu%20sebelanga,citra%20seseorang%2Forganisasi%20secara%20keseluruhan.
