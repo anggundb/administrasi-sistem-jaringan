@@ -48,5 +48,34 @@ Kalau mau di cloning:
 - Klik kanan mesin lalu klik clone (gandakan)
 
 
+=== Membuat User dan hak akses ===
+- Klik Datacenter > Users > Add
+- Username : server-1
+- Realm : Proxmox VE Autentication
+- Pass: 123456789
+- Confirm Pass : 123456789
+- First name : server-1
+- Comment : server-1
+- Klik add
+Menambahkan Hak Akses:
+- Klik Datacenter > Permissions > User Permission
+- Path : /vms/100
+- User : server-1@pve
+- Role : PVEVMAdmin
+
+Pengujian User:
+Login menggunakan user yang sudah kita buat  
+Akses di browser : https://172.16.18.4:8006
+login
+- User name: server-1
+- Password: 123456789
+- Realm : Proxmox VE Autentication
+
+
+
+
+
+
+
 Referensi:
 https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
