@@ -1,3 +1,20 @@
+== Pola mendatar ==
+
+
+== Pola tegak ==
+
+== Pola persegi ==
+
+
+== Pola segitiga ==
+
+
+== Pola belah ketupat ==
+
+
+
+
+
 #list dari 0 sampai 10
 #range (10)
 #petanikode.com
