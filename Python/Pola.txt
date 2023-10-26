@@ -12,6 +12,8 @@
 == Pola belah ketupat ==
 for i in range (6):
 	print (' '*(6-i) + '*' * i + '*' + '*' * i)
+for j in range (6, -1, -1):
+	print (' '*(6-i) + '*' * i + '*' + '*' * i)
 
 
 
