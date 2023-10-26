@@ -16,7 +16,8 @@ for j in range (6, -1, -1):
 	print (' '*(6-i) + '*' * i + '*' + '*' * i)
 
 
-
+https://medium.com/data-science-indo/python-05-mengontrol-aliran-program-dengan-iterasi-looping-bd4f28ffd408#:~:text=Nested%20loop%20merupakan%20sebuah%20perulangan%20di%20dalam%20perulangan.
+https://csveda.com/star-pattern-in-python-using-for-loop-20-programs/
 
 #list dari 0 sampai 10
 #range (10)
