@@ -30,3 +30,13 @@ Buat server:
 Sebelum bikin mesin/server virtual harus upload DVD installer:
 // - Klik Datacenter > storage > local (salah) 
 - Klik local (pve) > content > upload > cari file iso. (semua CD yang kita butuhkan untuk instalasi harus diupload semua)
+Bikin Mesin/server:
+- Klik Create VM > nama : server1-rudi (tiap anak punya mesin masing-masing) > next
+- tempelin di iso imagenya > next
+- system : default (g perlu diganti)
+- hardisk : 32 GB > next
+- CPU : 1 core > next
+- Memory : 512 > next
+- Network > bridge: vmbr0 > next
+- finish
+
