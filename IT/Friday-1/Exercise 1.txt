@@ -40,3 +40,5 @@ Bikin Mesin/server:
 - Network > bridge: vmbr0 > next
 - finish
 
+Untuk menjalankan mesin yang baru kita buat tadi:
+- Klik kanan mesin (100 (server1-rudi)) lalu klik start
