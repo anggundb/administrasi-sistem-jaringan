@@ -27,21 +27,18 @@ login
 
 
 
-=== Membuat Virtual Mesin ====
-- Klik pve > 
-
-Sebelum bikin mesin/server virtual harus upload DVD installer:
-// - Klik Datacenter > storage > local (salah) 
+=== Sebelum bikin mesin/server virtual harus upload DVD installer ===
 - Klik local (pve) > content > upload > cari file iso. (semua CD yang kita butuhkan untuk instalasi harus diupload semua)
-Bikin Mesin/server:
+
+=== Membuat Virtual Mesin ===
 - Klik Create VM > nama : server1-rudi (tiap anak punya mesin masing-masing) > next
 - tempelin di iso imagenya > next
 - system : default (g perlu diganti)
 - hardisk : 32 GB > next
 - CPU : 1 core > next
-- Memory : 512 > next
+- Memory : 1024 > next
 - Network > bridge: vmbr0 > next
-- finish
+- Finish
 
 Untuk menjalankan mesin yang baru kita buat tadi:
 - Klik kanan mesin (100 (server1-rudi)) lalu klik start
