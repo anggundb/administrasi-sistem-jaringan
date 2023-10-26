@@ -24,3 +24,9 @@ login
 - User name: root
 - Password: 123456
 
+Buat server:
+- Klik pve > 
+
+Sebelum bikin mesin/server virtual harus upload DVD installer:
+// - Klik Datacenter > storage > local (salah) 
+- Klik local (pve) > content > upload > cari file iso. (semua CD yang kita butuhkan untuk instalasi harus diupload semua)
