@@ -19,3 +19,8 @@ https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi
 - gateway : 172.16.18.1
 - DNS server: 8.8.8.8
 - klik install
+
+login
+- User name: root
+- Password: 123456
+
