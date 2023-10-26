@@ -1,11 +1,4 @@
-Beri batas waktu sehingga membedakan materi sekolah dengan materi ekstrakurikuler (menitikberatkan pada skill/kemampuan) diulang-ulang terus-menerus
-Bisa menyelesaikan kendala-kendala ketika bekerja
-Semakin banyak kendala semakin bagus karena dari kendala bisa cepat belajar
-Ditempa sampai batas kemampuan siswa (mentok)
-
-
-Proxmox:
-https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
+=== Instalasi Proxmox ===
 - Target Hardisk: 450GB
 - Country : Indonesia
 - Time zone: Jakarta/Asia
@@ -46,3 +39,7 @@ ingat 1 core untuk 1 mesin
 
 Kalau mau di cloning:
 - Klik kanan mesin lalu klik clone (gandakan)
+
+
+Referensi:
+https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
