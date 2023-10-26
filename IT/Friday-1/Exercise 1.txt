@@ -2,3 +2,7 @@ Beri batas waktu sehingga membedakan materi sekolah dengan materi ekstrakurikule
 Bisa menyelesaikan kendala-kendala ketika bekerja
 Semakin banyak kendala semakin bagus karena dari kendala bisa cepat belajar
 Ditempa sampai batas kemampuan siswa (mentok)
+
+
+Proxmox:
+https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
