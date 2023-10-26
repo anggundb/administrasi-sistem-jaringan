@@ -1,23 +1,33 @@
 === Instalasi Proxmox ===
-- Target Hardisk: 450GB
+- Siapkan bootable proxmox di usb flasdisk
+- Jalankan bootable proxmox di komputer
+- Klik install Proxmox VE (mode normal)
+- Klik I agree
+- Pilih target hardisk : hardisk komputer kita (/dev/sda)
 - Country : Indonesia
-- Time zone: Jakarta/Asia
-- Keyboard : US english
-- password : 123456
-- confirm : 123456
-- email: anggunbudi@yahoo.com
-- Hostname (FQDN) : pve.server1 (pve.server1.project)
-- IP Address: 172.16.18.4
+- Time zone : Asia/Jakarta
+- Keyboard Layout : US.English
+- Password : 123456789
+- Confirm : 123456789
+- Email : isi email kita (tkj@gmail.com)
+- Hostname (FQDN) : pve.server1 atau pve.server1.project
+- IP Address: 172.16.18.4 (IP Proxmox)
 - netmask: 255.255.255.0
 - gateway : 172.16.18.1
 - DNS server: 8.8.8.8
-- klik install
+- Klik install
 
+Pengujian: 
+Akses di browser : https://172.16.18.4:8006
 login
 - User name: root
-- Password: 123456
+- Password: 123456789
+- Realm : Linux PAM Standart Autentication
 
-Buat server:
+
+
+
+=== Membuat Virtual Mesin ====
 - Klik pve > 
 
 Sebelum bikin mesin/server virtual harus upload DVD installer:
