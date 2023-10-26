@@ -6,3 +6,15 @@ Ditempa sampai batas kemampuan siswa (mentok)
 
 Proxmox:
 https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
+- Target Hardisk: 450GB
+- Country : Indonesia
+- Time zone: Jakarta/Asia
+- Keyboard : US english
+- password : 123456
+- confirm : 123456
+- email: anggunbudi@yahoo.com
+- Hostname (FQDN) : pve.server1 (pve.server1.project)
+- IP Address: 172.16.18.4
+- netmask: 255.255.255.0
+- gateway : 172.16.18.1
+- DNS server: 8.8.8.8
