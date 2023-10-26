@@ -1,6 +1,6 @@
 NILAI PRAKTIK 
 -------------------------------------------
-NAMA                                Instalasi Windows      Komponen Komp.       Type data python     Pola Mendatar-Tegak-Persegi-Segitiga(4formasi)-Belah Ketupat   
+NAMA                                Instalasi Windows      Komponen Komp.       Type data python     Pola Mendatar-Tegak-Persegi-Segitiga(4formasi)-Belah Ketupat   Pola Logo Mitsubishi
 ABIANS NANCY GARCIA.                      80 
 ACHMAD FATONI.                            80                                      80
 AL-FATH AGUNG PANGESTU                    80                                      80                    80
