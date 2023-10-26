@@ -43,3 +43,6 @@ Bikin Mesin/server:
 Untuk menjalankan mesin yang baru kita buat tadi:
 - Klik kanan mesin (100 (server1-rudi)) lalu klik start
 ingat 1 core untuk 1 mesin
+
+Kalau mau di cloning:
+- Klik kanan mesin lalu klik clone (gandakan)
