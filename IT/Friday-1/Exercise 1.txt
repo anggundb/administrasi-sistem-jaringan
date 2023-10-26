@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi
 - netmask: 255.255.255.0
 - gateway : 172.16.18.1
 - DNS server: 8.8.8.8
+- klik install
