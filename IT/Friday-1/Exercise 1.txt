@@ -1,3 +1,6 @@
+TIME LIMIT : 1 JAM 
+
+
 === Instalasi Proxmox ===
 - Siapkan bootable proxmox di usb flasdisk
 - Jalankan bootable proxmox di komputer
