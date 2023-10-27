@@ -80,5 +80,18 @@ Tambah DHCP Server (arahkan ke interfaces vmbr0)
 
 
 
+172.16.18.4:8006
+100 (server-1) template
+101 (server-2) 
+102 (server-3)
+103 (server-4)
+104 (server-5)
+105 (server-6)
+106 (server-7)
+107 (server-8)
+108 (server-9)
+109 (server-10)
+
+
 Referensi:
 https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
