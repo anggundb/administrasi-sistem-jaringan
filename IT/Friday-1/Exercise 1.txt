@@ -96,6 +96,19 @@ Coba_@****
 108 (server-9)    --- user: server-8 , pass: 123456789 
 109 (server-10)   --- user: server-9 , pass: 123456789 
 
+172.16.18.5:8006
+100 (server-11) template
+101 (server-12)    --- user: server-11 , pass: 123456789 
+102 (server-13)    --- user: server-12 , pass: 123456789 
+103 (server-14)    --- user: server-13 , pass: 123456789 
+104 (server-15)    --- user: server-14 , pass: 123456789 
+105 (server-16)    --- user: server-15 , pass: 123456789 
+106 (server-17)    --- user: server-16 , pass: 123456789 
+107 (server-18)    --- user: server-17 , pass: 123456789 
+108 (server-19)    --- user: server-18 , pass: 123456789 
+109 (server-20)   --- user: server-19 , pass: 123456789 
+
+
 
 Referensi:
 https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
