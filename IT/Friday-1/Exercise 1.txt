@@ -81,6 +81,8 @@ Tambah DHCP Server (arahkan ke interfaces vmbr0)
 
 
 172.16.18.4:8006
+root
+Coba_@****
 100 (server-1) template
 101 (server-2)    --- user: server-1 , pass: 123456789 
 102 (server-3)    --- user: server-2 , pass: 123456789 
