@@ -81,6 +81,8 @@ Tambah DHCP Server (arahkan ke interfaces vmbr0)
 
 
 172.16.18.4:8006
+172.16.18.5:8006
+172.16.18.10:8006
 root
 Coba_@****
 100 (server-1) template
