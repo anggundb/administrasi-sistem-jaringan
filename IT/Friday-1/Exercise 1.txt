@@ -75,7 +75,7 @@ login
 - Realm : Proxmox VE Autentication
 
 
-
+Tambah DHCP Server (arahkan ke interfaces vmbr0)
 
 
 
