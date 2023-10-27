@@ -83,14 +83,14 @@ Tambah DHCP Server (arahkan ke interfaces vmbr0)
 172.16.18.4:8006
 100 (server-1) template
 101 (server-2)    --- user: server-1 , pass: 123456789 
-102 (server-3)
-103 (server-4)
-104 (server-5)
-105 (server-6)
-106 (server-7)
-107 (server-8)
-108 (server-9)
-109 (server-10)
+102 (server-3)    --- user: server-2 , pass: 123456789 
+103 (server-4)    --- user: server-3 , pass: 123456789 
+104 (server-5)    --- user: server-4 , pass: 123456789 
+105 (server-6)    --- user: server-5 , pass: 123456789 
+106 (server-7)    --- user: server-6 , pass: 123456789 
+107 (server-8)    --- user: server-7 , pass: 123456789 
+108 (server-9)    --- user: server-8 , pass: 123456789 
+109 (server-10)   --- user: server-9 , pass: 123456789 
 
 
 Referensi:
