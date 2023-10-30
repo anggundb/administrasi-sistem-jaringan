@@ -68,11 +68,11 @@ ALIF SALMAN FIRMANSYAH
 BAGAS PRASETYO WIBOWO                   K
 DANA ABDU RODZAQ                           
 DAVA HAIDAR EKA EMRIZA                  a           
-DICKY RAHMAD DANI                                  s        i    i   i    
+DICKY RAHMAD DANI                                  s        i    i   i    a
 FAEZAL RAHADY NUGROHO                    
 FARREL AKBAR ANANDA SULISTYO                       a        K
 FITRA SAHADEWA HARTONO                 
-ILHAM FATCHUR RACHMAN                   i            K    o 
+ILHAM FATCHUR RACHMAN                   i            K    o    ldks
 INDAH APRILIA VIDYANINGRUM               a
 M. ARDI KOES WARDANA                     
 MAULANA NOVAN FIRMANSYAH                 s
@@ -83,7 +83,7 @@ MOH. RIFKI LAFAIS
 MUCHAMAT AKBAR AINUR RIZKY               
 MUHAMMAD FATKURROHMAN                   
 MUHAMMAD GHARY AL BAIHAQI               
-MUHAMMAT FIRDAUS                        a    a    a    a
+MUHAMMAT FIRDAUS                        a    a    a    a  a
 NADIVA MIFTA BELGISHA (keluar)                      
 NAZAR JALALLUDIN                                    s    i   i      a       
 RAHMAD HIDAYATULLOH                 a                    a
@@ -92,7 +92,7 @@ RENDY MARCELINO                         i     a   i   i   a
 RIJAL PRASETYO                          a
 SALWA MYASHIRA MAHESA               k               
 SEPTIAN SAMSAN SAPUTRA                     
-STEVE SEPTIAN PRAMADANA                i        O  o
+STEVE SEPTIAN PRAMADANA                i        O  o    ldks
 YANUAR PUTRA HANDIKA                   s       i
 mohammad farel aditya pasha             s      a
 AHMAD RANGGA ASYIFA                     i      a
