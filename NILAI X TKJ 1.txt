@@ -89,7 +89,7 @@ ABSENSI
 NAMA                                I                   S                  A    
 ACHMAD RIZKIE ROSADI P..
 ADHWA DHAWI PRANA ABYAN                  padus
-AFRILIAN INSAN SAPUTRA                   padus
+AFRILIAN INSAN SAPUTRA                   padus            i
 AKMAD MALIKI ABDULLAH
 ANDHIKA TRI JULIANTO.
 ANDRIYAN DWI UTOMO SETIAWAN
@@ -107,14 +107,14 @@ DONI IRWAN ANGGA JAYA
 EZY NANDA GILINDRA WARDANA.
 GALANG SAPUTRA
 HASYIM AZHARI
-IBRAHIM ADI WIDYADANA
+IBRAHIM ADI WIDYADANA                                             ldks
 IKHSYID ZUFARUTO RIANGGARA
 IVAN FERDIANANTA                                   a     a       a        a    a    a   a
 MAULANA BAGUS FADILLA.                             a
 MOCH. ARIANTO
 MOCH. FAIRUS GILANG FAJRIANSYAH.
 MOH. TEGAR FERDI DANUARTA.
-MUHAMMAD CHENG HOO                                     padus
+MUHAMMAD CHENG HOO                                     padus      ldks
 MUHAMMAD FARID RIDWAN                                  padus
 MUHAMMAD HABHYB FADHILAH.
 RASYA WAFIUDDIN MUAZZAM                                Padus
