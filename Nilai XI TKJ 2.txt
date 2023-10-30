@@ -9,7 +9,7 @@ DANA ABDU RODZAQ                           0                    100          100
 DAVA HAIDAR EKA EMRIZA                   100                    100          100
 DICKY RAHMAD DANI                        100                    100          100           100     100             100        100      100
 FAEZAL RAHADY NUGROHO                    100                    100          100           100     100             100       100       100
-FARREL AKBAR ANANDA SULISTYO             100
+FARREL AKBAR ANANDA SULISTYO             100                                 100
 FITRA SAHADEWA HARTONO                   100                    100          100          100      100             100     100         100
 ILHAM FATCHUR RACHMAN                    100                    100          100
 INDAH APRILIA VIDYANINGRUM                 0
@@ -21,7 +21,7 @@ MOCH. KHOIRUL ANAM                       100                   100           100
 MOH. RIFKI LAFAIS                        100                   100           100        100      100               100     100
 MUCHAMAT AKBAR AINUR RIZKY               100                    100         100         100
 MUHAMMAD FATKURROHMAN                    100                    100
-MUHAMMAD GHARY AL BAIHAQI                100
+MUHAMMAD GHARY AL BAIHAQI                100                                 100
 MUHAMMAT FIRDAUS                           0
 NADIVA MIFTA BELGISHA                      0
 NAZAR JALALLUDIN                           0                   100
