@@ -116,6 +116,12 @@ Coba_@****
 115 (server-26)    --- user: server-25 , pass: 123456789 
 116 (server-27)   --- user: server-26 , pass: 123456789 
 
+Shutdown PVE:
+buka putty lalu ketik IP Proxmox
+login menggunakan User : root dan Pass: Coba_@****
+# shutdown -h now
+
+
 
 
 Referensi:
