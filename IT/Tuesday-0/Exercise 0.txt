@@ -1,25 +1,17 @@
- Model Straight Cable
-Dalam model penyambungan straight, dikedua ujung kabel UTP
-menggunakan format yang sama. Jika ujung satu menggunakan standar
-EIA/TIA-568A, maka ujung yang lain juga harus menggunakan standar
-EIA/TIA-568A. Begitu pula jika menggunakan standar EIA/TIA-568B.
-Model penyambungan ini dipakai untuk koneksi antara Client
-(komputer) dengan Hub/Switch. Misal sebuah koneksi minimum
-berdasarkan standar EIA/TIA-568B RJ45 (connector) adalah sebagai berikut. 
+==== PENYAMBUNGAN KABEL (Model Straight Cable) ==== 
+Dalam model penyambungan straight, dikedua ujung kabel UTP menggunakan format yang sama. Jika ujung satu menggunakan standar EIA/TIA-568A, maka ujung yang lain juga harus menggunakan standar EIA/TIA-568A. Begitu pula jika menggunakan standar EIA/TIA-568B.
+Model penyambungan ini dipakai untuk koneksi antara Client (komputer) dengan Hub/Switch. Misal sebuah koneksi minimum berdasarkan standar EIA/TIA-568B RJ45 (connector) adalah sebagai berikut. 
 
 Pair#2 dihubungkan ke pin-1 dan 2 seperti ini :
- Pin-1 warna kabel : white/orange
-Pin-2 warna kabel : orange
+  Pin-1 warna kabel : white/orange
+  Pin-2 warna kabel : orange
 Pair#3 dihubungkan ke pin-3 dan 6 seperti ini :
- Pin-3 warna kabel : white/green
-Pin-6 warna kabel : green
-Sebenarnya yang digunakan untuk komunikasi data pada ethernet
-adalah hanya pin 1,2,3 dan 6 saja, pin-pin yang lainnya adalah menganggur.
-Namun demikian untuk keseragamannya, maka sisa kabel dihubungkan
-dengan aturan sebagai berikut :
+  Pin-3 warna kabel : white/green
+  Pin-6 warna kabel : green
+Sebenarnya yang digunakan untuk komunikasi data pada ethernet adalah hanya pin 1,2,3 dan 6 saja, pin-pin yang lainnya adalah menganggur. Namun demikian untuk keseragamannya, maka sisa kabel dihubungkan dengan aturan sebagai berikut :
 Pair#1 dihubungkan ke pin-4 dan 5 seperti ini :
- Pin-4 warna kabel : blue
- Pin-5 warna kabel : white/blue
+  Pin-4 warna kabel : blue
+  Pin-5 warna kabel : white/blue
 Pair#4 dihubungkan ke pin-7 dan 8 seperti ini :
- Pin-7 warna kabel : white/brown
-Pin-8 warna kabel : brown 
+  Pin-7 warna kabel : white/brown
+  Pin-8 warna kabel : brown 
