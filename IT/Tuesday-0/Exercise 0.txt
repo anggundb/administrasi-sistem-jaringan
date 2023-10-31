@@ -15,3 +15,7 @@ Pair#1 dihubungkan ke pin-4 dan 5 seperti ini :
 Pair#4 dihubungkan ke pin-7 dan 8 seperti ini :
   Pin-7 warna kabel : white/brown
   Pin-8 warna kabel : brown 
+
+
+Referensi:
+https://staffnew.uny.ac.id/upload/132304810/pendidikan/LabSheet+06-Praktek+LAN.pdf
