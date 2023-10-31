@@ -80,10 +80,10 @@ AKHMAD HAFIDZ FIRMANSYAH                a    a
 ALEX HERMANSYAH                           (-)
 ALFIN BAGUS SAPUTRA                       
 ANDHIKA ARYA SAMUDERA                                     
-ANDIKA PUTRA PRATAMA                   i        o  o                       
+ANDIKA PUTRA PRATAMA                   i        o  o        ldks               
 ANGGA                                  i
 ANUGRAH DAFA ARISANDI                  
-BAGUS BHAKTIAR ARDIANSYAH          o    o                      
+BAGUS BHAKTIAR ARDIANSYAH          o    o                 ldks       
 DENI PURWANTO                                     s                   
 EGA DANANG SETYAWAN                       a        a
 FADKHULI NIZAM HABIBI                   
@@ -95,14 +95,14 @@ MOCH. ARIF AFANDI                                s      a   s
 MOCH. RIZAL ZAMANI                      
 MOCH. SYAIFUDDIN MUBAROQ                          (-)
 MOCH. ZHIDAN ZAKARIYAH                            a   (-)
-MOHAMMAD HARIS SAHAN                o      o        
+MOHAMMAD HARIS SAHAN                o      o        ldks
 MUHAMMAD FAREL PRASETYA                 
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o
-MUHAMMAD HUSAINI RIDWAN                  o   o
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks
+MUHAMMAD HUSAINI RIDWAN                  o   o     ldks
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       
 MUHAMMAD SAMANUDIN ILHAM                           s        
-NANDA RIZKY SAPUTRA             o        o      
-NAYAKA APTA RABBANI               o       o
+NANDA RIZKY SAPUTRA             o        o                ldks
+NAYAKA APTA RABBANI               o       o               ldks
 RIDHO ARFIANTO ARFAN LIMATAHU                       (-)
 VAVIAN RIZZAL ARRIZKY                    
 WILDAN KHOIRUL PRATAMA                   
