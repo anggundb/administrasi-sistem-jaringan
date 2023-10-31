@@ -67,7 +67,7 @@ ALVIN FADHLI RAMADHANI                                                          
 ARDI DANU EFENDI.                      s      s          a                               80
 AULIA HAPSARI                                 s  s                                                  80
 DEVAN RISQI AMARI                         a   a    a     a                               80         60
-DHANI ANAM                           s    s   s    a     a     s     a                     80               
+DHANI ANAM                           s    s   s    a     a     s     a       a              80               
 DIMAS BAKTI SURYANTO                  s       a                                         80                             
 DWI ADITYA PUTRA                      s    i     a    a                                 80          60
 DZAKY SAPUTRA.                                                                          80          60
@@ -81,24 +81,24 @@ INDI ANGGRIANI                         a                                        
 IRHAN AFFANDI                                                                           80          80
 M. SALEH ABIDIN R.                              
 MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60
-MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a
+MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a
 MOCHAMAD DZAKIRAH RENALDIMAZ.              i(B.Jep)                                     80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
 MOHAMAT IMAM UTOMO                                                                      80
 MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a
 MUHAMMAD FAJAR SHODIQ                                                                   80          80
 MUHAMMAD ILHAM AKBAR PERDANA.                    
-MUHAMMAD SAIFUL RAHMAN                   s       i
+MUHAMMAD SAIFUL RAHMAN                   s       i      i
 MUHAMMAD SYIHABUL IRFAN                                                                 80           80             
-MUHAMMAD WILDAN FAUZI                  s  a         a  a    a     a    a    a    a
+MUHAMMAD WILDAN FAUZI    (keluar)        s  a         a  a    a     a    a    a    a
 NAYLA DISSI WAHYU UTAMI                   s                                             80          80
 NEO LAKSA WIJAYA.                                   i                                    80          80
 NIZHOM FAWAZ YASIR AL YAZID            i(B.Jep)                                         80          80
-RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i
+RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i  a
 RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)  
-SATRIA BIMA ADDIN.                                  i                                   80                              
+SATRIA BIMA ADDIN.                                  i               ldks                    80                              
 SEPTIAN DWI WARDANA                                                                     80                   
-SHEVA RAYA ANDRIAN.                       a                  
+SHEVA RAYA ANDRIAN.                       a                  i
 SYAIFUL IMAN                                    -              a                         80          60
 SYARIF HIDAYATULLAH                                                                     80           80
 WAHYUDI                                    i    i    s                                  80           60
