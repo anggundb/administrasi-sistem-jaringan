@@ -77,11 +77,11 @@ output : Selamat Pagi Andi
 print('Selamat Pagi', 'Widya!')
 output : Selamat Pagi Widya!
 
+== sep (separator) === 
 
 
 
-
-
+https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/
 https://dqlab.id/tutorial-python-dasar-untuk-menampilkan-output
 https://www.tutorialstonight.com/python/pattern-program-in-python
 https://www.djkn.kemenkeu.go.id/artikel/baca/15924/Apakah-Citra-Baik-Perlu-dibangun-sebuah-Pertanyaan.html#:~:text=Nila%20setitik%20rusak%20susu%20sebelanga,citra%20seseorang%2Forganisasi%20secara%20keseluruhan.
