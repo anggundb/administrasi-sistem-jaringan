@@ -80,6 +80,57 @@ output : Selamat Pagi Widya!
 == sep (separator) === 
 
 
+==================================
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+for x in range (5):
+	for y in range (x+1):
+		print (y+1, end='')
+	print ()
+
+=================================
+0 1 2 3 4 5 
+0 1 2 3 4 
+0 1 2 3 
+0 1 2 
+0 1
+0
+
+for x in range (6, -1, -1):
+	for y in range (x-0):
+		print (y-0, end='')
+	print()
+
+=================================
+1 1 1 1 1
+2 2 2 2 
+3 3 3
+4 4 
+5
+
+
+
+
+=================================
+	     1
+           1 2
+	 1 2 3
+       1 2 3 4
+     1 2 3 4 5
+
+
+
+
+
+
+
+
+
+
 https://jagongoding.com/python/dasar/perulangan-bersarang/
 https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/
 https://dqlab.id/tutorial-python-dasar-untuk-menampilkan-output
