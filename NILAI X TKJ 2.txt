@@ -82,9 +82,9 @@ ABSENSI
 NAMA                                
 ABIANS NANCY GARCIA.                   a   a
 ACHMAD FATONI.                         -   
-AL-FATH AGUNG PANGESTU                    
+AL-FATH AGUNG PANGESTU                    R.Osis            
 BINTANG ARYA FIARDILLAH                   
-DARIEL ABDIEL AKBAR R.S                   
+DARIEL ABDIEL AKBAR R.S                   R.Osis  
 DESTRA SATRIA HARTONO            s         
 FAREL ADITYA PRATAMA                      a
 FERI ALDI.
@@ -108,7 +108,7 @@ RADYTIA DIAS PRATAMA
 RAFI ADIKA PRATAMA                        
 REYHAN DEFANDA.                        a    a   a
 ROZZAQUL MUBAROK FAKHRUDDIN.
-VIDO AIDIL SAPUTRA.                       
+VIDO AIDIL SAPUTRA.                       R.Osis
 
 
 
