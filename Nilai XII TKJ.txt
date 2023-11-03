@@ -66,21 +66,21 @@ BAYU RAMADHANI                                                                  
 ALVIN FADHLI RAMADHANI                                                                  80          80                  
 ARDI DANU EFENDI.                      s      s          a                               80
 AULIA HAPSARI                                 s  s                                                  80
-DEVAN RISQI AMARI                         a   a    a     a                               80         60
-DHANI ANAM                           s    s   s    a     a     s     a       a              80               
+DEVAN RISQI AMARI                         a   a    a     a                               80         60              a
+DHANI ANAM                           s    s   s    a     a     s     a       a              80                      a
 DIMAS BAKTI SURYANTO                  s       a                                         80                             
-DWI ADITYA PUTRA                      s    i     a    a                                 80          60
+DWI ADITYA PUTRA                      s    i     a    a                                 80          60              a
 DZAKY SAPUTRA.                                                                          80          60
-EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  
+EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
 ERI ADITYA PUTRA                                                                        80          80                    
-FARHAN YUSLI SAPUTRA                       s             i            a                    80                     
+FARHAN YUSLI SAPUTRA                       s             i            a                    80                       a
 HILMAN RIFKI HARYADI                                                                    80          80   
 ILHAM DWITARAMA PRAYITNO                                                                80          80
-INDI ANGGRIANI                         a                                                80          80
+INDI ANGGRIANI                         a                                                80          80              a
 IRHAN AFFANDI                                                                           80          80
 M. SALEH ABIDIN R.                              
-MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60
+MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60              a
 MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a
 MOCHAMAD DZAKIRAH RENALDIMAZ.              i(B.Jep)                                     80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
@@ -88,7 +88,7 @@ MOHAMAT IMAM UTOMO                                                              
 MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a
 MUHAMMAD FAJAR SHODIQ                                                                   80          80
 MUHAMMAD ILHAM AKBAR PERDANA.                    
-MUHAMMAD SAIFUL RAHMAN                   s       i      i
+MUHAMMAD SAIFUL RAHMAN                   s       i      i                                                           a
 MUHAMMAD SYIHABUL IRFAN                                                                 80           80             
 MUHAMMAD WILDAN FAUZI    (keluar)        s  a         a  a    a     a    a    a    a
 NAYLA DISSI WAHYU UTAMI                   s                                             80          80
