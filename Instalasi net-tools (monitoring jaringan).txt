@@ -1,4 +1,7 @@
-# apt install net-tools
+# apt install net-tools -y
+
+Cek versi:
+# netstat -v
 
 
 Referensi:
