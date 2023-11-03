@@ -4,8 +4,8 @@ NAMA                                    DHCP SERVER      DNS SERVER      WEB SER
 AHMAD RAFLY PUTRA IRAWAN                 100                    100          100           100
 AL MALIK BRILLIANT NDARU AKBAR           100                    100          100           100        100          100        100     100               
 ALIF SALMAN FIRMANSYAH                     0                    100          100
-BAGAS PRASETYO WIBOWO                    100                    100          100
-DANA ABDU RODZAQ                           0                    100          100
+BAGAS PRASETYO WIBOWO                    100                    100          100           100
+DANA ABDU RODZAQ                           0                    100          100           100
 DAVA HAIDAR EKA EMRIZA                   100                    100          100
 DICKY RAHMAD DANI                        100                    100          100           100     100             100        100      100
 FAEZAL RAHADY NUGROHO                    100                    100          100           100     100             100       100       100
