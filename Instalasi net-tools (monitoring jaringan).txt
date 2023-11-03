@@ -1,0 +1,5 @@
+# apt install net-tools
+
+
+Referensi:
+https://www.tecmint.com/install-netstat-in-linux/
