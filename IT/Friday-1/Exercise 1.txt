@@ -122,7 +122,15 @@ login menggunakan User : root dan Pass: Coba_@****
 # shutdown -h now
 
 
+Cek User:
+# pveum user list
+
+Tambah User:
+# pveum user add testuser@pve -comment "Just a test"
+
 
 
 Referensi:
 https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
+https://bobcares.com/blog/add-pam-user-proxmox/
+https://pve.proxmox.com/wiki/User_Management
