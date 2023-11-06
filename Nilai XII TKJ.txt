@@ -11,8 +11,8 @@ DHANI ANAM                                      0               0           0
 DIMAS BAKTI SURYANTO                            0               0           0
 DWI ADITYA PUTRA                                0               0           0
 DZAKY SAPUTRA                                   0               0           0
-EDO FISABILILLAH                               85              85          85                  85
-EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0
+EDO FISABILILLAH                               85              85          85                  85                                                    85
+EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0                                                                        85
 ERI ADITYA PUTRA                               85              85          85                  85               85
 FARHAN YUSLI SAPUTRA                           85              85          85
 HILMAN RIFKI HARYADI                           85               85          85                  85              85                      85      85
