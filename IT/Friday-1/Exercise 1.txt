@@ -138,6 +138,14 @@ Membuat Permission:
 # pveum acl modify <PATH> --roles PVEAdmin --users <user>@pam
 # pveum acl modify /vms/101 --roles PVEAdmin --users testuser@pve
 
+Cek password user PVE:
+# nano /etc/pve/priv/shadow.cfg
+
+Cek user PVE:
+# pveum user list
+
+
+
 
 Referensi:
 https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
