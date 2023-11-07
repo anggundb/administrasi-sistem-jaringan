@@ -27,7 +27,7 @@ LANGKAH-LANGKAH MENGHUBUNGKAN PC KE INTERNET MELEWATI ROUTER (MIKROTIK):
 # https://suryanuha.blogspot.com/2018/01/forwarding-dengan-fitur-nat-mikrotik.html
 
 https://citraweb.com/artikel_lihat.php?id=77
-
+https://www.youtube.com/watch?v=zvhVWHhJ8Kg
 
 
 
