@@ -26,6 +26,8 @@ LANGKAH-LANGKAH MENGHUBUNGKAN PC KE INTERNET MELEWATI ROUTER (MIKROTIK):
 # https://www.lukmanlab.com/langkah-langkah-membuat-virtual-machine-di-proxmox/
 # https://suryanuha.blogspot.com/2018/01/forwarding-dengan-fitur-nat-mikrotik.html
 
+https://citraweb.com/artikel_lihat.php?id=77
+
 
 
 
