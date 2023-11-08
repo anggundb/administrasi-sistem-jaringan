@@ -151,3 +151,4 @@ Referensi:
 https://www.youtube.com/watch?v=c1YD1qvrlL8 ---- 20190511 KULIAH Cloud Instalasi Proxmox
 https://bobcares.com/blog/add-pam-user-proxmox/
 https://pve.proxmox.com/wiki/User_Management
+https://lunar.computer/posts/change-logos-proxmox-60/
