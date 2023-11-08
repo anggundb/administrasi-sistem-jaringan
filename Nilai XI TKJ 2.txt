@@ -1,6 +1,6 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
-NAMA                                    DHCP SERVER      DNS SERVER      WEB SERVER    VIRTUALHOST   100VHost      FTP       TELNET   PHP/PHPMYADMIN   FILE_SERVER/SAMBA
+NAMA                                    DHCP SERVER      DNS SERVER      WEB SERVER    VIRTUALHOST   100VHost      FTP       TELNET   PHP/PHPMYADMIN   FILE_SERVER/SAMBA    FreeNAS
 AHMAD RAFLY PUTRA IRAWAN                 100                    100          100           100
 AL MALIK BRILLIANT NDARU AKBAR           100                    100          100           100        100          100        100     100              100          
 ALIF SALMAN FIRMANSYAH                     0                    100          100
@@ -13,8 +13,8 @@ FARREL AKBAR ANANDA SULISTYO             100                                 100
 FITRA SAHADEWA HARTONO                   100                    100          100          100      100             100     100         100      100
 ILHAM FATCHUR RACHMAN                    100                    100          100
 INDAH APRILIA VIDYANINGRUM                 0
-M. ARDI KOES WARDANA                     100                    100           100        100      100              100     100           100      100
-MAULANA NOVAN FIRMANSYAH                 100                    100           100        100      100              100     100           100      100
+M. ARDI KOES WARDANA                     100                    100           100        100      100              100     100           100      100                        100
+MAULANA NOVAN FIRMANSYAH                 100                    100           100        100      100              100     100           100      100                        100
 MOCH. ZAID QOMARUDDIN                    100                    100          100        100
 MOCH. ICHWAN MARSELO                     100                    100          100        100      100               100     100           100
 MOCH. KHOIRUL ANAM                       100                   100           100        100
