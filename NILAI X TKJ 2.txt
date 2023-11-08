@@ -4,7 +4,7 @@ NAMA                                Instalasi Windows      Komponen Komp.       
 ABIANS NANCY GARCIA.                      80 
 ACHMAD FATONI.                            80                                      80
 AL-FATH AGUNG PANGESTU                    80                                      80                    80
-BINTANG ARYA FIARDILLAH                   80                                      80                    80
+BINTANG ARYA FIARDILLAH                   80                                      80                    80                                                             80
 DARIEL ABDIEL AKBAR R.S                                                           80                    80
 DESTRA SATRIA HARTONO                     80                                      80                    80                                                             80
 FAREL ADITYA PRATAMA                      80                                      80                    80
@@ -26,7 +26,7 @@ MUHAMMAD FERDI HASAN UDIN                                                       
 MUHAMMAD NAUFAL AZIZI                     80                                      80
 MUHAMMAD NUR KOWI                         80                                      80                  80                                                                80
 RADYTIA DIAS PRATAMA                      80                                      80                  80                                                                80
-RAFI ADIKA PRATAMA                        80                                      80                  80
+RAFI ADIKA PRATAMA                        80                                      80                  80                                                                80
 REYHAN DEFANDA.                                                                   80
 ROZZAQUL MUBAROK FAKHRUDDIN.
 VIDO AIDIL SAPUTRA.                       80                                      80                  80                                                                80
