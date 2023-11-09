@@ -61,7 +61,7 @@ solusi name resolution
 
 
 
-NAMA                                    I               S                    A
+NAMA                                    I               S                    A                         Tugas FreeNAS
 AHMAD RAFLY PUTRA IRAWAN                   a
 AL MALIK BRILLIANT NDARU AKBAR           
 ALIF SALMAN FIRMANSYAH                     
