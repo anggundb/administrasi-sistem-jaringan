@@ -14,3 +14,4 @@ t.penup ()
 
 
 https://realpython.com/beginners-guide-python-turtle/
+https://www.101computing.net/network-design/
