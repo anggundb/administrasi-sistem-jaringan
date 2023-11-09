@@ -16,3 +16,4 @@ t.penup ()
 https://realpython.com/beginners-guide-python-turtle/
 https://www.101computing.net/network-design/
 https://nclab.com/21-great-nclab-turtle-designs-for-laser-cutting/
+https://www.youtube.com/watch?v=fhK6JG_LJ18 --- Microsoft Logo Using Python Turtle | Python Turtle Graphics | Python | Learnonpy |
