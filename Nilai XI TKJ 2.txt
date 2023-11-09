@@ -62,39 +62,39 @@ solusi name resolution
 
 
 NAMA                                    I               S                    A                         Tugas FreeNAS
-AHMAD RAFLY PUTRA IRAWAN                   a
-AL MALIK BRILLIANT NDARU AKBAR           
-ALIF SALMAN FIRMANSYAH                     
-BAGAS PRASETYO WIBOWO                   K
-DANA ABDU RODZAQ                           
-DAVA HAIDAR EKA EMRIZA                  a           
-DICKY RAHMAD DANI                                  s        i    i   i    a
-FAEZAL RAHADY NUGROHO                    
-FARREL AKBAR ANANDA SULISTYO                       a        K
-FITRA SAHADEWA HARTONO                 
+AHMAD RAFLY PUTRA IRAWAN                   a                                                              80
+AL MALIK BRILLIANT NDARU AKBAR                                                                            80
+ALIF SALMAN FIRMANSYAH                                                                                    80            
+BAGAS PRASETYO WIBOWO                   K                                                                 80
+DANA ABDU RODZAQ                                                                                          80
+DAVA HAIDAR EKA EMRIZA                  a                                                                 80       
+DICKY RAHMAD DANI                                  s        i    i   i    a                               80
+FAEZAL RAHADY NUGROHO                                                                                     80
+FARREL AKBAR ANANDA SULISTYO                       a        K                                             80
+FITRA SAHADEWA HARTONO                                                                                    80
 ILHAM FATCHUR RACHMAN                   i            K    o    ldks
 INDAH APRILIA VIDYANINGRUM               a
-M. ARDI KOES WARDANA                     
-MAULANA NOVAN FIRMANSYAH                 s
-MOCH. ZAID QOMARUDDIN                    
-MOCH. ICHWAN MARSELO                    a      i     K  
-MOCH. KHOIRUL ANAM                      s
-MOH. RIFKI LAFAIS                      
-MUCHAMAT AKBAR AINUR RIZKY               
-MUHAMMAD FATKURROHMAN                   
-MUHAMMAD GHARY AL BAIHAQI               
-MUHAMMAT FIRDAUS                        a    a    a    a  a
+M. ARDI KOES WARDANA                                                                                      80      
+MAULANA NOVAN FIRMANSYAH                 s                                                                80
+MOCH. ZAID QOMARUDDIN                                                                                     80         
+MOCH. ICHWAN MARSELO                    a      i     K                                                    80
+MOCH. KHOIRUL ANAM                      s                                                                 80
+MOH. RIFKI LAFAIS                                                                                         80
+MUCHAMAT AKBAR AINUR RIZKY                                                                                80         
+MUHAMMAD FATKURROHMAN                                                                                     80         
+MUHAMMAD GHARY AL BAIHAQI                                                                                 80      
+MUHAMMAT FIRDAUS                        a    a    a    a  a                                                80
 NADIVA MIFTA BELGISHA (keluar)                      
-NAZAR JALALLUDIN                                    s    i   i      a       
-RAHMAD HIDAYATULLOH                 a                    a
-RENDRA YASA ANANTA                  K                   
+NAZAR JALALLUDIN                                    s    i   i      a                                      80
+RAHMAD HIDAYATULLOH                 a                    a                                                 80
+RENDRA YASA ANANTA                  K                                                                      80                 
 RENDY MARCELINO                         i     a   i   i   a            
-RIJAL PRASETYO                          a
+RIJAL PRASETYO                          a                                                                  80
 SALWA MYASHIRA MAHESA               k               
-SEPTIAN SAMSAN SAPUTRA                     
+SEPTIAN SAMSAN SAPUTRA                                                                                     80            
 STEVE SEPTIAN PRAMADANA                i        O  o    ldks
 YANUAR PUTRA HANDIKA                   s       i
 mohammad farel aditya pasha             s      a
-AHMAD RANGGA ASYIFA                     i      a
+AHMAD RANGGA ASYIFA                     i      a                                                           80
 
 
