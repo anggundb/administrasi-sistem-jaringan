@@ -11,3 +11,6 @@ def rectangle (horizontal, vertical, color):
     t.right(90)
 t.end_fill()
 t.penup ()
+
+
+https://realpython.com/beginners-guide-python-turtle/
