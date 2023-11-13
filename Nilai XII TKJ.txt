@@ -1,17 +1,17 @@
 NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
-NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE/PHPMYADMIN        MAIL SERVER          ROUNDCUBE      NEXTCLOUD      CACTI    WEBMIN
+NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE/PHPMYADMIN        MAIL SERVER          ROUNDCUBE      NEXTCLOUD      CACTI    WEBMIN     ULANGAN(13/11/23)
 ADAM ARRASYDI AKBAR                            85              85          85                                                                        85
 BAYU RAMADHANI                                  0               0           0                                                                        85
 ALVIN FADHLI RAMADHANI                         85               85           85             85                    85                     85          85
 ARDI DANU EFENDI                                0               0           0
 AULIA HAPSARI                                  85               85         85              85                                                        85
 DEVAN RISQI AMARI                               0               0           0
-DHANI ANAM                                      0               0           0
-DIMAS BAKTI SURYANTO                            0               0           0
+DHANI ANAM                                      0               0           0                                                                                                                Alfa
+DIMAS BAKTI SURYANTO                            0               0           0                                                                                                                Alfa
 DWI ADITYA PUTRA                                0               0           0
-DZAKY SAPUTRA                                   0               0           0
-EDO FISABILILLAH                               85              85          85                  85                                                    85
+DZAKY SAPUTRA                                   0               0           0                                                                                                                Alfa
+EDO FISABILILLAH                               85              85          85                  85                                                    85                                      Alfa
 EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0                                                                        85
 ERI ADITYA PUTRA                               85              85          85                  85               85
 FARHAN YUSLI SAPUTRA                           85              85          85
@@ -20,21 +20,21 @@ ILHAM DWITARAMA PRAYITNO                       85              85           85  
 INDI ANGGRIANI                                 85              85           85                                                                  85                  85       85
 IRHAN AFFANDI                                  85              85          85                  85               85                                    85            85       85
 M. SALEH ABIDIN R.                              0               0           0
-MICO PRIYANTO PUTRO SADEWO                      0               0           0
-MOCH. RISKI KURNIA WIJAYA                       0               0           0
+MICO PRIYANTO PUTRO SADEWO                      0               0           0                                                                                                                Alfa
+MOCH. RISKI KURNIA WIJAYA                       0               0           0                                                                                                                Alfa
 MOCHAMAD DZAKIRAH RENALDIMAZ                    0               0           0
 MOCHAMMAD ZAENAL ARIFIN                         0               0           0
 MOHAMAT IMAM UTOMO                             85               0           0
-MUHAMMAD FAHRUR ROZY                            0               0           0
+MUHAMMAD FAHRUR ROZY                            0               0           0                                                                                                                Alfa
 MUHAMMAD FAJAR SHODIQ                          85               85           85                85                                               85
 MUHAMMAD ILHAM AKBAR PERDANA                    0               0           0
 MUHAMMAD SAIFUL RAHMAN                          0               0           0
 MUHAMMAD SYIHABUL IRFAN                        85               85           85                85                85                      85       85    85          85
-MUHAMMAD WILDAN FAUZI                           0               0           0
+MUHAMMAD WILDAN FAUZI (KELUAR)                           0               0           0
 NAYLA DISSI WAHYU UTAMI                        85               85           85                                                                         85          85
 NEO LAKSA WIJAYA                               85               85           0                                    85                     85             85          85
 NIZHOM FAWAZ YASIR AL YAZID                    85               85         85                  85                 85                     85      85     85          85
-RIAN HIDAYAT                                    0               0           0
+RIAN HIDAYAT                                    0               0           0                                                                                                                Alfa
 RUBEN HASIHOLAND SIMATUPANG                     0               0           0
 SATRIA BIMA ADDIN                               0               0           0
 SEPTIAN DWI WARDANA                            85               85         85                  85                 85                     85
@@ -46,6 +46,8 @@ WIDYA SARI SUYITNO PUTRI                        0               0           0
 
 
 ULANGAN (SENIN/13 November 2023 BAB Instalasi Roundcube)
+
+
 
 
 # apt remove --purge openssh-server -y
