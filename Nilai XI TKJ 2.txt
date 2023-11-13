@@ -35,6 +35,8 @@ STEVE SEPTIAN PRAMADANA                  100                               100
 YANUAR PUTRA HANDIKA                     100                    100        100         100     100     100        100         100              100
 
 
+ULANGAN (KAMIS, 9 November 2023) Materi Menambahkan repository, Install DNS, Install Web Server
+
 
 
 #apt remove --purge bind9 -y
