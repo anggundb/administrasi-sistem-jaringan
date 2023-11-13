@@ -3,11 +3,11 @@ from turtle import *
 # or
 import turtle
 
-wn = turtle.Screen()
+wn = turtle.Screen()                 ---- windows
 wn.bgcolor("light green")
 wn.title("Turtle")
-skk = turtle.Turtle()
+skk = turtle.Turtle()                ---- membuat object turtle
 
 skk.forward(100)
 
-turtle.done()
+turtle.done()                        ---- Run turtle.done()
