@@ -1,6 +1,6 @@
 NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
-NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE/PHPMYADMIN        MAIL SERVER          ROUNDCUBE      NEXTCLOUD      CACTI    WEBMIN     ULANGAN(13/11/23)
+NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE/PHPMYADMIN        MAIL SERVER          ROUNDCUBE      NEXTCLOUD      CACTI    WEBMIN     ULANGAN(13/11/23)  
 ADAM ARRASYDI AKBAR                            85              85          85                                                                        85
 BAYU RAMADHANI                                  0               0           0                                                                        85
 ALVIN FADHLI RAMADHANI                         85               85           85             85                    85                     85          85
@@ -64,45 +64,45 @@ ULANGAN (SENIN/13 November 2023 BAB Instalasi Roundcube)
 
 ABSENSI
 --------------------------------------------------------------------
-NAMA                                                                              Tugas Lks      lks hal 71-72
+NAMA                                                                              Tugas Lks      lks hal 71-72                        ULANGAN(14/11/23)
 ADAM ARRASYDI AKBAR                  s        i                                         80          80
 BAYU RAMADHANI                                                                          80          80
 ALVIN FADHLI RAMADHANI                                                                  80          80                  
-ARDI DANU EFENDI.                      s      s          a                               80                         a
+ARDI DANU EFENDI.                      s      s          a                               80                         a                        alfa
 AULIA HAPSARI                                 s  s                                                  80
-DEVAN RISQI AMARI                         a   a    a     a                               80         60              a    a
-DHANI ANAM                           s    s   s    a     a     s     a       a              80                      a    a
+DEVAN RISQI AMARI                         a   a    a     a                               80         60              a    a                   alfa
+DHANI ANAM                           s    s   s    a     a     s     a       a              80                      a    a                   alfa
 DIMAS BAKTI SURYANTO                  s       a                                         80                               a
-DWI ADITYA PUTRA                      s    i     a    a                                 80          60              a    a
+DWI ADITYA PUTRA                      s    i     a    a                                 80          60              a    a                   alfa
 DZAKY SAPUTRA.                                                                          80          60              a
-EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i
+EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i                   alfa
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
 ERI ADITYA PUTRA                                                                        80          80                    
-FARHAN YUSLI SAPUTRA                       s             i            a                    80                       a    a    a
+FARHAN YUSLI SAPUTRA                       s             i            a                    80                       a    a    a              alfa
 HILMAN RIFKI HARYADI                                                                    80          80   
 ILHAM DWITARAMA PRAYITNO                                                                80          80
-INDI ANGGRIANI                         a                                                80          80              a
+INDI ANGGRIANI                         a                                                80          80              a                        alfa
 IRHAN AFFANDI                                                                           80          80
-M. SALEH ABIDIN R.                                                                                                  a    a
+M. SALEH ABIDIN R.                                                                                                  a    a                   alfa
 MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60              a
-MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a                                           i
+MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a                                           i                        alfa
 MOCHAMAD DZAKIRAH RENALDIMAZ.              i(B.Jep)                                     80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
 MOHAMAT IMAM UTOMO                                                                      80
-MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a                               a
+MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a                               a                          alfa
 MUHAMMAD FAJAR SHODIQ                                                                   80          80
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       i      i                                                           a
 MUHAMMAD SYIHABUL IRFAN                                                                 80           80             
 MUHAMMAD WILDAN FAUZI    (keluar)        s  a         a  a    a     a    a    a    a
-NAYLA DISSI WAHYU UTAMI                   s                                             80          80
+NAYLA DISSI WAHYU UTAMI                   s                                             80          80                                        alfa
 NEO LAKSA WIJAYA.                                   i                                    80          80
 NIZHOM FAWAZ YASIR AL YAZID            i(B.Jep)                                         80          80
 RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i  a
 RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)  
 SATRIA BIMA ADDIN.                                  i               ldks                    80                          a                         
 SEPTIAN DWI WARDANA                                                                     80                   
-SHEVA RAYA ANDRIAN.                       a                  i
+SHEVA RAYA ANDRIAN.                       a                  i                                                                                  S
 SYAIFUL IMAN                                    -              a                         80          60              a
 SYARIF HIDAYATULLAH                                                                     80           80
 WAHYUDI                                    i    i    s                                  80           60
