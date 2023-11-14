@@ -23,7 +23,7 @@ MOCH. ALDIANO ABIGAIL EFFENDI             0
 MOCH. ARIF AFANDI                         0
 MOCH. RIZAL ZAMANI                      100                100             100
 MOCH. SYAIFUDDIN MUBAROQ                  0
-MOCH. ZHIDAN ZAKARIYAH                    0
+MOCH. ZHIDAN ZAKARIYAH                    0                                                                                                                                      .59
 MOHAMMAD HARIS SAHAN                    100                100            100          100
 MUHAMMAD FAREL PRASETYA                 100                                                                                                                        .40
 MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA 100               100            100          100        100
