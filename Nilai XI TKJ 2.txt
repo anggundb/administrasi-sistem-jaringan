@@ -63,7 +63,7 @@ solusi name resolution
 
 
 
-NAMA                                    I               S                    A                         Tugas FreeNAS
+NAMA                                    I               S                    A                         Tugas FreeNAS   ULANGAN(16/11/23)
 AHMAD RAFLY PUTRA IRAWAN                   a                                                              80
 AL MALIK BRILLIANT NDARU AKBAR                                                                            80
 ALIF SALMAN FIRMANSYAH                                                                                    80            
@@ -72,7 +72,7 @@ DANA ABDU RODZAQ                                                                
 DAVA HAIDAR EKA EMRIZA                  a                                                                 80       
 DICKY RAHMAD DANI                                  s        i    i   i    a                               80
 FAEZAL RAHADY NUGROHO                                                                                     80
-FARREL AKBAR ANANDA SULISTYO                       a        K                                             80
+FARREL AKBAR ANANDA SULISTYO                       a        K                                             80               a
 FITRA SAHADEWA HARTONO                                                                                    80
 ILHAM FATCHUR RACHMAN                   i            K    o    ldks
 INDAH APRILIA VIDYANINGRUM               a
