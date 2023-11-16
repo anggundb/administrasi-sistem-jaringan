@@ -80,14 +80,14 @@ VIDO AIDIL SAPUTRA.                       80
 ABSENSI
 --------------------------------------
 NAMA                                
-ABIANS NANCY GARCIA.                   a   a
+ABIANS NANCY GARCIA.                   a   a       
 ACHMAD FATONI.                         -   
 AL-FATH AGUNG PANGESTU                    R.Osis            
 BINTANG ARYA FIARDILLAH                   
 DARIEL ABDIEL AKBAR R.S                   R.Osis  
 DESTRA SATRIA HARTONO            s         
 FAREL ADITYA PRATAMA                      a
-FERI ALDI.
+FERI ALDI.                                                a
 GALIH FAJAR PRASETYO JATI.       a         a 
 HAPPY BAGUS PRATAMA                       
 IZAZ ISLAM AL MUSTHOFA
@@ -101,12 +101,12 @@ MOH. ZAHID
 MOHAMAD AMZAR RENDY PRAMUDJI.
 MUHAMMAD ATTAR REVALDO.
 MUHAMMAD FALDI MAULANA.
-MUHAMMAD FERDI HASAN UDIN
-MUHAMMAD NAUFAL AZIZI                  s   
+MUHAMMAD FERDI HASAN UDIN                                  a
+MUHAMMAD NAUFAL AZIZI                  s                   a
 MUHAMMAD NUR KOWI                         
 RADYTIA DIAS PRATAMA                      
 RAFI ADIKA PRATAMA                        
-REYHAN DEFANDA.                        a    a   a
+REYHAN DEFANDA.                        a    a   a          a
 ROZZAQUL MUBAROK FAKHRUDDIN.
 VIDO AIDIL SAPUTRA.                       R.Osis
 
