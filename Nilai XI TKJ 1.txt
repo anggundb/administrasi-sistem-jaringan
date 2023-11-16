@@ -9,7 +9,7 @@ AKHMAD HAFIDZ FIRMANSYAH                100                  100            100 
 ALEX HERMANSYAH                           0
 ALFIN BAGUS SAPUTRA                       0
 ANDHIKA ARYA SAMUDERA                   100                  100             100            100          100                    100        100
-ANDIKA PUTRA PRATAMA                    100                  100              100           100          100                    100        100                                  .247
+ANDIKA PUTRA PRATAMA                    100                  100              100           100          100                    100        100                                  .247 (100)
 ANGGA                                   100                  100             100            100
 ANUGRAH DAFA ARISANDI                   100                  100             100            100                                                                                 .205 (80)
 BAGUS BHAKTIAR ARDIANSYAH               100                  100            100            100                                                                                       (100) 
@@ -25,8 +25,8 @@ MOCH. RIZAL ZAMANI                      100                100             100  
 MOCH. SYAIFUDDIN MUBAROQ                  0
 MOCH. ZHIDAN ZAKARIYAH                    0                                                                                                                                      .59
 MOHAMMAD HARIS SAHAN                    100                100            100          100
-MUHAMMAD FAREL PRASETYA                 100                                                                                                                                      .40
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA 100               100            100          100        100
+MUHAMMAD FAREL PRASETYA                 100                                                                                                                                      .40 (65)
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA 100               100            100          100        100                                                                                (85)
 MUHAMMAD HUSAINI RIDWAN                  100               100            100          100                                                                                       .46
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       100                100          100           100        100
 MUHAMMAD SAMANUDIN ILHAM                 100                100          100           100        100                100        100                                              .58 (100)       
