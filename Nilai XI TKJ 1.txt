@@ -11,8 +11,8 @@ ALFIN BAGUS SAPUTRA                       0
 ANDHIKA ARYA SAMUDERA                   100                  100             100            100          100                    100        100
 ANDIKA PUTRA PRATAMA                    100                  100              100           100          100                    100        100                                  .204
 ANGGA                                   100                  100             100            100
-ANUGRAH DAFA ARISANDI                   100                  100             100            100
-BAGUS BHAKTIAR ARDIANSYAH               100                  100            100            100
+ANUGRAH DAFA ARISANDI                   100                  100             100            100                                                                                 .205 ()
+BAGUS BHAKTIAR ARDIANSYAH               100                  100            100            100                                                                                       (100) 
 DENI PURWANTO                             0                                                                                                                                       .37
 EGA DANANG SETYAWAN                       0
 FADKHULI NIZAM HABIBI                   100                  100           100            100                                                                                     .45
@@ -25,12 +25,12 @@ MOCH. RIZAL ZAMANI                      100                100             100  
 MOCH. SYAIFUDDIN MUBAROQ                  0
 MOCH. ZHIDAN ZAKARIYAH                    0                                                                                                                                      .59
 MOHAMMAD HARIS SAHAN                    100                100            100          100
-MUHAMMAD FAREL PRASETYA                 100                                                                                                                        .40
+MUHAMMAD FAREL PRASETYA                 100                                                                                                                                      .40
 MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA 100               100            100          100        100
-MUHAMMAD HUSAINI RIDWAN                  100               100            100          100                                                                         .46
+MUHAMMAD HUSAINI RIDWAN                  100               100            100          100                                                                                       .46
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       100                100          100           100        100
-MUHAMMAD SAMANUDIN ILHAM                 100                100          100           100        100                100        100                                .58 (100)       
-NANDA RIZKY SAPUTRA                      100                100          100           100        100                                                                  (100)
+MUHAMMAD SAMANUDIN ILHAM                 100                100          100           100        100                100        100                                              .58 (100)       
+NANDA RIZKY SAPUTRA                      100                100          100           100        100                                                                                (100)
 NAYAKA APTA RABBANI                      100                100           100          100        100                100        100
 RIDHO ARFIANTO ARFAN LIMATAHU              0
 VAVIAN RIZZAL ARRIZKY                      0
