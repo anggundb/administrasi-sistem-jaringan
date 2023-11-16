@@ -11,3 +11,15 @@ skk = turtle.Turtle()                ---- membuat object turtle
 skk.forward(100)
 
 turtle.done()                        ---- Run turtle.done()
+
+
+https://www.fathur.web.id/2020/08/python-mengenal-komputer-grafis-dengan.html
+t.forward(100) = perintah menggambar sebanyak 100 pixel ke arah depan (membentuk garis)
+t.backward(50) = perintah menggambar sebanyak 50 pixel mundul ke belakang (membentuk garis)
+t.left(90) = berputar 90 derajat ke arah kiri atau 
+t.left(270) = berputar 270 derajat ke arah kanan (hasilnya sama)
+t.up() = memindahkan pointer (pena) keatas (tanpa menulis di canvas)
+t.down() = memindahkan pointer (pena) ke bawah (tanpa menulis di canvas)
+t.reset() = menghapus gambar/objek pada canvas dan pointer kembali ke posisi default
+t.clear() = menghapus gambar/objek pada canvas dan posisi pointer tetap
+
