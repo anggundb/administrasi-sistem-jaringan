@@ -36,6 +36,8 @@ YANUAR PUTRA HANDIKA                     100                    100        100  
 
 
 ULANGAN (KAMIS, 9 November 2023) Materi Menambahkan repository, Install DNS, Install Web Server
+Instalasi Virtualhost (5 domain)
+Instalasi NFS server
 
 
 
