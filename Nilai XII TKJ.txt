@@ -17,7 +17,7 @@ ERI ADITYA PUTRA                               85              85          85   
 FARHAN YUSLI SAPUTRA                           85              85          85
 HILMAN RIFKI HARYADI                           85               85          85                  85              85                      85      85                  85       85
 ILHAM DWITARAMA PRAYITNO                       85              85           85                  85              85                      85      85                  85       85
-INDI ANGGRIANI                                 85              85           85                                                                  85                  85       85
+INDI ANGGRIANI                                 85              85           85                                                                  85                  85       85                        .68
 IRHAN AFFANDI                                  85              85          85                  85               85                                    85            85       85
 M. SALEH ABIDIN R.                              0               0           0
 MICO PRIYANTO PUTRO SADEWO                      0               0           0                                                                                                                Alfa
