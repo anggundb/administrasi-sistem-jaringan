@@ -10,7 +10,7 @@ DEVAN RISQI AMARI                               0               0           0
 DHANI ANAM                                      0               0           0                                                                                                                Alfa
 DIMAS BAKTI SURYANTO                            0               0           0                                                                                                                Alfa
 DWI ADITYA PUTRA                                0               0           0
-DZAKY SAPUTRA                                   0               0           0                                                                                                                Alfa
+DZAKY SAPUTRA                                   0               0           0                                                                                                                Alfa      Alfa
 EDO FISABILILLAH                               85              85          85                  85                                                    85                                      Alfa
 EFRILLIAN ARTHA NUSANTARA ISMI                 85               0           0                                                                        85
 ERI ADITYA PUTRA                               85              85          85                  85               85
@@ -37,8 +37,8 @@ NIZHOM FAWAZ YASIR AL YAZID                    85               85         85   
 RIAN HIDAYAT                                    0               0           0                                                                                                                Alfa
 RUBEN HASIHOLAND SIMATUPANG                     0               0           0
 SATRIA BIMA ADDIN                               0               0           0                                                                                                                Alfa
-SEPTIAN DWI WARDANA                            85               85         85                  85                 85                     85
-SHEVA RAYA ANDRIAN                              0               0           0
+SEPTIAN DWI WARDANA                            85               85         85                  85                 85                     85                                                            Alfa
+SHEVA RAYA ANDRIAN                              0               0           0                                                                                                                          Alfa
 SYAIFUL IMAN                                    0               0           0
 SYARIF HIDAYATULLAH                            85               85           85                85                 85                    85        85      85
 WAHYUDI                                         0               0           0
