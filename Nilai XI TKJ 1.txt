@@ -39,6 +39,8 @@ YUSUF ABDUL DJALIL                         0
 
 
 ULANGAN (14/11/23) BAB menambahkan repository, install DNS Server, Install Web Server
+Instalasi virtualhost (5 domain)
+Instalasi NFS server
 
 
 
@@ -71,9 +73,9 @@ Perintah melihat file hidden (.):
 
 
 
-NAMA                                   I            S          A     
-ACHMAD ANDHIKA PRATAMA                                        (-)  a
-ACHMAD MAULANA FIRMANSYAH                s         s        
+NAMA                                   I            S          A                ULANGAN(18/11/23)
+ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I
+ACHMAD MAULANA FIRMANSYAH                s         s                                    S        
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
 AKHMAD HAFIDZ FIRMANSYAH                a    a                          
@@ -85,7 +87,7 @@ ANGGA                                  i
 ANUGRAH DAFA ARISANDI                  
 BAGUS BHAKTIAR ARDIANSYAH          o    o                 ldks       
 DENI PURWANTO                                     s                   
-EGA DANANG SETYAWAN                       a        a
+EGA DANANG SETYAWAN                       a        a                                   Alfa
 FADKHULI NIZAM HABIBI                   
 FIKRI ARDINSYAH SAPUTRA                           i          (-)      
 IKMAL CHULAIFI PRADITYA                   s    s
@@ -96,17 +98,17 @@ MOCH. RIZAL ZAMANI
 MOCH. SYAIFUDDIN MUBAROQ                          (-)
 MOCH. ZHIDAN ZAKARIYAH                            a   (-)
 MOHAMMAD HARIS SAHAN                o      o        ldks
-MUHAMMAD FAREL PRASETYA                 
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks
+MUHAMMAD FAREL PRASETYA                                                                 Alfa
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks                I
 MUHAMMAD HUSAINI RIDWAN                  o   o     ldks
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       
 MUHAMMAD SAMANUDIN ILHAM                           s        
-NANDA RIZKY SAPUTRA             o        o                ldks
+NANDA RIZKY SAPUTRA             o        o                ldks                            I
 NAYAKA APTA RABBANI               o       o               ldks
 RIDHO ARFIANTO ARFAN LIMATAHU                       (-)
 VAVIAN RIZZAL ARRIZKY                    
 WILDAN KHOIRUL PRATAMA                   
-YUSUF ABDUL DJALIL                                 a   (-)    a
+YUSUF ABDUL DJALIL                                 a   (-)    a                           I
 
 
 
