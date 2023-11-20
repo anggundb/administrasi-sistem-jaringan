@@ -85,14 +85,14 @@ INDI ANGGRIANI                         a                                        
 IRHAN AFFANDI                                                                           80          80
 M. SALEH ABIDIN R.                                                                                                  a    a                   alfa
 MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60              a
-MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a                                           i                        alfa    alfa
+MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a                            60               i                        alfa    alfa
 MOCHAMAD DZAKIRAH RENALDIMAZ.              i(B.Jep)                                     80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
 MOHAMAT IMAM UTOMO                                                                      80
 MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a                               a                          alfa   alfa
 MUHAMMAD FAJAR SHODIQ                                                                   80          80
 MUHAMMAD ILHAM AKBAR PERDANA.                    
-MUHAMMAD SAIFUL RAHMAN                   s       i      i                                                           a
+MUHAMMAD SAIFUL RAHMAN                   s       i      i                                            60               a
 MUHAMMAD SYIHABUL IRFAN                                                                 80           80             
 MUHAMMAD WILDAN FAUZI    (keluar)        s  a         a  a    a     a    a    a    a
 NAYLA DISSI WAHYU UTAMI                   s                                             80          80                                        alfa
