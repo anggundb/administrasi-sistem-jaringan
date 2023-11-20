@@ -71,11 +71,11 @@ ALVIN FADHLI RAMADHANI                                                          
 ARDI DANU EFENDI.                      s      s          a                               80                         a                        alfa
 AULIA HAPSARI                                 s  s                                                  80
 DEVAN RISQI AMARI                         a   a    a     a                               80         60              a    a                   alfa
-DHANI ANAM                           s    s   s    a     a     s     a       a              80                      a    a                   alfa
+DHANI ANAM                           s    s   s    a     a     s     a       a              80                      a    a                   alfa     alfa
 DIMAS BAKTI SURYANTO                  s       a                                         80                               a
 DWI ADITYA PUTRA                      s    i     a    a                                 80          60              a    a                   alfa
-DZAKY SAPUTRA.                                                                          80          60              a
-EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i                   alfa
+DZAKY SAPUTRA.                                                                          80          60              a                                 alfa
+EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i                   alfa      i
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
 ERI ADITYA PUTRA                                                                        80          80                    
 FARHAN YUSLI SAPUTRA                       s             i            a                    80                       a    a    a              alfa
@@ -85,11 +85,11 @@ INDI ANGGRIANI                         a                                        
 IRHAN AFFANDI                                                                           80          80
 M. SALEH ABIDIN R.                                                                                                  a    a                   alfa
 MICO PRIYANTO PUTRO SADEWO.                 -                                           80`         60              a
-MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a                                           i                        alfa
+MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a                                           i                        alfa    alfa
 MOCHAMAD DZAKIRAH RENALDIMAZ.              i(B.Jep)                                     80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
 MOHAMAT IMAM UTOMO                                                                      80
-MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a                               a                          alfa
+MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a                               a                          alfa   alfa
 MUHAMMAD FAJAR SHODIQ                                                                   80          80
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       i      i                                                           a
@@ -99,7 +99,7 @@ NAYLA DISSI WAHYU UTAMI                   s                                     
 NEO LAKSA WIJAYA.                                   i                                    80          80
 NIZHOM FAWAZ YASIR AL YAZID            i(B.Jep)                                         80          80
 RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i  a
-RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)  
+RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)                           S
 SATRIA BIMA ADDIN.                                  i               ldks                    80                          a                         
 SEPTIAN DWI WARDANA                                                                     80                   
 SHEVA RAYA ANDRIAN.                       a                  i                                                                                  S
