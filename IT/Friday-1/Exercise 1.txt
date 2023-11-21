@@ -154,3 +154,4 @@ https://pve.proxmox.com/wiki/User_Management
 https://lunar.computer/posts/change-logos-proxmox-60/
 https://www.youtube.com/watch?v=r_E1XAIcgWs ---- How to Migrated Virtual Machine (VM) Proxmox Server
 https://www.tokopedia.com/oceanbike/speaker-pinggang-mini-va100-mic-clip-on-pengeras-suara-guru-mengajar?src=topads
+https://www.youtube.com/shorts/PuYW4TRbiiY
