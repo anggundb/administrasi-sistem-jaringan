@@ -1,16 +1,16 @@
 https://www.geeksforgeeks.org/turtle-programming-python/
 from turtle import *
 # or
-import turtle
+==> import turtle
 
-wn = turtle.Screen()                 ---- windows
-wn.bgcolor("light green")
-wn.title("Turtle")
-skk = turtle.Turtle()                ---- membuat object turtle
+==> wn = turtle.Screen()                 ---- windows
+==> wn.bgcolor("light green")
+==> wn.title("Turtle")
+==> skk = turtle.Turtle()                ---- membuat object turtle
 
-skk.forward(100)
+==> skk.forward(100)
 
-turtle.done()                        ---- Run turtle.done()
+==> turtle.done()                        ---- Run turtle.done()
 
 
 https://www.fathur.web.id/2020/08/python-mengenal-komputer-grafis-dengan.html
