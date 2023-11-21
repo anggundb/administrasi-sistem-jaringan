@@ -69,13 +69,13 @@ ADAM ARRASYDI AKBAR                  s        i                                 
 BAYU RAMADHANI                                                                          80          80
 ALVIN FADHLI RAMADHANI                                                                  80          80                  
 ARDI DANU EFENDI.                      s      s          a                               80                         a                        alfa
-AULIA HAPSARI                                 s  s                                                  80
+AULIA HAPSARI                                 s  s                                                  80                                                              s
 DEVAN RISQI AMARI                         a   a    a     a                               80         60              a    a                   alfa
 DHANI ANAM                           s    s   s    a     a     s     a       a              80                      a    a                   alfa     alfa
-DIMAS BAKTI SURYANTO                  s       a                                         80                               a
+DIMAS BAKTI SURYANTO                  s       a                                         80                               a                                          s
 DWI ADITYA PUTRA                      s    i     a    a                                 80          60              a    a                   alfa
 DZAKY SAPUTRA.                                                                          80          60              a                                 alfa
-EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i                   alfa      i
+EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i                   alfa      i            a
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
 ERI ADITYA PUTRA                                                                        80          80                    
 FARHAN YUSLI SAPUTRA                       s             i            a                    80                       a    a    a              alfa
@@ -98,12 +98,12 @@ MUHAMMAD WILDAN FAUZI    (keluar)        s  a         a  a    a     a    a    a 
 NAYLA DISSI WAHYU UTAMI                   s                                             80          80                                        alfa
 NEO LAKSA WIJAYA.                                   i                                    80          80
 NIZHOM FAWAZ YASIR AL YAZID            i(B.Jep)                                         80          80
-RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i  a
+RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i  a                                                                      a
 RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)                           S
 SATRIA BIMA ADDIN.                                  i               ldks                    80                          a                         
 SEPTIAN DWI WARDANA                                                                     80                   
 SHEVA RAYA ANDRIAN.                       a                  i                                                                                  S
-SYAIFUL IMAN                                    -              a                         80          60              a
+SYAIFUL IMAN                                    -              a                         80          60              a                                        a
 SYARIF HIDAYATULLAH                                                                     80           80
 WAHYUDI                                    i    i    s                                  80           60
 WIDYA SARI SUYITNO PUTRI                                                                80           80
