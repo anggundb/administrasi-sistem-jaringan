@@ -163,3 +163,4 @@ https://www.youtube.com/watch?v=mjlK61scFaQ ---mRTG
 instalasi SNMP dan instalasi MRTG
 https://www.youtube.com/watch?v=MfOrHWUAXiM
 https://www.youtube.com/watch?v=jzRszvS7Wyk ---- Konfigurasi SNMP & MRTG debian 8
+https://www.youtube.com/watch?v=_kQKbMT8mfc
