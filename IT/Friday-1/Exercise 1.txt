@@ -165,3 +165,4 @@ https://www.youtube.com/watch?v=MfOrHWUAXiM
 https://www.youtube.com/watch?v=jzRszvS7Wyk ---- Konfigurasi SNMP & MRTG debian 8
 https://www.youtube.com/watch?v=_kQKbMT8mfc
 https://linux.how2shout.com/install-cloudpanel-control-panel-on-debian-10-server/
+https://www.cloudpanel.io/blog/8-best-free-cpanel-open-source-alternatives/
