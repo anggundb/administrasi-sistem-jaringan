@@ -3,8 +3,8 @@ NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 NAMA                                    DNS SERVER      WEB SERVER        PHP        DATABASE/PHPMYADMIN        MAIL SERVER          ROUNDCUBE      NEXTCLOUD      CACTI    WEBMIN     ULANGAN(13/11/23)  
 ADAM ARRASYDI AKBAR                            85              85          85                                                                        85
 BAYU RAMADHANI                                  0               0           0                                                                        85
-ALVIN FADHLI RAMADHANI                         85               85           85             85                    85                     85          85
-ARDI DANU EFENDI                                0               0           0
+ALVIN FADHLI RAMADHANI                         85               85           85             85                    85                     85          85                                            .41 (85)
+ARDI DANU EFENDI                                0               0           0                                                                                                                          (65)
 AULIA HAPSARI                                  85               85         85              85                                                        85
 DEVAN RISQI AMARI                               0               0           0
 DHANI ANAM                                      0               0           0                                                                                                                Alfa
