@@ -3,8 +3,8 @@ NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 NAMA                                    DHCP SERVER      DNS SERVER          WEB SERVER   VIRTUALHOST     100 VIRTUALHOST       FTP       TELNET   PHP/PHPMYADMIN      ULANGAN(14/11/23)
 ACHMAD ANDHIKA PRATAMA                    0                      
 ACHMAD MAULANA FIRMANSYAH                 0
-ACHMAD RIFADI                             0
-AIDIL OKTAVIAN                            0
+ACHMAD RIFADI                             0                                                                                                                                    .0 (60)
+AIDIL OKTAVIAN                            0                                                                                                                                    .0 (60)  
 AKHMAD HAFIDZ FIRMANSYAH                100                  100            100            100            100
 ALEX HERMANSYAH                           0
 ALFIN BAGUS SAPUTRA                       0
@@ -13,7 +13,7 @@ ANDIKA PUTRA PRATAMA                    100                  100              10
 ANGGA                                   100                  100             100            100
 ANUGRAH DAFA ARISANDI                   100                  100             100            100                                                                                 .205 (80) (80)
 BAGUS BHAKTIAR ARDIANSYAH               100                  100            100            100                                                                                       (100) (100)
-DENI PURWANTO                             0                                                                                                                                       .37
+DENI PURWANTO                             0                                                                                                                                       .117 ()
 EGA DANANG SETYAWAN                       0
 FADKHULI NIZAM HABIBI                   100                  100           100            100                                                                                     .45 (100)  .96 (100)
 FIKRI ARDINSYAH SAPUTRA                 65                                                                                                                                            (75)
