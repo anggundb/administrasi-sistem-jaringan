@@ -21,8 +21,8 @@ IKMAL CHULAIFI PRADITYA                   0
 IRVAN BAGUS SETIAWAN                    100                100             100
 MOCH. ALDIANO ABIGAIL EFFENDI             0
 MOCH. ARIF AFANDI                         0
-MOCH. RIZAL ZAMANI                      100                100             100                                                                                                   .41
-MOCH. SYAIFUDDIN MUBAROQ                  0
+MOCH. RIZAL ZAMANI                      100                100             100                                                                                                   .41 (60)
+MOCH. SYAIFUDDIN MUBAROQ                  0                                                                                                                                          (60)
 MOCH. ZHIDAN ZAKARIYAH                    0                                                                                                                                      .59 (75)
 MOHAMMAD HARIS SAHAN                    100                100            100          100                                                                                           (100)
 MUHAMMAD FAREL PRASETYA                 100                                                                                                                                      .40 (65)
