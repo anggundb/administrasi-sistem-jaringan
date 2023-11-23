@@ -168,3 +168,4 @@ https://linux.how2shout.com/install-cloudpanel-control-panel-on-debian-10-server
 https://www.cloudpanel.io/blog/8-best-free-cpanel-open-source-alternatives/
 https://www.youtube.com/watch?v=mcnfzY0OJ0M ---- Robot voice or sound modulator circuit
 https://www.youtube.com/watch?v=ECKligdvS4w ---- 55 voice changer (like robot) + Schematic
+https://www.tp-link.com/id/business-networking/accessory/mc111cs/
