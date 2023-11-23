@@ -32,7 +32,10 @@ RIJAL PRASETYO                           100                    100        100  
 SALWA MYASHIRA MAHESA                      0
 SEPTIAN SAMSAN SAPUTRA                     0                                           100
 STEVE SEPTIAN PRAMADANA                  100                               100
-YANUAR PUTRA HANDIKA                     100                    100        100         100     100     100        100         100              100                                       .32 
+YANUAR PUTRA HANDIKA                     100                    100        100         100     100     100        100         100              100                                       .32 (90)
+mohammad farel aditya pasha                                                                                                                                                                  (65)
+AHMAD RANGGA ASYIFA  
+
 
 
 ULANGAN (KAMIS, 9 November 2023) Materi Menambahkan repository, Install DNS, Install Web Server
