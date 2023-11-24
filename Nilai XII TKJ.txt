@@ -104,6 +104,6 @@ SATRIA BIMA ADDIN.                                  i               ldks        
 SEPTIAN DWI WARDANA                                                                     80                   
 SHEVA RAYA ANDRIAN.                       a                  i                                                                                  S                                .IP (-) 
 SYAIFUL IMAN                                    -              a                         80          60              a                                        a                      (-) 
-SYARIF HIDAYATULLAH                                                                     80           80
-WAHYUDI                                    i    i    s                                  80           60
+SYARIF HIDAYATULLAH                                                                     80           80                                                                          .42 (78)
+WAHYUDI                                    i    i    s                                  80           60                                                                              (60)
 WIDYA SARI SUYITNO PUTRI                                                                80           80
