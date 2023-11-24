@@ -64,7 +64,7 @@ permasalahan/kendala ---- https://bobcares.com/blog/smtp-error-1/
 
 ABSENSI
 --------------------------------------------------------------------
-NAMA                                                                              Tugas Lks      lks hal 71-72                        ULANGAN(14/11/23)
+NAMA                                                                              Tugas Lks      lks hal 71-72                        ULANGAN(14/11/23)                              lisan
 ADAM ARRASYDI AKBAR                  s        i                                         80          80
 BAYU RAMADHANI                                                                          80          80
 ALVIN FADHLI RAMADHANI                                                                  80          80                  
@@ -102,8 +102,8 @@ RIAN HIDAYAT                               s a    a  a    a    a     a    a    a
 RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)                           S
 SATRIA BIMA ADDIN.                                  i               ldks                    80                          a                         
 SEPTIAN DWI WARDANA                                                                     80                   
-SHEVA RAYA ANDRIAN.                       a                  i                                                                                  S
-SYAIFUL IMAN                                    -              a                         80          60              a                                        a
+SHEVA RAYA ANDRIAN.                       a                  i                                                                                  S                                .IP (-) 
+SYAIFUL IMAN                                    -              a                         80          60              a                                        a                      (-) 
 SYARIF HIDAYATULLAH                                                                     80           80
 WAHYUDI                                    i    i    s                                  80           60
 WIDYA SARI SUYITNO PUTRI                                                                80           80
