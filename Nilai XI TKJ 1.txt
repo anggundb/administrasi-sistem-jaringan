@@ -74,40 +74,40 @@ Perintah melihat file hidden (.):
 
 
 NAMA                                   I            S          A                ULANGAN(18/11/23)
-ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I
-ACHMAD MAULANA FIRMANSYAH                s         s                                    S        
+ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a
+ACHMAD MAULANA FIRMANSYAH                s         s                                    S                         a
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
 AKHMAD HAFIDZ FIRMANSYAH                a    a                          
 ALEX HERMANSYAH                           (-)                      a
 ALFIN BAGUS SAPUTRA                       
 ANDHIKA ARYA SAMUDERA                                     
-ANDIKA PUTRA PRATAMA                   i        o  o        ldks               
+ANDIKA PUTRA PRATAMA                   i        o  o        ldks                                                 osis          
 ANGGA                                  i
 ANUGRAH DAFA ARISANDI                  
-BAGUS BHAKTIAR ARDIANSYAH          o    o                 ldks       
+BAGUS BHAKTIAR ARDIANSYAH          o    o                 ldks                                                   osis    
 DENI PURWANTO                                     s                   
 EGA DANANG SETYAWAN                       a        a                                   Alfa
 FADKHULI NIZAM HABIBI                   
 FIKRI ARDINSYAH SAPUTRA                           i          (-)      
-IKMAL CHULAIFI PRADITYA                   s    s
-IRVAN BAGUS SETIAWAN                             s     s
-MOCH. ALDIANO ABIGAIL EFFENDI                    s 
+IKMAL CHULAIFI PRADITYA                   s    s                                                                  a
+IRVAN BAGUS SETIAWAN                             s     s                                                          a
+MOCH. ALDIANO ABIGAIL EFFENDI                    s                                                                a
 MOCH. ARIF AFANDI                                s      a   s
 MOCH. RIZAL ZAMANI                      
-MOCH. SYAIFUDDIN MUBAROQ                          (-)
+MOCH. SYAIFUDDIN MUBAROQ                          (-)                                                             a
 MOCH. ZHIDAN ZAKARIYAH                            a   (-)
-MOHAMMAD HARIS SAHAN                o      o        ldks
-MUHAMMAD FAREL PRASETYA                                                                 Alfa
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks                I
-MUHAMMAD HUSAINI RIDWAN                  o   o     ldks
+MOHAMMAD HARIS SAHAN                o      o        ldks                                                          osis
+MUHAMMAD FAREL PRASETYA                                                                 Alfa                      a
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks                I                        osis
+MUHAMMAD HUSAINI RIDWAN                  o   o     ldks                                                           osis
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       
 MUHAMMAD SAMANUDIN ILHAM                           s        
-NANDA RIZKY SAPUTRA             o        o                ldks                            I
-NAYAKA APTA RABBANI               o       o               ldks
+NANDA RIZKY SAPUTRA             o        o                ldks                            I                       osis
+NAYAKA APTA RABBANI               o       o               ldks                                                    osis
 RIDHO ARFIANTO ARFAN LIMATAHU                       (-)
-VAVIAN RIZZAL ARRIZKY                    
-WILDAN KHOIRUL PRATAMA                   
+VAVIAN RIZZAL ARRIZKY                                                                                              a                
+WILDAN KHOIRUL PRATAMA                                                                                             a
 YUSUF ABDUL DJALIL                                 a   (-)    a                           I
 
 
