@@ -87,10 +87,10 @@ BINTANG ARYA FIARDILLAH
 DARIEL ABDIEL AKBAR R.S                   R.Osis  
 DESTRA SATRIA HARTONO            s         
 FAREL ADITYA PRATAMA                      a
-FERI ALDI.                                                a
+FERI ALDI.                                                a    a
 GALIH FAJAR PRASETYO JATI.       a         a 
 HAPPY BAGUS PRATAMA                       
-IZAZ ISLAM AL MUSTHOFA
+IZAZ ISLAM AL MUSTHOFA                                    a
 KEVIN EGA ARSYA FIRMANSYAH                
 M. FAJAR PRADIFA                          
 M. HAIKAL HAQQUEL YAQIN AHRIF             
@@ -101,7 +101,7 @@ MOH. ZAHID
 MOHAMAD AMZAR RENDY PRAMUDJI.
 MUHAMMAD ATTAR REVALDO.
 MUHAMMAD FALDI MAULANA.
-MUHAMMAD FERDI HASAN UDIN                                  a
+MUHAMMAD FERDI HASAN UDIN                                  a     a
 MUHAMMAD NAUFAL AZIZI                  s                   a
 MUHAMMAD NUR KOWI                         
 RADYTIA DIAS PRATAMA                      
