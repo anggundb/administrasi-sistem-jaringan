@@ -74,7 +74,7 @@ Perintah melihat file hidden (.):
 
 
 NAMA                                   I            S          A                ULANGAN(18/11/23)
-ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a
+ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a     a
 ACHMAD MAULANA FIRMANSYAH                s         s                                    S                         a
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
