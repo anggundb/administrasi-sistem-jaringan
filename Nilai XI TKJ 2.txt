@@ -37,6 +37,8 @@ mohammad farel aditya pasha                                                     
 AHMAD RANGGA ASYIFA  
 
 
+33 anak
+
 
 ULANGAN (KAMIS, 9 November 2023) Materi Menambahkan repository, Install DNS, Install Web Server
 Instalasi Virtualhost (5 domain)
