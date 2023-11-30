@@ -37,6 +37,9 @@ VAVIAN RIZZAL ARRIZKY                      0
 WILDAN KHOIRUL PRATAMA                     0
 YUSUF ABDUL DJALIL                         0
 
+35 anak
+
+
 
 ULANGAN (14/11/23) BAB menambahkan repository, install DNS Server, Install Web Server
 Instalasi virtualhost (5 domain)
