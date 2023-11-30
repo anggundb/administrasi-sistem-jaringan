@@ -71,7 +71,7 @@ solusi name resolution
 
 
 NAMA                                    I               S                    A                         Tugas FreeNAS   ULANGAN(16/11/23)          Tugas Docker
-AHMAD RAFLY PUTRA IRAWAN                   a                                                              80                                         80
+AHMAD RAFLY PUTRA IRAWAN                   a                                                              80                                         80         a
 AL MALIK BRILLIANT NDARU AKBAR                                                                            80                                         80
 ALIF SALMAN FIRMANSYAH                                                                                    80            
 BAGAS PRASETYO WIBOWO                   K                                                                 80                                         80
