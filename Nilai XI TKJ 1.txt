@@ -1,41 +1,41 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
 NAMA                                    DHCP SERVER      DNS SERVER          WEB SERVER   VIRTUALHOST     100 VIRTUALHOST       FTP       TELNET   PHP/PHPMYADMIN      ULANGAN(14/11/23)
-ACHMAD ANDHIKA PRATAMA                    0                      
-ACHMAD MAULANA FIRMANSYAH                 0
-ACHMAD RIFADI                             0                                                                                                                                    .0 (60)
-AIDIL OKTAVIAN                            0                                                                                                                                    .0 (60)  
-AKHMAD HAFIDZ FIRMANSYAH                100                  100            100            100            100                                                                  .224 (70)
-ALEX HERMANSYAH                           0                                                                                                                                         (60)
-ALFIN BAGUS SAPUTRA                       0                                                                                                                                    .208 (69)
-ANDHIKA ARYA SAMUDERA                   100                  100             100            100          100                    100        100                                 .208 (69)    
-ANDIKA PUTRA PRATAMA                    100                  100              100           100          100                    100        100                                  .247 (100)  .97 (100)
-ANGGA                                   100                  100             100            100
-ANUGRAH DAFA ARISANDI                   100                  100             100            100                                                                                 .205 (80) (80)
-BAGUS BHAKTIAR ARDIANSYAH               100                  100            100            100                                                                                       (100) (100)
-DENI PURWANTO                             0                                                                                                                                       .117 ()
-EGA DANANG SETYAWAN                       0
-FADKHULI NIZAM HABIBI                   100                  100           100            100                                                                                     .45 (100)  .96 (100)
-FIKRI ARDINSYAH SAPUTRA                 65                                                                                                                                            (75)
-IKMAL CHULAIFI PRADITYA                   0                                                                                                                                      .119 (-) PR pindah direktori
-IRVAN BAGUS SETIAWAN                    100                100             100
-MOCH. ALDIANO ABIGAIL EFFENDI             0                                                                                                                                      .118 (63)
-MOCH. ARIF AFANDI                         0                                                                                                                                           (63)
-MOCH. RIZAL ZAMANI                      100                100             100                                                                                                   .41 (60)
-MOCH. SYAIFUDDIN MUBAROQ                  0                                                                                                                                          (60)
-MOCH. ZHIDAN ZAKARIYAH                    0                                                                                                                                      .59 (75)
-MOHAMMAD HARIS SAHAN                    100                100            100          100                                                                                           (100)
-MUHAMMAD FAREL PRASETYA                 100                                                                                                                                      .40 (65)
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA 100               100            100          100        100                                                                                (85)
-MUHAMMAD HUSAINI RIDWAN                  100               100            100          100                                                                                       .46 (85) .46 (90)
-MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       100                100          100           100        100                                                                                (85) .46 (90)      
-MUHAMMAD SAMANUDIN ILHAM                 100                100          100           100        100                100        100                                              .58 (100) (100)      
-NANDA RIZKY SAPUTRA                      100                100          100           100        100                                                                                (100) (100)
-NAYAKA APTA RABBANI                      100                100           100          100        100                100        100                                              .43 (100) (100)
-RIDHO ARFIANTO ARFAN LIMATAHU              0                                                                                                                                         (65)  (65)
-VAVIAN RIZZAL ARRIZKY                      0
-WILDAN KHOIRUL PRATAMA                     0
-YUSUF ABDUL DJALIL                         0
+ACHMAD ANDHIKA PRATAMA            0        0                      
+ACHMAD MAULANA FIRMANSYAH         0        0
+ACHMAD RIFADI                     0        0                                                                                                                                    .0 (60)
+AIDIL OKTAVIAN                    0        0                                                                                                                                    .0 (60)  
+AKHMAD HAFIDZ FIRMANSYAH          5      100                  100            100            100            100                                                                  .224 (70)
+ALEX HERMANSYAH                   0       0                                                                                                                                         (60)
+ALFIN BAGUS SAPUTRA               0        0                                                                                                                                    .208 (69)
+ANDHIKA ARYA SAMUDERA             7      100                  100             100            100          100                    100        100                                 .208 (69)    
+ANDIKA PUTRA PRATAMA              7      100                  100              100           100          100                    100        100                                  .247 (100)  .97 (100)
+ANGGA                             4      100                  100             100            100
+ANUGRAH DAFA ARISANDI             4      100                  100             100            100                                                                                 .205 (80) (80)
+BAGUS BHAKTIAR ARDIANSYAH         4      100                  100            100            100                                                                                       (100) (100)
+DENI PURWANTO                     0       0                                                                                                                                       .117 ()
+EGA DANANG SETYAWAN               0        0
+FADKHULI NIZAM HABIBI             4      100                  100           100            100                                                                                     .45 (100)  .96 (100)
+FIKRI ARDINSYAH SAPUTRA           1     65                                                                                                                                            (75)
+IKMAL CHULAIFI PRADITYA           0        0                                                                                                                                      .119 (-) PR pindah direktori
+IRVAN BAGUS SETIAWAN              3      100                100             100
+MOCH. ALDIANO ABIGAIL EFFENDI     0       0                                                                                                                                      .118 (63)
+MOCH. ARIF AFANDI                 0        0                                                                                                                                           (63)
+MOCH. RIZAL ZAMANI                3     100                100             100                                                                                                   .41 (60)
+MOCH. SYAIFUDDIN MUBAROQ          0        0                                                                                                                                          (60)
+MOCH. ZHIDAN ZAKARIYAH            0        0                                                                                                                                      .59 (75)
+MOHAMMAD HARIS SAHAN              4      100                100            100          100                                                                                           (100)
+MUHAMMAD FAREL PRASETYA           1     100                                                                                                                                      .40 (65)
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI 5 PASHA 100               100            100          100        100                                                                                (85)
+MUHAMMAD HUSAINI RIDWAN           4       100               100            100          100                                                                                       .46 (85) .46 (90)
+MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH 5      100                100          100           100        100                                                                                (85) .46 (90)      
+MUHAMMAD SAMANUDIN ILHAM           7      100                100          100           100        100                100        100                                              .58 (100) (100)      
+NANDA RIZKY SAPUTRA                5      100                100          100           100        100                                                                                (100) (100)
+NAYAKA APTA RABBANI                7      100                100           100          100        100                100        100                                              .43 (100) (100)
+RIDHO ARFIANTO ARFAN LIMATAHU      0        0                                                                                                                                         (65)  (65)
+VAVIAN RIZZAL ARRIZKY              0        0
+WILDAN KHOIRUL PRATAMA             0        0
+YUSUF ABDUL DJALIL                 0        0
 
 35 anak
 
