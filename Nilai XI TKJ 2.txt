@@ -1,40 +1,40 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
 NAMA                                    DHCP SERVER      DNS SERVER      WEB SERVER    VIRTUALHOST   100VHost      FTP       TELNET   PHP/PHPMYADMIN   FILE_SERVER/SAMBA    FreeNAS      ULANGAN (9/11/23)
-AHMAD RAFLY PUTRA IRAWAN                 100                    100          100           100
-AL MALIK BRILLIANT NDARU AKBAR           100                    100          100           100        100          100        100     100              100                               .55 (100)
-ALIF SALMAN FIRMANSYAH                     0                    100          100
-BAGAS PRASETYO WIBOWO                    100                    100          100           100                                                                                           .41
-DANA ABDU RODZAQ                           0                    100          100           100
-DAVA HAIDAR EKA EMRIZA                   100                    100          100                                                                                                         .45
-DICKY RAHMAD DANI                        100                    100          100           100     100             100        100      100      100                                      80
-FAEZAL RAHADY NUGROHO                    100                    100          100           100     100             100       100       100      100                                      100     .77 (100) .77 (100)
-FARREL AKBAR ANANDA SULISTYO             100                                 100                                                                                                              (75)
-FITRA SAHADEWA HARTONO                   100                    100          100          100      100             100     100         100      100                                       .57 (100)  .76 (85)
-ILHAM FATCHUR RACHMAN                    100                    100          100                                                                                                          .124 (80)
-INDAH APRILIA VIDYANINGRUM                 0                                                                                                                                                    (60)
-M. ARDI KOES WARDANA                     100                    100           100        100      100              100     100           100      100                        100         100     .69 (100)  .121 (100)
-MAULANA NOVAN FIRMANSYAH                 100                    100           100        100      100              100     100           100      100                        100         100
-MOCH. ZAID QOMARUDDIN                    100                    100          100        100                                                                                             .77 (60)
-MOCH. ICHWAN MARSELO                     100                    100          100        100      100               100     100           100                                                (60)
-MOCH. KHOIRUL ANAM                       100                   100           100        100                                                                                             .68 (75)  .68 ()
-MOH. RIFKI LAFAIS                        100                   100           100        100      100               100     100           100
-MUCHAMAT AKBAR AINUR RIZKY               100                    100         100         100                                                                                             .54 (70)
-MUHAMMAD FATKURROHMAN                    100                    100                                                                                                                         (70)
-MUHAMMAD GHARY AL BAIHAQI                100                                 100                                                                                                          .21 (80)
-MUHAMMAT FIRDAUS                           0
+AHMAD RAFLY PUTRA IRAWAN            4     100                    100          100           100
+AL MALIK BRILLIANT NDARU AKBAR      9    100                    100          100           100        100          100        100     100              100                               .55 (100)
+ALIF SALMAN FIRMANSYAH              2       0                    100          100
+BAGAS PRASETYO WIBOWO               4     100                    100          100           100                                                                                           .41
+DANA ABDU RODZAQ                    3       0                    100          100           100
+DAVA HAIDAR EKA EMRIZA              3     100                    100          100                                                                                                         .45
+DICKY RAHMAD DANI                   9     100                    100          100           100     100             100        100      100      100                                      80
+FAEZAL RAHADY NUGROHO               9     100                    100          100           100     100             100       100       100      100                                      100     .77 (100) .77 (100)
+FARREL AKBAR ANANDA SULISTYO        2    100                                 100                                                                                                              (75)
+FITRA SAHADEWA HARTONO              9     100                    100          100          100      100             100     100         100      100                                       .57 (100)  .76 (85)
+ILHAM FATCHUR RACHMAN               3    100                    100          100                                                                                                          .124 (80)
+INDAH APRILIA VIDYANINGRUM          0       0                                                                                                                                                    (60)
+M. ARDI KOES WARDANA                10    100                    100           100        100      100              100     100           100      100                        100         100     .69 (100)  .121 (100)
+MAULANA NOVAN FIRMANSYAH            10     100                    100           100        100      100              100     100           100      100                        100         100
+MOCH. ZAID QOMARUDDIN               4     100                    100          100        100                                                                                             .77 (60)
+MOCH. ICHWAN MARSELO                8    100                    100          100        100      100               100     100           100                                                (60)
+MOCH. KHOIRUL ANAM                  4     100                   100           100        100                                                                                             .68 (75)  .68 ()
+MOH. RIFKI LAFAIS                   8     100                   100           100        100      100               100     100           100
+MUCHAMAT AKBAR AINUR RIZKY          4     100                    100         100         100                                                                                             .54 (70)
+MUHAMMAD FATKURROHMAN               2     100                    100                                                                                                                         (70)
+MUHAMMAD GHARY AL BAIHAQI           2     100                                 100                                                                                                          .21 (80)
+MUHAMMAT FIRDAUS                    0      0
 NADIVA MIFTA BELGISHA   (Keluar)           0
-NAZAR JALALLUDIN                           0                   100
-RAHMAD HIDAYATULLOH                      100                   100         100         100                                                                                             .62 (75)
-RENDRA YASA ANANTA                       100                   100         100         100                                                                                             .64 ()
-RENDY MARCELINO                          100                               100         100
-RIJAL PRASETYO                           100                    100        100         100     100                 100     100         100     100                                      .69 (75) 
-SALWA MYASHIRA MAHESA                      0                                                                                                                                                (65)                
-SEPTIAN SAMSAN SAPUTRA                     0                                           100
-STEVE SEPTIAN PRAMADANA                  100                               100                                                                                                           .29 ()
-YANUAR PUTRA HANDIKA                     100                    100        100         100     100     100        100         100              100                                       .32 (90)
-mohammad farel aditya pasha                                                                                                                                                                  (65)
-AHMAD RANGGA ASYIFA  
+NAZAR JALALLUDIN                    1       0                   100
+RAHMAD HIDAYATULLOH                 4     100                   100         100         100                                                                                             .62 (75)
+RENDRA YASA ANANTA                  4     100                   100         100         100                                                                                             .64 ()
+RENDY MARCELINO                     3    100                               100         100
+RIJAL PRASETYO                      9     100                    100        100         100     100                 100     100         100     100                                      .69 (75) 
+SALWA MYASHIRA MAHESA               0       0                                                                                                                                                (65)                
+SEPTIAN SAMSAN SAPUTRA              1       0                                           100
+STEVE SEPTIAN PRAMADANA             2     100                               100                                                                                                           .29 ()
+YANUAR PUTRA HANDIKA                9     100                    100        100         100     100     100        100         100              100                                       .32 (90)
+mohammad farel aditya pasha         0                                                                                                                                                         (65)
+AHMAD RANGGA ASYIFA                 0
 
 
 33 anak
