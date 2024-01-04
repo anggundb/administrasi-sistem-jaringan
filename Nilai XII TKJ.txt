@@ -114,3 +114,6 @@ Dimas mandala putra    PAI 77.50
                        PKN  47.50
 DANI ANAM
 FARHAN
+
+
+https://endriskanet.blogspot.com/2017/06/create-ct-container-in-proxmox.html
