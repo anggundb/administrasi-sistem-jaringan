@@ -75,7 +75,7 @@ DHANI ANAM                           s    s   s    a     a     s     a       a  
 DIMAS BAKTI SURYANTO                  s       a                                         80                               a                                          s
 DWI ADITYA PUTRA                      s    i     a    a                                 80          60              a    a                   alfa
 DZAKY SAPUTRA.                                                                          80          60              a                                 alfa
-EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i                   alfa      i            a
+EDO FISABILILLAH                            a     a     s  a    a    a      s             80        80    i(B.Jep)  a    i                   alfa      i            a                              a
 EFRILLIAN ARTHA NUSANTARA ISMI.                                                         80          60
 ERI ADITYA PUTRA                                                                        80          80                    
 FARHAN YUSLI SAPUTRA                       s             i            a                    80                       a    a    a              alfa
@@ -89,7 +89,7 @@ MOCH. RISKI KURNIA WIJAYA.               a  s      a  a    a     a      a       
 MOCHAMAD DZAKIRAH RENALDIMAZ.              i(B.Jep)                                     80           80
 MOCHAMMAD ZAENAL ARIFIN.                                                                             80
 MOHAMAT IMAM UTOMO                                                                      80
-MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a                               a                          alfa   alfa
+MUHAMMAD FAHRUR ROZY                    a          a       a     a    a     a      a                               a                          alfa   alfa                                          a
 MUHAMMAD FAJAR SHODIQ                                                                   80          80
 MUHAMMAD ILHAM AKBAR PERDANA.                    
 MUHAMMAD SAIFUL RAHMAN                   s       i      i                                            60               a
@@ -99,7 +99,7 @@ NAYLA DISSI WAHYU UTAMI                   s                                     
 NEO LAKSA WIJAYA.                                   i                                    80          80                                                                              (80)
 NIZHOM FAWAZ YASIR AL YAZID            i(B.Jep)                                         80          80                                                                           .33 (80)
 RIAN HIDAYAT                               s a    a  a    a    a     a    a    a   i  a                                                                      a                       (60) 
-RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)                           S                        .35 (78)
+RUBEN HASIHOLAND SIMATUPANG.                       i         s                           80                          i(B.Jep)                           S                        .35 (78)         a
 SATRIA BIMA ADDIN.                                  i               ldks                    80                          a                                                           (60) 
 SEPTIAN DWI WARDANA                                                                     80                                                                                       .IP (78)
 SHEVA RAYA ANDRIAN.                       a                  i                                                                                  S                                .IP (-) 
