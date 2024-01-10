@@ -71,7 +71,7 @@ solusi name resolution
 
 
 NAMA                                    I               S                    A                         Tugas FreeNAS   ULANGAN(16/11/23)          Tugas Docker
-AHMAD RAFLY PUTRA IRAWAN                   a                                                              80                                         80         a
+AHMAD RAFLY PUTRA IRAWAN                   a                                                              80                                         80         a     
 AL MALIK BRILLIANT NDARU AKBAR                                                                            80                                         80
 ALIF SALMAN FIRMANSYAH                                                                                    80            
 BAGAS PRASETYO WIBOWO                   K                                                                 80                                         80
@@ -81,13 +81,13 @@ DICKY RAHMAD DANI                                  s        i    i   i    a     
 FAEZAL RAHADY NUGROHO                                                                                     80                                         80
 FARREL AKBAR ANANDA SULISTYO                       a        K                                             80               a     a                    80
 FITRA SAHADEWA HARTONO                                                                                    80                                          80
-ILHAM FATCHUR RACHMAN                   i            K    o    ldks                                                                                   80
-INDAH APRILIA VIDYANINGRUM               a    i                                                                                                       80
+ILHAM FATCHUR RACHMAN                   i            K    o    ldks                                                                                   80                 bantu pak setyo
+INDAH APRILIA VIDYANINGRUM               a    i                                                                                                       80                 
 M. ARDI KOES WARDANA              s                                                                               80                                  80
 MAULANA NOVAN FIRMANSYAH                 s                                                                80                                          80
 MOCH. ZAID QOMARUDDIN                                                                                     80                                          80      
 MOCH. ICHWAN MARSELO                    a      i     K      i                                               80                                        80
-MOCH. KHOIRUL ANAM                      s                                                                 80                                          80
+MOCH. KHOIRUL ANAM                      s                                                                 80                                          80                 s
 MOH. RIFKI LAFAIS                                                                                         80                                          80
 MUCHAMAT AKBAR AINUR RIZKY                                                                                80                                           80   
 MUHAMMAD FATKURROHMAN                                                                                     80                                           80    
@@ -99,9 +99,9 @@ RAHMAD HIDAYATULLOH                 a                    a                      
 RENDRA YASA ANANTA                  K                                                                      80                                         80               
 RENDY MARCELINO                         i     a   i   i   a            a                                                                              80
 RIJAL PRASETYO                          a       a                                                          80                                         80
-SALWA MYASHIRA MAHESA               k                                                                                                                 80
+SALWA MYASHIRA MAHESA               k                                                                                                                 80                 a
 SEPTIAN SAMSAN SAPUTRA                                                                                     80                                         80
-STEVE SEPTIAN PRAMADANA                i        O  o    ldks
+STEVE SEPTIAN PRAMADANA                i        O  o    ldks                                                                                                             bantu pak setyo
 YANUAR PUTRA HANDIKA                   s       i                                                                                                      80                                            
 mohammad farel aditya pasha             s      a
 AHMAD RANGGA ASYIFA                     i      a                                                           80         a                                 80
