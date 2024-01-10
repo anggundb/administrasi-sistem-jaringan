@@ -77,8 +77,8 @@ Perintah melihat file hidden (.):
 
 
 NAMA                                   I            S          A                ULANGAN(18/11/23)
-ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a     a      a
-ACHMAD MAULANA FIRMANSYAH                s         s                                    S                         a
+ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a     a      a          a
+ACHMAD MAULANA FIRMANSYAH                s         s                                    S                         a                       i
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
 AKHMAD HAFIDZ FIRMANSYAH                a    a                          
@@ -86,32 +86,32 @@ ALEX HERMANSYAH                           (-)                      a
 ALFIN BAGUS SAPUTRA                       
 ANDHIKA ARYA SAMUDERA                                     
 ANDIKA PUTRA PRATAMA                   i        o  o        ldks                                                 osis          
-ANGGA                                  i
+ANGGA                                  i                                                                                                  a
 ANUGRAH DAFA ARISANDI                  
-BAGUS BHAKTIAR ARDIANSYAH          o    o                 ldks                                                   osis    
+BAGUS BHAKTIAR ARDIANSYAH          o    o                 ldks                                                   osis                     i
 DENI PURWANTO                                     s                   
-EGA DANANG SETYAWAN                       a        a                                   Alfa
+EGA DANANG SETYAWAN                       a        a                                   Alfa                                               a
 FADKHULI NIZAM HABIBI                   
-FIKRI ARDINSYAH SAPUTRA                           i          (-)      
+FIKRI ARDINSYAH SAPUTRA                           i          (-)                                                                          telat
 IKMAL CHULAIFI PRADITYA                   s    s                                                                  a
 IRVAN BAGUS SETIAWAN                             s     s                                                          a
 MOCH. ALDIANO ABIGAIL EFFENDI                    s                                                                a
-MOCH. ARIF AFANDI                                s      a   s
+MOCH. ARIF AFANDI                                s      a   s                                                                             a
 MOCH. RIZAL ZAMANI                      
 MOCH. SYAIFUDDIN MUBAROQ                          (-)                                                             a
-MOCH. ZHIDAN ZAKARIYAH                            a   (-)
-MOHAMMAD HARIS SAHAN                o      o        ldks                                                          osis
+MOCH. ZHIDAN ZAKARIYAH                            a   (-)                                                                                 telat 
+MOHAMMAD HARIS SAHAN                o      o        ldks                                                          osis    
 MUHAMMAD FAREL PRASETYA                                                                 Alfa                      a
-MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks                I                        osis
+MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks                I                        osis                    bantu pak setyo
 MUHAMMAD HUSAINI RIDWAN                  o   o     ldks                                                           osis
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH       
 MUHAMMAD SAMANUDIN ILHAM                           s        
 NANDA RIZKY SAPUTRA             o        o                ldks                            I                       osis
 NAYAKA APTA RABBANI               o       o               ldks                                                    osis
-RIDHO ARFIANTO ARFAN LIMATAHU                       (-)
+RIDHO ARFIANTO ARFAN LIMATAHU                       (-)                                                                                   a           
 VAVIAN RIZZAL ARRIZKY                                                                                              a                
 WILDAN KHOIRUL PRATAMA                                                                                             a
-YUSUF ABDUL DJALIL                                 a   (-)    a                           I
+YUSUF ABDUL DJALIL                                 a   (-)    a                           I                                               (S) kecelakaan
 
 
 
