@@ -70,7 +70,7 @@ solusi name resolution
 
 
 
-NAMA                                    I               S                    A                         Tugas FreeNAS   ULANGAN(16/11/23)          Tugas Docker
+NAMA                                    I               S                    A                         Tugas FreeNAS   ULANGAN(16/11/23)          Tugas Docker                              Cisco (DNS, Web, DHCP)   
 AHMAD RAFLY PUTRA IRAWAN                   a                                                              80                                         80         a     
 AL MALIK BRILLIANT NDARU AKBAR                                                                            80                                         80
 ALIF SALMAN FIRMANSYAH                                                                                    80            
@@ -83,7 +83,7 @@ FARREL AKBAR ANANDA SULISTYO                       a        K                   
 FITRA SAHADEWA HARTONO                                                                                    80                                          80
 ILHAM FATCHUR RACHMAN                   i            K    o    ldks                                                                                   80                 bantu pak setyo
 INDAH APRILIA VIDYANINGRUM               a    i                                                                                                       80                 
-M. ARDI KOES WARDANA              s                                                                               80                                  80
+M. ARDI KOES WARDANA              s                                                                               80                                  80                                      80
 MAULANA NOVAN FIRMANSYAH                 s                                                                80                                          80
 MOCH. ZAID QOMARUDDIN                                                                                     80                                          80      
 MOCH. ICHWAN MARSELO                    a      i     K      i                                               80                                        80
