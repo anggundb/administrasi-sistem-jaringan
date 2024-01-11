@@ -77,7 +77,7 @@ Perintah melihat file hidden (.):
 
 
 NAMA                                   I            S          A                ULANGAN(18/11/23)
-ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a     a      a          a
+ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a     a      a          a      a
 ACHMAD MAULANA FIRMANSYAH                s         s                                    S                         a                       i
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
@@ -108,10 +108,10 @@ MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH
 MUHAMMAD SAMANUDIN ILHAM                           s        
 NANDA RIZKY SAPUTRA             o        o                ldks                            I                       osis
 NAYAKA APTA RABBANI               o       o               ldks                                                    osis
-RIDHO ARFIANTO ARFAN LIMATAHU                       (-)                                                                                   a           
+RIDHO ARFIANTO ARFAN LIMATAHU                       (-)                                                                                   a             a      
 VAVIAN RIZZAL ARRIZKY                                                                                              a                
 WILDAN KHOIRUL PRATAMA                                                                                             a
-YUSUF ABDUL DJALIL                                 a   (-)    a                           I                                               (S) kecelakaan
+YUSUF ABDUL DJALIL                                 a   (-)    a                           I                                               (S) kecelakaan  s
 
 
 
