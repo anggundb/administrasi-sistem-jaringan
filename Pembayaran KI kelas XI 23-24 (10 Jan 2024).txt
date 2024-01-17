@@ -89,3 +89,4 @@ Angsuran XII (3/1/2024): 2.200.000 + 390.000 (tf) + 290.000 (tf)
 Angsuran XIII (5/1/2024): 1.180.000 + 390.000 (tf)
 Angsuran XIV (10/1/2024) : 1.070.000
 Angsuran XV (13/1/2024): 880.000
+Angsuran ke XVI (17/1/2024): 300.000
