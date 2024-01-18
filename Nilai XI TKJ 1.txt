@@ -77,7 +77,7 @@ Perintah melihat file hidden (.):
 
 
 NAMA                                   I            S          A                ULANGAN(18/11/23)
-ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a     a      a          a      a
+ACHMAD ANDHIKA PRATAMA                                        (-)  a                    I                         a     a      a          a      a     a
 ACHMAD MAULANA FIRMANSYAH                s         s                                    S                         a                       i
 ACHMAD RIFADI                             
 AIDIL OKTAVIAN                            
@@ -90,16 +90,16 @@ ANGGA                                  i                                        
 ANUGRAH DAFA ARISANDI                  
 BAGUS BHAKTIAR ARDIANSYAH          o    o                 ldks                                                   osis                     i
 DENI PURWANTO                                     s                   
-EGA DANANG SETYAWAN                       a        a                                   Alfa                                               a
+EGA DANANG SETYAWAN                       a        a                                   Alfa                                               a            a
 FADKHULI NIZAM HABIBI                   
-FIKRI ARDINSYAH SAPUTRA                           i          (-)                                                                          telat
+FIKRI ARDINSYAH SAPUTRA                           i          (-)                                                                          telat        a
 IKMAL CHULAIFI PRADITYA                   s    s                                                                  a
 IRVAN BAGUS SETIAWAN                             s     s                                                          a
 MOCH. ALDIANO ABIGAIL EFFENDI                    s                                                                a
 MOCH. ARIF AFANDI                                s      a   s                                                                             a
 MOCH. RIZAL ZAMANI                      
-MOCH. SYAIFUDDIN MUBAROQ                          (-)                                                             a
-MOCH. ZHIDAN ZAKARIYAH                            a   (-)                                                                                 telat 
+MOCH. SYAIFUDDIN MUBAROQ                          (-)                                                             a                                    a
+MOCH. ZHIDAN ZAKARIYAH                            a   (-)                                                                                 telat        a
 MOHAMMAD HARIS SAHAN                o      o        ldks                                                          osis    
 MUHAMMAD FAREL PRASETYA                                                                 Alfa                      a
 MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA           i         o  o    ldks                I                        osis                    bantu pak setyo
@@ -111,7 +111,7 @@ NAYAKA APTA RABBANI               o       o               ldks                  
 RIDHO ARFIANTO ARFAN LIMATAHU                       (-)                                                                                   a             a      
 VAVIAN RIZZAL ARRIZKY                                                                                              a                
 WILDAN KHOIRUL PRATAMA                                                                                             a
-YUSUF ABDUL DJALIL                                 a   (-)    a                           I                                               (S) kecelakaan  s
+YUSUF ABDUL DJALIL                                 a   (-)    a                           I                                               (S) kecelakaan  s   s
 
 
 
