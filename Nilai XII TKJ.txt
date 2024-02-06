@@ -117,3 +117,6 @@ FARHAN
 
 
 https://endriskanet.blogspot.com/2017/06/create-ct-container-in-proxmox.html
+
+https://www.niagahoster.co.id/blog/cara-mengaktifkan-telnet/#:~:text=Buka%20menu%20Run%20dengan%20menekan,dan%20Anda%20siap%20menggunakan%20Telnet.
+https://mikrotik.co.id/artikel/491/
