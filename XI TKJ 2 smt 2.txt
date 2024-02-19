@@ -15,8 +15,8 @@ M. ARDI KOES WARDANA                                          85
 MAULANA NOVAN FIRMANSYAH                 80       
 MOCH. ZAID QOMARUDDIN                    80
 MOCH. ICHWAN MARSELO               
-MOCH. KHOIRUL ANAM                       80                < subnetting
-MOH. RIFKI LAFAIS                        80
+MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing
+MOH. RIFKI LAFAIS                        80                < subnetting
 MUCHAMAT AKBAR AINUR RIZKY               80
 MUHAMMAD FATKURROHMAN           
 MUHAMMAD GHARY AL BAIHAQI                80
