@@ -1,4 +1,4 @@
-NAMA                                    Tugas Buku                          
+NAMA                                    Tugas Buku     Static Routing Cisco                     
 AHMAD RAFLY PUTRA IRAWAN                    
 AL MALIK BRILLIANT NDARU AKBAR    
 ALIF SALMAN FIRMANSYAH                   80
@@ -11,7 +11,7 @@ FARREL AKBAR ANANDA SULISTYO             80
 FITRA SAHADEWA HARTONO                   80
 ILHAM FATCHUR RACHMAN                    80
 INDAH APRILIA VIDYANINGRUM               80
-M. ARDI KOES WARDANA              
+M. ARDI KOES WARDANA                                          85
 MAULANA NOVAN FIRMANSYAH                 80       
 MOCH. ZAID QOMARUDDIN                    80
 MOCH. ICHWAN MARSELO               
