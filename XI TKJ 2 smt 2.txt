@@ -2,7 +2,7 @@ NAMA                                    Tugas Buku     Static Routing Cisco
 AHMAD RAFLY PUTRA IRAWAN                    
 AL MALIK BRILLIANT NDARU AKBAR    
 ALIF SALMAN FIRMANSYAH                   80
-BAGAS PRASETYO WIBOWO              
+BAGAS PRASETYO WIBOWO                    80
 DANA ABDU RODZAQ                         80
 DAVA HAIDAR EKA EMRIZA                   80
 DICKY RAHMAD DANI                          
