@@ -1,7 +1,7 @@
 NILAI PRAKTIK 
 -------------------------------------------
 NAMA                            Tugas LKS 
-ABIANS NANCY GARCIA.            
+ABIANS NANCY GARCIA.                       a
 ACHMAD FATONI.                  
 AL-FATH AGUNG PANGESTU             80
 BINTANG ARYA FIARDILLAH         
@@ -11,7 +11,7 @@ FAREL ADITYA PRATAMA
 FERI ALDI.                      
 GALIH FAJAR PRASETYO JATI.     
 HAPPY BAGUS PRATAMA                80
-IZAZ ISLAM AL MUSTHOFA           
+IZAZ ISLAM AL MUSTHOFA                     a
 KEVIN EGA ARSYA FIRMANSYAH         80
 M. FAJAR PRADIFA                   80
 M. HAIKAL HAQQUEL YAQIN AHRIF      80
@@ -21,9 +21,9 @@ MAULANA FIRMANSYAH.
 MOH. ZAHID                         80
 MOHAMAD AMZAR RENDY PRAMUDJI.   
 MUHAMMAD ATTAR REVALDO_            80
-MUHAMMAD FALDI MAULANA.                                                                                                                   
-MUHAMMAD FERDI HASAN UDIN        
-MUHAMMAD NAUFAL AZIZI           
+MUHAMMAD FALDI MAULANA.                     a                                                                                              
+MUHAMMAD FERDI HASAN UDIN                   a
+MUHAMMAD NAUFAL AZIZI                       
 MUHAMMAD NUR KOWI                  80
 RADYTIA DIAS PRATAMA               80
 RAFI ADIKA PRATAMA                 80
