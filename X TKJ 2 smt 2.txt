@@ -1,9 +1,9 @@
 NILAI PRAKTIK 
 -------------------------------------------
-NAMA                            Tugas LKS       
-ABIANS NANCY GARCIA.                       a
+NAMA                            Tugas LKS        presentasi smart home cisco
+ABIANS NANCY GARCIA.                       a       
 ACHMAD FATONI.                  
-AL-FATH AGUNG PANGESTU             80
+AL-FATH AGUNG PANGESTU             80                     85
 BINTANG ARYA FIARDILLAH         
 DARIEL ABDIEL AKBAR R.S        
 DESTRA SATRIA HARTONO              80
@@ -12,10 +12,10 @@ FERI ALDI.
 GALIH FAJAR PRASETYO JATI.     
 HAPPY BAGUS PRATAMA                80
 IZAZ ISLAM AL MUSTHOFA                     a
-KEVIN EGA ARSYA FIRMANSYAH         80
+KEVIN EGA ARSYA FIRMANSYAH         80                     85
 M. FAJAR PRADIFA                   80
-M. HAIKAL HAQQUEL YAQIN AHRIF      80
-M. RIZKY MAULIDAN              
+M. HAIKAL HAQQUEL YAQIN AHRIF      80                     85 
+M. RIZKY MAULIDAN                                         85
 M. SYUKRON IQBALI                  80
 MAULANA FIRMANSYAH.            
 MOH. ZAHID                         80
@@ -29,7 +29,7 @@ RADYTIA DIAS PRATAMA               80
 RAFI ADIKA PRATAMA                 80
 REYHAN DEFANDA.                  
 ROZZAQUL MUBAROK FAKHRUDDIN.     
-VIDO AIDIL SAPUTRA.                80  
+VIDO AIDIL SAPUTRA.                80                    85
 
 
 
