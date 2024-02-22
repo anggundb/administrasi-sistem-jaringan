@@ -13,14 +13,14 @@ ILHAM FATCHUR RACHMAN                    80
 INDAH APRILIA VIDYANINGRUM               80
 M. ARDI KOES WARDANA                                          85
 MAULANA NOVAN FIRMANSYAH                 80       
-MOCH. ZAID QOMARUDDIN                    80
+MOCH. ZAID QOMARUDDIN                    80                              a
 MOCH. ICHWAN MARSELO                                          *
-MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing  75
+MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing  75   i
 MOH. RIFKI LAFAIS                        80                < subnetting            < static routing  75
 MUCHAMAT AKBAR AINUR RIZKY               80
 MUHAMMAD FATKURROHMAN                                          *
 MUHAMMAD GHARY AL BAIHAQI                80                    *
-MUHAMMAT FIRDAUS                         80 
+MUHAMMAT FIRDAUS                         80                              a       
 NAZAR JALALLUDIN                         80                    -
 RAHMAD HIDAYATULLOH                                    i       *
 RENDRA YASA ANANTA                       80    
@@ -29,6 +29,6 @@ RIJAL PRASETYO                           80                   *
 SALWA MYASHIRA MAHESA                    80 
 SEPTIAN SAMSAN SAPUTRA                   80
 STEVE SEPTIAN PRAMADANA       
-YANUAR PUTRA HANDIKA                     80                          
-mohammad farel aditya pasha              80
-AHMAD RANGGA ASYIFA                      80
+YANUAR PUTRA HANDIKA                     80                               s
+mohammad farel aditya pasha              80                               a
+AHMAD RANGGA ASYIFA                      80                        
