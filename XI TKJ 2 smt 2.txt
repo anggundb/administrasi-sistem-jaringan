@@ -7,14 +7,14 @@ DANA ABDU RODZAQ                         80
 DAVA HAIDAR EKA EMRIZA                   80
 DICKY RAHMAD DANI                          
 FAEZAL RAHADY NUGROHO                    80                  85
-FARREL AKBAR ANANDA SULISTYO             80
+FARREL AKBAR ANANDA SULISTYO             80                     s
 FITRA SAHADEWA HARTONO                   80
 ILHAM FATCHUR RACHMAN                    80
 INDAH APRILIA VIDYANINGRUM               80
 M. ARDI KOES WARDANA                                          85
 MAULANA NOVAN FIRMANSYAH                 80       
 MOCH. ZAID QOMARUDDIN                    80                              a
-MOCH. ICHWAN MARSELO                                          *
+MOCH. ICHWAN MARSELO                                          *          i
 MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing  75   i
 MOH. RIFKI LAFAIS                        80                < subnetting            < static routing  75
 MUCHAMAT AKBAR AINUR RIZKY               80
@@ -30,5 +30,5 @@ SALWA MYASHIRA MAHESA                    80
 SEPTIAN SAMSAN SAPUTRA                   80
 STEVE SEPTIAN PRAMADANA       
 YANUAR PUTRA HANDIKA                     80                               s
-mohammad farel aditya pasha              80                               a
-AHMAD RANGGA ASYIFA                      80                        
+mohammad farel aditya pasha              80                               a   a
+AHMAD RANGGA ASYIFA                      80                               a
