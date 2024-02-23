@@ -1,34 +1,34 @@
 NAMA                                    Tugas Buku     Static Routing Cisco                     
-AHMAD RAFLY PUTRA IRAWAN                    
+AHMAD RAFLY PUTRA IRAWAN                                     **
 AL MALIK BRILLIANT NDARU AKBAR    
 ALIF SALMAN FIRMANSYAH                   80
 BAGAS PRASETYO WIBOWO                    80                  85
 DANA ABDU RODZAQ                         80
-DAVA HAIDAR EKA EMRIZA                   80
+DAVA HAIDAR EKA EMRIZA                   80                  **
 DICKY RAHMAD DANI                          
 FAEZAL RAHADY NUGROHO                    80                  85
 FARREL AKBAR ANANDA SULISTYO             80                     s
 FITRA SAHADEWA HARTONO                   80                  85 
-ILHAM FATCHUR RACHMAN                    80
+ILHAM FATCHUR RACHMAN                    80                  **
 INDAH APRILIA VIDYANINGRUM               80
 M. ARDI KOES WARDANA                                          85
-MAULANA NOVAN FIRMANSYAH                 80       
+MAULANA NOVAN FIRMANSYAH                 80                   **   
 MOCH. ZAID QOMARUDDIN                    80                              a
 MOCH. ICHWAN MARSELO                                          *          i
 MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing  75   i
 MOH. RIFKI LAFAIS                        80                < subnetting            < static routing  75
-MUCHAMAT AKBAR AINUR RIZKY               80
+MUCHAMAT AKBAR AINUR RIZKY               80                   **
 MUHAMMAD FATKURROHMAN                                          *
 MUHAMMAD GHARY AL BAIHAQI                80                    *
 MUHAMMAT FIRDAUS                         80                              a       
 NAZAR JALALLUDIN                         80                    -
 RAHMAD HIDAYATULLOH                                    i       *
-RENDRA YASA ANANTA                       80    
+RENDRA YASA ANANTA                       80                   *  
 RENDY MARCELINO                          80                   *
 RIJAL PRASETYO                           80                   *
 SALWA MYASHIRA MAHESA                    80 
-SEPTIAN SAMSAN SAPUTRA                   80
-STEVE SEPTIAN PRAMADANA       
+SEPTIAN SAMSAN SAPUTRA                   80                   **
+STEVE SEPTIAN PRAMADANA                                       **
 YANUAR PUTRA HANDIKA                     80                               s
 mohammad farel aditya pasha              80                               a   a
 AHMAD RANGGA ASYIFA                      80                               a
