@@ -1,7 +1,7 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
 NAMA                                  static routing cisco
-ACHMAD ANDHIKA PRATAMA           
+ACHMAD ANDHIKA PRATAMA                   out
 ACHMAD MAULANA FIRMANSYAH        
 ACHMAD RIFADI                    
 AIDIL OKTAVIAN                   
@@ -23,7 +23,7 @@ MOCH. ALDIANO ABIGAIL EFFENDI
 MOCH. ARIF AFANDI              
 MOCH. RIZAL ZAMANI                         75      
 MOCH. SYAIFUDDIN MUBAROQ         
-MOCH. ZHIDAN ZAKARIYAH          
+MOCH. ZHIDAN ZAKARIYAH          *
 MOHAMMAD HARIS SAHAN                       85
 MUHAMMAD FAREL PRASETYA         
 MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75
