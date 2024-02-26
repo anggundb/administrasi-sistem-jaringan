@@ -7,12 +7,12 @@ AFRILIAN INSAN SAPUTRA                     85+
 AKMAD MALIKI ABDULLAH                       
 ANDHIKA TRI JULIANTO.
 ANDRIYAN DWI UTOMO SETIAWAN.                
-ARIF BUDIYONO                               
+ARIF BUDIYONO                              85                           
 ARIZA DIAZ MAULANA
 BAGAS AFRIYANSAH.                            
 BILLY FEBRINO PRATAMA.
 CHAMDAN ARDANI MEYCHURIZALI                  
-DANANG GIRI PRAYOGA                         85                  
+DANANG GIRI PRAYOGA                         85+                  
 DARRYL DAVID MORENO                          
 DIMAS ADAMSON AL GHONY.                      
 DIMAS GALIH PRASTYO                          
@@ -21,7 +21,7 @@ DONI IRWAN ANGGA JAYA                       85
 EZY NANDA GILINDRA WARDANA.                  
 GALANG SAPUTRA                               
 HASYIM AZHARI                                
-IBRAHIM ADI WIDYADANA                       85        
+IBRAHIM ADI WIDYADANA                       85+        
 IKHSYID ZUFARUTO RIANGGARA                   
 IVAN FERDIANANTA (Keluar)
 MAULANA BAGUS FADILLA.                       
@@ -31,5 +31,5 @@ MOH. TEGAR FERDI DANUARTA.
 MUHAMMAD CHENG HOO                           85
 MUHAMMAD FARID RIDWAN                        85
 MUHAMMAD HABHYB FADHILAH.                      
-RASYA WAFIUDDIN MUAZZAM                        
+RASYA WAFIUDDIN MUAZZAM                      85+   
 VINCENTIUS SEPTIMUS KINARYA NUGRAHA            
