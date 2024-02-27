@@ -2,28 +2,28 @@ NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
 NAMA                                  static routing cisco
 ACHMAD ANDHIKA PRATAMA                   out
-ACHMAD MAULANA FIRMANSYAH        
-ACHMAD RIFADI                    
-AIDIL OKTAVIAN                   
+ACHMAD MAULANA FIRMANSYAH                  65
+ACHMAD RIFADI                              65
+AIDIL OKTAVIAN                             85
 AKHMAD HAFIDZ FIRMANSYAH                   75     
-ALEX HERMANSYAH                 
+ALEX HERMANSYAH                            65
 ALFIN BAGUS SAPUTRA                        85
 ANDHIKA ARYA SAMUDERA                      85 
 ANDIKA PUTRA PRATAMA                       85         i
 ANGGA                                                a
 ANUGRAH DAFA ARISANDI                      85
 BAGUS BHAKTIAR ARDIANSYAH                  85        i
-DENI PURWANTO                                                                                                                                                  
-EGA DANANG SETYAWAN             
+DENI PURWANTO                              65                                                                                                                    
+EGA DANANG SETYAWAN                        65
 FADKHULI NIZAM HABIBI                      85
-FIKRI ARDINSYAH SAPUTRA          
-IKMAL CHULAIFI PRADITYA                              a
+FIKRI ARDINSYAH SAPUTRA                    65
+IKMAL CHULAIFI PRADITYA                    65        a
 IRVAN BAGUS SETIAWAN                       55
-MOCH. ALDIANO ABIGAIL EFFENDI  
+MOCH. ALDIANO ABIGAIL EFFENDI              80
 MOCH. ARIF AFANDI              
 MOCH. RIZAL ZAMANI                         75      
-MOCH. SYAIFUDDIN MUBAROQ         
-MOCH. ZHIDAN ZAKARIYAH          *
+MOCH. SYAIFUDDIN MUBAROQ                   65
+MOCH. ZHIDAN ZAKARIYAH          *          65
 MOHAMMAD HARIS SAHAN                       85         i
 MUHAMMAD FAREL PRASETYA                               a
 MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i
@@ -32,7 +32,7 @@ MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH         85
 MUHAMMAD SAMANUDIN ILHAM                   85      
 NANDA RIZKY SAPUTRA                        85         i
 NAYAKA APTA RABBANI                        85         i
-RIDHO ARFIANTO ARFAN LIMATAHU      
+RIDHO ARFIANTO ARFAN LIMATAHU              60
 VAVIAN RIZZAL ARRIZKY             
 WILDAN KHOIRUL PRATAMA            
 YUSUF ABDUL DJALIL                
