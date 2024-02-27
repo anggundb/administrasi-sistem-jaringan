@@ -1,6 +1,6 @@
 NILAI PRAKTEK ADMINISTRASI SISTEM JARINGAN (2023/2024)
 ------------------------------------------------
-NAMA                              Tugas Buku
+NAMA                              Tugas Buku      lat. ukk
 ADAM ARRASYDI AKBAR                80
 BAYU RAMADHANI                     80
 ALVIN FADHLI RAMADHANI             80
@@ -15,7 +15,7 @@ EDO FISABILILLAH
 EFRILLIAN ARTHA NUSANTARA ISMI     
 ERI ADITYA PUTRA                    80
 FARHAN YUSLI SAPUTRA               
-HILMAN RIFKI HARYADI                80
+HILMAN RIFKI HARYADI                80                    80
 ILHAM DWITARAMA PRAYITNO          
 INDI ANGGRIANI                    
 IRHAN AFFANDI                       80
@@ -32,7 +32,7 @@ MUHAMMAD SYIHABUL IRFAN             80
 MUHAMMAD WILDAN FAUZI (KELUAR)       
 NAYLA DISSI WAHYU UTAMI            
 NEO LAKSA WIJAYA                    80
-NIZHOM FAWAZ YASIR AL YAZID         80
+NIZHOM FAWAZ YASIR AL YAZID         80                    80
 RIAN HIDAYAT                        80
 RUBEN HASIHOLAND SIMATUPANG         80  
 SATRIA BIMA ADDIN                   
