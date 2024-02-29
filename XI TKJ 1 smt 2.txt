@@ -10,7 +10,7 @@ ALEX HERMANSYAH                            65
 ALFIN BAGUS SAPUTRA                        85
 ANDHIKA ARYA SAMUDERA                      85 
 ANDIKA PUTRA PRATAMA                       85         i
-ANGGA                                                a
+ANGGA                                      65          a
 ANUGRAH DAFA ARISANDI                      85
 BAGUS BHAKTIAR ARDIANSYAH                  85        i
 DENI PURWANTO                              65                                                                                                                    
@@ -25,7 +25,7 @@ MOCH. RIZAL ZAMANI                         75
 MOCH. SYAIFUDDIN MUBAROQ                   65
 MOCH. ZHIDAN ZAKARIYAH          *          65
 MOHAMMAD HARIS SAHAN                       85         i
-MUHAMMAD FAREL PRASETYA                               a
+MUHAMMAD FAREL PRASETYA                    60           a
 MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i
 MUHAMMAD HUSAINI RIDWAN                    85         i
 MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH         85
@@ -33,6 +33,6 @@ MUHAMMAD SAMANUDIN ILHAM                   85
 NANDA RIZKY SAPUTRA                        85         i
 NAYAKA APTA RABBANI                        85         i
 RIDHO ARFIANTO ARFAN LIMATAHU              60
-VAVIAN RIZZAL ARRIZKY             
-WILDAN KHOIRUL PRATAMA            
-YUSUF ABDUL DJALIL                
+VAVIAN RIZZAL ARRIZKY                      65
+WILDAN KHOIRUL PRATAMA                     65
+YUSUF ABDUL DJALIL                         60
