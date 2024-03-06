@@ -1,38 +1,38 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
-NAMA                                  static routing cisco
+NAMA                                  static routing cisco   Tugas Static Routing 5R
 ACHMAD ANDHIKA PRATAMA                   out
 ACHMAD MAULANA FIRMANSYAH                  65
-ACHMAD RIFADI                              65
-AIDIL OKTAVIAN                             85
-AKHMAD HAFIDZ FIRMANSYAH                   75     
+ACHMAD RIFADI                              65                         70
+AIDIL OKTAVIAN                             85                        70
+AKHMAD HAFIDZ FIRMANSYAH                   75                         70
 ALEX HERMANSYAH                            65
-ALFIN BAGUS SAPUTRA                        85
-ANDHIKA ARYA SAMUDERA                      85 
-ANDIKA PUTRA PRATAMA                       85         i
-ANGGA                                      65          a
-ANUGRAH DAFA ARISANDI                      85
-BAGUS BHAKTIAR ARDIANSYAH                  85        i
+ALFIN BAGUS SAPUTRA                        85                         75
+ANDHIKA ARYA SAMUDERA                      85                         80
+ANDIKA PUTRA PRATAMA                       85         i               70
+ANGGA                                      65          a              70
+ANUGRAH DAFA ARISANDI                      85                         70
+BAGUS BHAKTIAR ARDIANSYAH                  85        i                100
 DENI PURWANTO                              65                                                                                                                    
 EGA DANANG SETYAWAN                        65
-FADKHULI NIZAM HABIBI                      85
+FADKHULI NIZAM HABIBI                      85                         70
 FIKRI ARDINSYAH SAPUTRA                    65
 IKMAL CHULAIFI PRADITYA                    65        a
 IRVAN BAGUS SETIAWAN                       55
-MOCH. ALDIANO ABIGAIL EFFENDI              80
-MOCH. ARIF AFANDI              
-MOCH. RIZAL ZAMANI                         75      
+MOCH. ALDIANO ABIGAIL EFFENDI              80                          70
+MOCH. ARIF AFANDI                                                      45              
+MOCH. RIZAL ZAMANI                         75                          70
 MOCH. SYAIFUDDIN MUBAROQ                   65
 MOCH. ZHIDAN ZAKARIYAH          *          65
-MOHAMMAD HARIS SAHAN                       85         i
-MUHAMMAD FAREL PRASETYA                    60           a
+MOHAMMAD HARIS SAHAN                       85         i                70
+MUHAMMAD FAREL PRASETYA                    60           a              45
 MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i
-MUHAMMAD HUSAINI RIDWAN                    85         i
-MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH         85
-MUHAMMAD SAMANUDIN ILHAM                   85      
-NANDA RIZKY SAPUTRA                        85         i
-NAYAKA APTA RABBANI                        85         i
+MUHAMMAD HUSAINI RIDWAN                    85         i               75
+MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH         85                         75
+MUHAMMAD SAMANUDIN ILHAM                   85                         80
+NANDA RIZKY SAPUTRA                        85         i               70
+NAYAKA APTA RABBANI                        85         i               70
 RIDHO ARFIANTO ARFAN LIMATAHU              60
-VAVIAN RIZZAL ARRIZKY                      65
-WILDAN KHOIRUL PRATAMA                     65
+VAVIAN RIZZAL ARRIZKY                      65                         70
+WILDAN KHOIRUL PRATAMA                     65                         70
 YUSUF ABDUL DJALIL                         60
