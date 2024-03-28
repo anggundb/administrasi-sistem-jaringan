@@ -1,7 +1,7 @@
 NAMA                                    Tugas Buku     Static Routing Cisco                               Tugas Static Routing
-AHMAD RAFLY PUTRA IRAWAN                                     75
+AHMAD RAFLY PUTRA IRAWAN                                     75                                                                           a
 AL MALIK BRILLIANT NDARU AKBAR                               70
-ALIF SALMAN FIRMANSYAH                   80                  *
+ALIF SALMAN FIRMANSYAH                   80                  *                                                                            a
 BAGAS PRASETYO WIBOWO                    80                  85
 DANA ABDU RODZAQ                         80
 DAVA HAIDAR EKA EMRIZA                   80                  85
@@ -9,7 +9,7 @@ DICKY RAHMAD DANI                                            *
 FAEZAL RAHADY NUGROHO                    80                  85
 FARREL AKBAR ANANDA SULISTYO             80                  65  s
 FITRA SAHADEWA HARTONO                   80                  85 
-ILHAM FATCHUR RACHMAN                    80                  85
+ILHAM FATCHUR RACHMAN                    80                  85                                                                          i
 INDAH APRILIA VIDYANINGRUM               80                   *                                                      30
 M. ARDI KOES WARDANA                                          85
 MAULANA NOVAN FIRMANSYAH                 80                   85   
@@ -18,20 +18,20 @@ MOCH. ICHWAN MARSELO                                          *          i    a
 MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing  75   i
 MOH. RIFKI LAFAIS                        80                < subnetting            < static routing  75
 MUCHAMAT AKBAR AINUR RIZKY               80                   85
-MUHAMMAD FATKURROHMAN                                         68
-MUHAMMAD GHARY AL BAIHAQI                80                   70
-MUHAMMAT FIRDAUS                         80                   *          a       
-NAZAR JALALLUDIN                         80                   68-
-RAHMAD HIDAYATULLOH                                    i      68
+MUHAMMAD FATKURROHMAN                                         68                                                                         i
+MUHAMMAD GHARY AL BAIHAQI                80                   70                                                                         a
+MUHAMMAT FIRDAUS                         80                   *          a                                                               a
+NAZAR JALALLUDIN                         80                   68-                                                                        a
+RAHMAD HIDAYATULLOH                                    i      68                                                                         a
 RENDRA YASA ANANTA                       80                   *  
-RENDY MARCELINO                          80                   70
-RIJAL PRASETYO                           80                   75
+RENDY MARCELINO                          80                   70                                                                         s
+RIJAL PRASETYO                           80                   75                                                                         s
 SALWA MYASHIRA MAHESA                    80                   68
 SEPTIAN SAMSAN SAPUTRA                   80                   75
-STEVE SEPTIAN PRAMADANA                                       75
+STEVE SEPTIAN PRAMADANA                                       75                                                                         i
 YANUAR PUTRA HANDIKA                     80                   *           s
-mohammad farel aditya pasha              80                               a   a
-AHMAD RANGGA ASYIFA                      80                               a   a
+mohammad farel aditya pasha              80                               a   a                                                          a
+AHMAD RANGGA ASYIFA                      80                               a   a                                                          a
 
 
 panggil satu per satu maju ke depan
