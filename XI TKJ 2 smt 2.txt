@@ -1,37 +1,37 @@
 NAMA                                    Tugas Buku     Static Routing Cisco                               Tugas Static Routing
-AHMAD RAFLY PUTRA IRAWAN                                     75                                                                           a
-AL MALIK BRILLIANT NDARU AKBAR                               70
-ALIF SALMAN FIRMANSYAH                   80                  *                                                                            a
-BAGAS PRASETYO WIBOWO                    80                  85
-DANA ABDU RODZAQ                         80
-DAVA HAIDAR EKA EMRIZA                   80                  85
-DICKY RAHMAD DANI                                            *
-FAEZAL RAHADY NUGROHO                    80                  85
-FARREL AKBAR ANANDA SULISTYO             80                  65  s
-FITRA SAHADEWA HARTONO                   80                  85 
-ILHAM FATCHUR RACHMAN                    80                  85                                                                          i
-INDAH APRILIA VIDYANINGRUM               80                   *                                                      30
-M. ARDI KOES WARDANA                                          85
-MAULANA NOVAN FIRMANSYAH                 80                   85   
-MOCH. ZAID QOMARUDDIN                    80                   75          a
-MOCH. ICHWAN MARSELO                                          *          i    a
-MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing  75   i
-MOH. RIFKI LAFAIS                        80                < subnetting            < static routing  75
-MUCHAMAT AKBAR AINUR RIZKY               80                   85
-MUHAMMAD FATKURROHMAN                                         68                                                                         i
-MUHAMMAD GHARY AL BAIHAQI                80                   70                                                                         a
-MUHAMMAT FIRDAUS                         80                   *          a                                                               a
-NAZAR JALALLUDIN                         80                   68-                                                                        a
-RAHMAD HIDAYATULLOH                                    i      68                                                                         a
-RENDRA YASA ANANTA                       80                   *  
-RENDY MARCELINO                          80                   70                                                                         s
-RIJAL PRASETYO                           80                   75                                                                         s
-SALWA MYASHIRA MAHESA                    80                   68
-SEPTIAN SAMSAN SAPUTRA                   80                   75
-STEVE SEPTIAN PRAMADANA                                       75                                                                         i
-YANUAR PUTRA HANDIKA                     80                   *           s
-mohammad farel aditya pasha              80                               a   a                                                          a
-AHMAD RANGGA ASYIFA                      80                               a   a                                                          a
+1. AHMAD RAFLY PUTRA IRAWAN                                     75                                                                           a
+2. AL MALIK BRILLIANT NDARU AKBAR                               70
+3. ALIF SALMAN FIRMANSYAH                   80                  *                                                                            a
+4. BAGAS PRASETYO WIBOWO                    80                  85
+5. DANA ABDU RODZAQ                         80
+6. DAVA HAIDAR EKA EMRIZA                   80                  85
+7. DICKY RAHMAD DANI                                            *
+8. FAEZAL RAHADY NUGROHO                    80                  85
+9. FARREL AKBAR ANANDA SULISTYO             80                  65  s
+10. FITRA SAHADEWA HARTONO                   80                  85 
+11. ILHAM FATCHUR RACHMAN                    80                  85                                                                          i
+12. INDAH APRILIA VIDYANINGRUM               80                   *                                                      30
+13. M. ARDI KOES WARDANA                                          85
+14. MAULANA NOVAN FIRMANSYAH                 80                   85   
+15. MOCH. ZAID QOMARUDDIN                    80                   75          a
+16. MOCH. ICHWAN MARSELO                                          *          i    a
+17. MOCH. KHOIRUL ANAM                       80                < subnetting < gateway  < static routing  75   i
+18. MOH. RIFKI LAFAIS                        80                < subnetting            < static routing  75
+19. MUCHAMAT AKBAR AINUR RIZKY               80                   85
+20. MUHAMMAD FATKURROHMAN                                         68                                                                         i
+21. MUHAMMAD GHARY AL BAIHAQI                80                   70                                                                         a
+22. MUHAMMAT FIRDAUS                         80                   *          a                                                               a
+23. NAZAR JALALLUDIN                         80                   68-                                                                        a
+24. RAHMAD HIDAYATULLOH                                    i      68                                                                         a
+25. RENDRA YASA ANANTA                       80                   *  
+26. RENDY MARCELINO                          80                   70                                                                         s
+27. RIJAL PRASETYO                           80                   75                                                                         s
+28. SALWA MYASHIRA MAHESA                    80                   68
+29. SEPTIAN SAMSAN SAPUTRA                   80                   75
+30. STEVE SEPTIAN PRAMADANA                                       75                                                                         i
+31. YANUAR PUTRA HANDIKA                     80                   *           s
+32. mohammad farel aditya pasha              80                               a   a                                                          a
+33. AHMAD RANGGA ASYIFA                      80                               a   a                                                          a
 
 
 panggil satu per satu maju ke depan
