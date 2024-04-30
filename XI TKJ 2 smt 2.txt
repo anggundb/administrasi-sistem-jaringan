@@ -1,5 +1,5 @@
 NAMA                                    Tugas Buku     Static Routing Cisco                               Tugas Static Routing
-1. AHMAD RAFLY PUTRA IRAWAN                                     75                                                                           a
+1. AHMAD RAFLY PUTRA IRAWAN                                     75                                                                           a      
 2. AL MALIK BRILLIANT NDARU AKBAR                               70
 3. ALIF SALMAN FIRMANSYAH                   80                  *                                                                            a
 4. BAGAS PRASETYO WIBOWO                    80                  85
@@ -20,7 +20,7 @@ NAMA                                    Tugas Buku     Static Routing Cisco     
 19. MUCHAMAT AKBAR AINUR RIZKY               80                   85
 20. MUHAMMAD FATKURROHMAN                                         68                                                                         i
 21. MUHAMMAD GHARY AL BAIHAQI                80                   70                                                                         a
-22. MUHAMMAT FIRDAUS                         80                   *          a                                                               a
+22. MUHAMMAT FIRDAUS                         80                   *          a                                                               a      a
 23. NAZAR JALALLUDIN                         80                   68-                                                                        a
 24. RAHMAD HIDAYATULLOH                                    i      68                                                                         a
 25. RENDRA YASA ANANTA                       80                   *  
@@ -31,7 +31,7 @@ NAMA                                    Tugas Buku     Static Routing Cisco     
 30. STEVE SEPTIAN PRAMADANA                                       75                                                                         i
 31. YANUAR PUTRA HANDIKA                     80                   *           s
 32. mohammad farel aditya pasha              80                               a   a                                                          a
-33. AHMAD RANGGA ASYIFA                      80                               a   a                                                          a
+33. AHMAD RANGGA ASYIFA                      80                               a   a                                                          a     a
 
 
 panggil satu per satu maju ke depan
