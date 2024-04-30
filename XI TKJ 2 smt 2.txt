@@ -1,8 +1,8 @@
-NAMA                                    Tugas Buku     Static Routing Cisco                               Tugas Static Routing                            Tugas Repeater
+NAMA                                    Tugas Buku     Static Routing Cisco                               Tugas Static Routing                            Tugas Repeater     Nilai
 1. AHMAD RAFLY PUTRA IRAWAN                                     75                                                                           a      
 2. AL MALIK BRILLIANT NDARU AKBAR                               70                                                                                           80
 3. ALIF SALMAN FIRMANSYAH                   80                  *                                                                            a               80
-4. BAGAS PRASETYO WIBOWO                    80                  85                                                                                           80
+4. BAGAS PRASETYO WIBOWO                    80                  85                                                                                           80     a
 5. DANA ABDU RODZAQ                         80
 6. DAVA HAIDAR EKA EMRIZA                   80                  85                                                                                           80
 7. DICKY RAHMAD DANI                                            *                                                                                            80
@@ -21,7 +21,7 @@ NAMA                                    Tugas Buku     Static Routing Cisco     
 20. MUHAMMAD FATKURROHMAN                                         68                                                                         i
 21. MUHAMMAD GHARY AL BAIHAQI                80                   70                                                                         a               80
 22. MUHAMMAT FIRDAUS                         80                   *          a                                                               a      a
-23. NAZAR JALALLUDIN                         80                   68-                                                                        a                80
+23. NAZAR JALALLUDIN                         80                   68-                                                                        a                80    a
 24. RAHMAD HIDAYATULLOH                                    i      68                                                                         a
 25. RENDRA YASA ANANTA                       80                   *                                                                                           80
 26. RENDY MARCELINO                          80                   70                                                                         s                80
