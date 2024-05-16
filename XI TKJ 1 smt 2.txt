@@ -12,7 +12,7 @@ ACHMAD ANDHIKA PRATAMA                   out
 8. ANDIKA PUTRA PRATAMA                       85         i               70
 9. ANGGA                                      65          a              70                    B
 10. ANUGRAH DAFA ARISANDI                      85                         70
-11. BAGUS BHAKTIAR ARDIANSYAH                  85        i                100                  B
+11. BAGUS BHAKTIAR ARDIANSYAH                  85        i                100                  B 100 (subnetting + VLAN)
 12. DENI PURWANTO                              65                                                                                                                    
 13. EGA DANANG SETYAWAN                        65                                              B
 14. FADKHULI NIZAM HABIBI                      85                         70
