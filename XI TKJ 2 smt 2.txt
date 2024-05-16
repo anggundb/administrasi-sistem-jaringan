@@ -65,7 +65,7 @@ panggil satu per satu maju ke depan
 24. RAHMAD HIDAYATULLOH                  
 25. RENDRA YASA ANANTA                          B                
 26. RENDY MARCELINO                      
-27. RIJAL PRASETYO                              B
+27. RIJAL PRASETYO                              B IP benar vlan salah
 28. SALWA MYASHIRA MAHESA                
 29. SEPTIAN SAMSAN SAPUTRA                      B
 30. STEVE SEPTIAN PRAMADANA             
