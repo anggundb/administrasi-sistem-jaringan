@@ -1,39 +1,39 @@
 NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
-NAMA                                  static routing cisco   Tugas Static Routing 5R
+NAMA                                  static routing cisco   Tugas Static Routing 5R     ULANGAN VLAN
 ACHMAD ANDHIKA PRATAMA                   out
-1. ACHMAD MAULANA FIRMANSYAH                  65
+1. ACHMAD MAULANA FIRMANSYAH                  65                                               A
 2. ACHMAD RIFADI                              65                         70
-3. AIDIL OKTAVIAN                             85                        70
+3. AIDIL OKTAVIAN                             85                        70                     B
 4. AKHMAD HAFIDZ FIRMANSYAH                   75                         70
-5. ALEX HERMANSYAH                            65
+5. ALEX HERMANSYAH                            65                                               A
 6. ALFIN BAGUS SAPUTRA                        85                         75
-7. ANDHIKA ARYA SAMUDERA                      85                         80
+7. ANDHIKA ARYA SAMUDERA                      85                         80                    B
 8. ANDIKA PUTRA PRATAMA                       85         i               70
-9. ANGGA                                      65          a              70
+9. ANGGA                                      65          a              70                    B
 10. ANUGRAH DAFA ARISANDI                      85                         70
-11. BAGUS BHAKTIAR ARDIANSYAH                  85        i                100
+11. BAGUS BHAKTIAR ARDIANSYAH                  85        i                100                  B
 12. DENI PURWANTO                              65                                                                                                                    
-13. EGA DANANG SETYAWAN                        65
+13. EGA DANANG SETYAWAN                        65                                              B
 14. FADKHULI NIZAM HABIBI                      85                         70
-15. FIKRI ARDINSYAH SAPUTRA                    65
+15. FIKRI ARDINSYAH SAPUTRA                    65                                              B
 16. IKMAL CHULAIFI PRADITYA                    65        a
-17. IRVAN BAGUS SETIAWAN                       55
+17. IRVAN BAGUS SETIAWAN                       55                                              B
 18. MOCH. ALDIANO ABIGAIL EFFENDI              80                          70
-19. MOCH. ARIF AFANDI                          65                           45              
+19. MOCH. ARIF AFANDI                          65                           45                 B            
 20. MOCH. RIZAL ZAMANI                         75                          70
-21. MOCH. SYAIFUDDIN MUBAROQ                   65
+21. MOCH. SYAIFUDDIN MUBAROQ                   65                                              A
 22. MOCH. ZHIDAN ZAKARIYAH          *          65
-23. MOHAMMAD HARIS SAHAN                       85         i                70
+23. MOHAMMAD HARIS SAHAN                       85         i                70                  B
 24. MUHAMMAD FAREL PRASETYA                    60           a              45
-25. MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i
+25. MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i                                    B
 26. MUHAMMAD HUSAINI RIDWAN                    85         i               100
-27. MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH         85                         75
+27. MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH         85                         75                   B
 28. MUHAMMAD SAMANUDIN ILHAM                   85                         80
-29. NANDA RIZKY SAPUTRA                        85         i               70
+29. NANDA RIZKY SAPUTRA                        85         i               70                   B
 30. NAYAKA APTA RABBANI                        85         i               70
-31. RIDHO ARFIANTO ARFAN LIMATAHU              60
+31. RIDHO ARFIANTO ARFAN LIMATAHU              60                                              B
 32. VAVIAN RIZZAL ARRIZKY                      65                         70
-33. WILDAN KHOIRUL PRATAMA                     65                         70
+33. WILDAN KHOIRUL PRATAMA                     65                         70                   B
 34. YUSUF ABDUL DJALIL                         60
-35. RAFI KUSUMA BHAGASKARA 
+35. RAFI KUSUMA BHAGASKARA                                                                     B
