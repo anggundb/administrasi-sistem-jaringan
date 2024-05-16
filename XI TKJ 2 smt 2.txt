@@ -51,7 +51,7 @@ panggil satu per satu maju ke depan
 10. FITRA SAHADEWA HARTONO                               
 11. ILHAM FATCHUR RACHMAN                       A                   
 12. INDAH APRILIA VIDYANINGRUM               
-13. M. ARDI KOES WARDANA                        B 100 No.1          
+13. M. ARDI KOES WARDANA                        B 100 No.1 (Subnetting + VLAN)         
 14. MAULANA NOVAN FIRMANSYAH               
 15. MOCH. ZAID QOMARUDDIN                       B                 
 16. MOCH. ICHWAN MARSELO                    
