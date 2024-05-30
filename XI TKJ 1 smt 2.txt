@@ -2,15 +2,15 @@ NILAI PRAKTEK DHCP SERVER DEBIAN 11 (2023/2024)
 ------------------------------------------------
 NAMA                                  static routing cisco   Tugas Static Routing 5R     ULANGAN VLAN
 ACHMAD ANDHIKA PRATAMA                   out
-1. ACHMAD MAULANA FIRMANSYAH                  65                                               A
-2. ACHMAD RIFADI                              65                         70                    B
-3. AIDIL OKTAVIAN                             85                        70                     B
-4. AKHMAD HAFIDZ FIRMANSYAH                   75                         70                    B
-5. ALEX HERMANSYAH                            65                                               A
-6. ALFIN BAGUS SAPUTRA                        85                         75                    B
-7. ANDHIKA ARYA SAMUDERA                      85                         80                    B  No 2
+1. ACHMAD MAULANA FIRMANSYAH                  65                                               A               a
+2. ACHMAD RIFADI                              65                         70                    B               10.10.20.45/25 cari networknya?
+3. AIDIL OKTAVIAN                             85                        70                     B               172.16.27.21/26 cari broadcastnya?
+4. AKHMAD HAFIDZ FIRMANSYAH                   75                         70                    B               10.10.20.45/25 cari rentang IP?
+5. ALEX HERMANSYAH                            65                                               A               172.16.27.21/26 cari networknya?
+6. ALFIN BAGUS SAPUTRA                        85                         75                    B               230.10.20.45/25 cari rentang IP?
+7. ANDHIKA ARYA SAMUDERA                      85                         80                    B  No 2         220.230.45.21/23 cari networknya?
 8. ANDIKA PUTRA PRATAMA                       85         i               70
-9. ANGGA                                      65          a              70                    B  No 3                (permasalahan masih banyak yg g bisa menentukan subnetting)
+9. ANGGA                                      65          a              70                    B  No 3                (permasalahan masih banyak yg g bisa menentukan subnetting)  220.230.45.21/23 cari broadcastnya?
 10. ANUGRAH DAFA ARISANDI                      85                         70
 11. BAGUS BHAKTIAR ARDIANSYAH                  85        i                100                  B 100 (subnetting + VLAN) No 1
 12. DENI PURWANTO                              65                                                                                                                    
