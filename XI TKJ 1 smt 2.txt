@@ -11,19 +11,19 @@ ACHMAD ANDHIKA PRATAMA                   out
 7. ANDHIKA ARYA SAMUDERA                      85                         80                    B  No 2         220.230.45.21/23 cari networknya?
 8. ANDIKA PUTRA PRATAMA                       85         i               70
 9. ANGGA                                      65          a              70                    B  No 3                (permasalahan masih banyak yg g bisa menentukan subnetting)  220.230.45.21/23 cari broadcastnya?
-10. ANUGRAH DAFA ARISANDI                      85                         70
+10. ANUGRAH DAFA ARISANDI                      85                         70                                   220.230.45.21/23 cari rentang IP nya?
 11. BAGUS BHAKTIAR ARDIANSYAH                  85        i                100                  B 100 (subnetting + VLAN) No 1
-12. DENI PURWANTO                              65                                                                                                                    
-13. EGA DANANG SETYAWAN                        65                                              B
-14. FADKHULI NIZAM HABIBI                      85                         70
-15. FIKRI ARDINSYAH SAPUTRA                    65                                              B
-16. IKMAL CHULAIFI PRADITYA                    65        a
-17. IRVAN BAGUS SETIAWAN                       55                                              B
-18. MOCH. ALDIANO ABIGAIL EFFENDI              80                          70
-19. MOCH. ARIF AFANDI                          65                           45                 B            
-20. MOCH. RIZAL ZAMANI                         75                          70
-21. MOCH. SYAIFUDDIN MUBAROQ                   65                                              A
-22. MOCH. ZHIDAN ZAKARIYAH          *          65
+12. DENI PURWANTO                              65                                                             192.168.23.68/27 cari broadcastnya?                                                         
+13. EGA DANANG SETYAWAN                        65                                              B              192.168.23.68/27 cari networknya?
+14. FADKHULI NIZAM HABIBI                      85                         70                                  192.168.23.68/27 cari rentang IP?
+15. FIKRI ARDINSYAH SAPUTRA                    65                                              B              a 
+16. IKMAL CHULAIFI PRADITYA                    65        a                                                    a
+17. IRVAN BAGUS SETIAWAN                       55                                              B              25.56.200.34/21 cari networknya?
+18. MOCH. ALDIANO ABIGAIL EFFENDI              80                          70                                 25.56.200.34/21 cari broadcastnya?
+19. MOCH. ARIF AFANDI                          65                           45                 B              25.56.200.34/21 cari rentang IPnya?
+20. MOCH. RIZAL ZAMANI                         75                          70                                 125.156.200.134/21 cari networknya?
+21. MOCH. SYAIFUDDIN MUBAROQ                   65                                              A              125.156.200.134/21 cari broadcastnya?
+22. MOCH. ZHIDAN ZAKARIYAH          *          65                                                             125.156.200.134/21 cari rentang IP nya?
 23. MOHAMMAD HARIS SAHAN                       85         i                70                  B
 24. MUHAMMAD FAREL PRASETYA                    60           a              45
 25. MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i                                    B
