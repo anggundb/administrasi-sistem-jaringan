@@ -25,15 +25,15 @@ ACHMAD ANDHIKA PRATAMA                   out
 21. MOCH. SYAIFUDDIN MUBAROQ                   65                                              A              125.156.200.134/21 cari broadcastnya?
 22. MOCH. ZHIDAN ZAKARIYAH          *          65                                                             125.156.200.134/21 cari rentang IP nya?
 23. MOHAMMAD HARIS SAHAN                       85         i                70                  B
-24. MUHAMMAD FAREL PRASETYA                    60           a              45
-25. MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i                                    B
-26. MUHAMMAD HUSAINI RIDWAN                    85         i               100
+24. MUHAMMAD FAREL PRASETYA                    60           a              45                                 a
+25. MUHAMMAD FARREL RIZQI PUTRA ISLAMI PASHA   75         i                                    B              150.45.67.56/22 cari networknya?
+26. MUHAMMAD HUSAINI RIDWAN                    85         i               100                                 150.45.67.56/22 cari broadcastnya?
 27. MUHAMMAD MIFTAHUL MUTTAQIEN BILLAH         85                         75                   B
-28. MUHAMMAD SAMANUDIN ILHAM                   85                         80
-29. NANDA RIZKY SAPUTRA                        85         i               70                   B No 4
-30. NAYAKA APTA RABBANI                        85         i               70
-31. RIDHO ARFIANTO ARFAN LIMATAHU              60                                              B
-32. VAVIAN RIZZAL ARRIZKY                      65                         70
-33. WILDAN KHOIRUL PRATAMA                     65                         70                   B
-34. YUSUF ABDUL DJALIL                         60
-35. RAFI KUSUMA BHAGASKARA                                                                     B
+28. MUHAMMAD SAMANUDIN ILHAM                   85                         80                                  150.45.67.56/22 cari rentang IPnya?
+29. NANDA RIZKY SAPUTRA                        85         i               70                   B No 4         23.88.78.41/28 cari networknya?
+30. NAYAKA APTA RABBANI                        85         i               70                                  23.88.78.41/28 cari broadcast ya?
+31. RIDHO ARFIANTO ARFAN LIMATAHU              60                                              B              11.11.11.11/28 cari network ya?
+32. VAVIAN RIZZAL ARRIZKY                      65                         70                                  23.88.78.41/28 cari rentang IP ya?
+33. WILDAN KHOIRUL PRATAMA                     65                         70                   B              110.210.11.11/28 cari network ya? 
+34. YUSUF ABDUL DJALIL                         60                                                             110.210.11.11/28 cari broadcast ya? 
+35. RAFI KUSUMA BHAGASKARA                                                                     B              110.210.11.11/28 cari rentang IP ya? 
