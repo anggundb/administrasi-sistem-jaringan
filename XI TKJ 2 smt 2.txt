@@ -36,8 +36,11 @@ NAMA                                    Tugas Buku     Static Routing Cisco     
 
 panggil satu per satu maju ke depan
 
-
-
+172.16.21.45/21 cari network?
+172.16.21.45/21 cari broadcast?
+172.16.21.45/21 cari rentang IP?
+34.160.21.45/21 cari network?
+34.160.21.45/21 cari rentang IP?
                                             ULANGAN VLAN
 1. AHMAD RAFLY PUTRA IRAWAN                     B               
 2. AL MALIK BRILLIANT NDARU AKBAR               B                
