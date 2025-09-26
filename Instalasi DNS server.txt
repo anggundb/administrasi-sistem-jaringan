@@ -53,6 +53,13 @@ Restart:
 # service bind9 restart
 # systemctl start bind9
 
+buka firewall untuk port 53
+# apt install ufw -y
+# /usr/sbin/ufw enable
+# /usr/sbin/ufw status
+# /usr/sbin/ufw allow 53/udp
+# /usr/sbin/ufw allow 53/tcp
+
 Pengujian:
 Atur Name Server Client (coba di server untuk cek)
 - Linux 
