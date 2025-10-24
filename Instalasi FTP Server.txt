@@ -35,6 +35,15 @@ Pengujian menggunakan FileZilla
 - Masukkan port (default 21)
 - Klik Quickconnect
 
+=== Status di FileZilla ===
+Status:	Connecting to 172.16.10.251:21...
+Status:	Connection established, waiting for welcome message...
+Status:	Insecure server, it does not support FTP over TLS.
+Status:	Server does not support non-ASCII characters.
+Status:	Logged in
+Status:	Starting upload of C:\Users\HP\Documents\bayar sope.png
+Status:	File transfer successful, transferred 168.904 bytes in 1 second
+
 Pengujian di browser firefox 88.0.1 (64-bit) atau internet explorer atau file explorer windows
 ketik ==> ftp://192.168.1.89/
 
