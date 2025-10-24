@@ -44,6 +44,14 @@ Status:	Logged in
 Status:	Starting upload of C:\Users\HP\Documents\bayar sope.png
 Status:	File transfer successful, transferred 168.904 bytes in 1 second
 
+Permasalahan di FileZilla :
+Command:	STOR bayar sope.png
+Response:	550 Permission denied.
+Error:	Critical file transfer error
+Solusi : 
+Restart ftp service in your server.
+# systemctl restart vsftpd
+
 Pengujian di browser firefox 88.0.1 (64-bit) atau internet explorer atau file explorer windows
 ketik ==> ftp://192.168.1.89/
 
